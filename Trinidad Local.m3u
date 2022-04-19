@@ -1,8 +1,0 @@
-#EXTINF:-1,TV6 - Trinidad
-https://live.field59.com/tv6/ngrp:tv61_all/playlist.m3u8
-#EXTINF:-1,CNC3 - Trinidad
-rtmp://live.cnc3.co.tt/livepkgr/livestream
-#EXTINF:-1,TTT - Trinidad
-http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
-#EXTINF:0 tvg-country="TT" tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="Religious",The Islamic Network
-http://162.244.81.145:2215/live/livestream/playlist.m3u8?checkedby:iptvcat.com
