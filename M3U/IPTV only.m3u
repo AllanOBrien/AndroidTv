@@ -720,3 +720,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:-1 group-title="STIRR USA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:0,USA WPIX 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:WPIX.smil/playlist.m3u8
