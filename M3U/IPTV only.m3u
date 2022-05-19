@@ -1,6 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3 TRINIDAD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
@@ -283,7 +283,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",E1
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/BTS_E1.png",E1
 http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1920px-TruTV_2014.svg.png",TRUTV
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
@@ -379,7 +379,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 http://mains.services:2086/dorec14/Chuckman5525$/98601
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-gvSm1kkq_qM/X0L3hft97VI/AAAAAAAABL4/s0P_lumasQEaLYLyOvH4wRYB43jH3xX1wCLcBGAsYHQ/w200-h200/167%2BMtv%2B2.png",MTV 2
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58068
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-oWicRJIPss0/X0L3iZXuExI/AAAAAAAABMA/goD2sTYwJp0av1C-b6fO4FOJ5MIidI2IACLcBGAsYHQ/w200-h200/197%2BMTV%2Bclass.png",MTV Classic
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58069
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-ABvWoB-_OYY/X0L3iCbn2NI/AAAAAAAABL8/zFBXrDplFwUI1oh_d80uhvzUaPCwF6SjgCLcBGAsYHQ/w200-h200/169%2BMtv%2Blive.png",MTV Live
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58066
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png",MTV U
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58070
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://ufdvgospel.com/wp-content/themes/ufdvgospel/images/logo.png",UFDV GOSPEL RADIO (JAMAICA)
 http://mains.services:2086/dorec14/Chuckman5525$/101167
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio | Reggae
@@ -532,6 +539,12 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58079
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-ZEig4_7hVlw/XzNOO7f_L-I/AAAAAAAAAqg/0LpD6NgeY9IHASVozL6D_MlnitADXQJeACLcBGAsYHQ/w200-h200/101%2BGinx%2Besports.png",Ginx eSports
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35818
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png",Gol TV
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65430
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png",MANS 1
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/69575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35803
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png",MSG
@@ -612,5 +625,33 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 http://mains.services:2086/dorec14/Chuckman5525$/303
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass
 http://mains.services:2086/dorec14/Chuckman5525$/99440
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sc.dish.com/shared/images/station-logos/wlxtr.png",WILLOWXTRA CRICKET
+http://mains.services:2086/gmen32/5770346/55997
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/6d65392fb8aeb5d1ba7dd4f0f4d60584.png",WNBA ATLANTA DREAM
+http://mains.services:2086/gmen32/5770346/99303
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/98dad6af831b84e4a1356af10a639e07.png",WNBA CHICAGO SKY
+http://mains.services:2086/gmen32/5770346/99304
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d807624e30f92f2387176d9d750612f1.png",WNBA CONNECTICUT SUN
+http://mains.services:2086/gmen32/5770346/99305
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/f444596ae85c882750cc611d150d0fe6.png",WNBA DALLAS WINGS
+http://mains.services:2086/gmen32/5770346/99309
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d00d54da6a4ca9a95f7aa2ca8919e5d3.png",WNBA INDIANA FEVER
+http://mains.services:2086/gmen32/5770346/99306
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/7d2265f62d1984a096177b68b6fcc184.png",WNBA LAS VEGAS ACES
+http://mains.services:2086/gmen32/5770346/99310
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/7486b37a087e0b0a16a62496dbb27dad.png",WNBA LOS ANGELES SPARKS
+http://mains.services:2086/gmen32/5770346/99311
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/5bd7a3fd22ec8d21921d31f79ef47547.png",WNBA MINNESOTA LYNX
+http://mains.services:2086/gmen32/5770346/99312
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/2be358c7e07f14efc350f6de5d15f993.png",WNBA NEW YORK LIBERTY
+http://mains.services:2086/gmen32/5770346/99307
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/00a9c6d50f1086d74084bcac75b17c1e.png",WNBA PHOENIX MERCURY
+http://mains.services:2086/gmen32/5770346/99313
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/078d4443ed8133f6993afc82c2eb2cfa.png",WNBA SEATTLE STORM
+http://mains.services:2086/gmen32/5770346/99314
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/6a36d56f79d882471e5009e7eae89a32.png",WNBA WASHINGTON MYSTICS
+http://mains.services:2086/gmen32/5770346/99308
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/ee510015f6b6800a49f0389c3aafc779.png",WORLD FISHING NETWORK
+http://mains.services:2086/gmen32/5770346/64020
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",YES NETWORK HD
 http://mains.services:2086/dorec14/Chuckman5525$/1673
