@@ -1,2 +1,8 @@
-#EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://ky-iptv.com:25461/xmltv.php?username=SNNM258&password=355665786&type=m3u_plus&output=m3u8"
+#EXTINF:-1 group-title="Demo" tvg-logo="https://i.imgur.com/1M4zMdC.png",Demo
+https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/Demo%20IPTV.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
+https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/Moonfall/Moonfall.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",The Batman
+https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/The%20Batman/The%20Batman.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Uncharted_Official_Poster.jpg",Uncharted
+https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/Uncharted/Uncharted.mp4
