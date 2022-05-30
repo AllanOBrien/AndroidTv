@@ -1,8 +1,40 @@
-#EXTINF:-1 group-title="Demo" tvg-logo="https://i.imgur.com/1M4zMdC.png",Demo
-https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/Demo%20IPTV.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",Ambulance
+https://s18.upstreamcdn.co/hls/w47rz7uydnb5x2nroy42qs5ykvqhirrmaiyc75cfdlmy7b2nnsminq2e6kzq/master.m3u8
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
-https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/Moonfall/Moonfall.mp4
+https://126.cloudvideo.tv/hls/,mfqjx7wftxo6sr7qw5eu5iil7bvibeo3h5dqs3yysoen27r7qhc5eo62a6na,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",Morbius
+https://0125.cloudvideo.tv/hls/,mfqjwfryqlo6sr7qw5ae57am5gzgw4xesuo42vrl7ijplm5lweyjnhrvquza,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg",Sonic the Hedgehog 2
+https://1ae4d9eebd.uloadcdn.com/streaming/-_ZCkFUYw0kue5lM7jW3BA/1654139885/62847e6510565/4f43e1fd68bdf2ce7f16d03a4639e026/9209b1d4f0c5/0/wiwi.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png",The Adam Project
+https://s93.upstreamcdn.co/hls/w47ryflpanb5x2nro2x2wwneb6pmntxocqernvo4jjdg4nfzyu55c7taooba/master.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/The_Bad_Guys_poster.jpeg",The Bad Guys
+https://126.cloudvideo.tv/hls/,mfqjxlzaqlo6sr7qw5au54avxqadesnsj6fhw7aedziw6dmxinu34k5kpu4a,.urlset/master.m3u8
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",The Batman
-https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/The%20Batman/The%20Batman.mp4
+https://162.cloudvideo.tv/hls/,mfqjr5estxo6sr7qw5gu5oaxxyunuvdlyl54p6i6jnzyppxbtbappnmf2vtq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/TheLostCityPoster.jpg",The Lost City
+https://126.cloudvideo.tv/hls/,mfqjxiraqlo6sr7qw5au5oazx52eqmtsfuqg5nq6f2q3un4p5is3sk5y73hq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",Turning Red
+https://126.cloudvideo.tv/hls/,mfqjwtpjtxo6sr7qw5le5jq47v4o2yhehqrwyg5f7qmdgjelci62risuxskq,.urlset/master.m3u8
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Uncharted_Official_Poster.jpg",Uncharted
-https://mycostaattedutt-my.sharepoint.com/personal/00035979_my_costaatt_edu_tt/Documents/ANS%20Software%20Solution/Movies/2022/Uncharted/Uncharted.mp4
+https://162.cloudvideo.tv/hls/,mfqjqsdyqlo6sr7qw5hu5kqxxxzgwyi76apf3yrhuvevopap3npzje3kf5ea,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow
+https://0125.cloudvideo.tv/hls/,mfqjxchxtto6sr7qw5nu5p2i6v56g2i2sihhjfs7kanir6vox2bssn5wvjda,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",Dune
+https://162.cloudvideo.tv/hls/,mfqjrnxxtto6sr7qw5nu5iah5h7ou3ibefpqqkw3mzbxi3obf6py45s7b6nq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Eternals_%28film%29_poster.jpeg",Eternals
+https://163.cloudvideo.tv/hls/,mfqjrn7xtto6sr7qw5nu57i7x27nrbeiqasmbfzkblo3cuv6btmytt76o4la,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Finch_%28film%29.jpg",Finch
+https://162.cloudvideo.tv/hls/,mfqjqpfrt7o6sr7qw5qu5kqx4r7lnw57svfhpxnqlxcumdh2yhtjzkl3bhiq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ron%27s_Gone_Wrong_%282021%29_poster.jpg",Ron's Gone Wrong
+https://126.cloudvideo.tv/hls/,mfqjwmhrtto6sr7qw5nu5oie74okiyiebe3r27djzo5xdmsdwk2bbc6ozn6a,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",Shang-Chi and the Legend of the Ten Rings
+https://163.cloudvideo.tv/hls/,mfqjrw5tt7o6sr7qw5qu5oqv72rq5ehc773w5drkuqwnyq3pr7wcfadryv3q,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",Spider-Man: No Way Home
+https://162.cloudvideo.tv/hls/,mfqjraqftxo6sr7qw5ke5pyv4jqdsq7bz44utok2ych5sn6saz5vly2fzf2q,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/The_Matrix_Resurrections.jpg",The Matrix Resurrections
+https://0125.cloudvideo.tv/hls/,mfqjwosatxo6sr7qw5ie5oylxr2gqao6my5jrj6qhroqe7bmoiwwfadsycda,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg",Venom: Let There Be Carnage
+https://126.cloudvideo.tv/hls/,mfqjxdpxtto6sr7qw5nu5makxr4z7f7gnlb4g3i4cmb324busadycj4elqpa,.urlset/master.m3u8
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Zack_Snyder%27s_Justice_League.png",Zack Snyder's Justice League
+https://0125.cloudvideo.tv/hls/,mfqjwnprtto6sr7qw5nu57qz625tp63n7uqimtvqpndex6m5ujrg7a7vrwpa,.urlset/master.m3u8
