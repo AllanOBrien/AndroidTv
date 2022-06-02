@@ -27,17 +27,17 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlis
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM JAMAICA
-http://mains.services:2086/dorec14/Chuckman5525$/101245
+http://mains.services:2086/clayboy/65Jssx1yS9/101245
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
-http://mains.services:2086/dorec14/Chuckman5525$/55812
+http://mains.services:2086/clayboy/65Jssx1yS9/55812
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101243.m3u8
+http://mains.services:2086/live/clayboy/65Jssx1yS9/101243.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/MELLO_TV.png",MELLO TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101244.m3u8
+http://mains.services:2086/live/clayboy/65Jssx1yS9/101244.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS
-http://mains.services:2086/dorec14/Chuckman5525$/55207
+http://fortv.cc:8080/Ronnie/Ronnie/78918
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",B4U MUSIC
@@ -47,7 +47,7 @@ http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",STAR PLUS
-http://mains.services:2086/dorec14/Chuckman5525$/94678
+http://mains.services:2086/clayboy/65Jssx1yS9/94678
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",ZEE HD
@@ -926,35 +926,3 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 #EXTINF:-1 group-title="Español" tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png",VPItv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",Ambulance
-http://dl6.sermovie.xyz/Movie/2021/Ambulance.2022/Ambulance.2022.1080p.WEB-DL.6CH.Pahe.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
-http://dl6.sermovie.xyz/Movie/2021/Moonfall.2022/Moonfall.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",Morbius
-http://dl6.sermovie.xyz/Movie/2022/Morbius.2022/Morbius.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg",Sonic the Hedgehog 2
-http://dl6.sermovie.xyz/Movie/2021/Sonic.the.Hedgehog.2.2022/Sonic.The.Hedgehog.2.2022.1080p.WEB-DL.x264.AAC-YTS.Sermovie.mp4
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png",The Adam Project
-http://dl6.sermovie.xyz/Movie/2021/The.Adam.Project.2022/The.Adam.Project.2022.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/The_Bad_Guys_poster.jpeg",The Bad Guys
-http://dl6.sermovie.xyz/Movie/2021/The.Bad.Guys.2022/The.Bad.Guys.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",The Batman
-http://dl6.sermovie.xyz/Movie/2022/The.Batman/The.Batman.2022.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/TheLostCityPoster.jpg",The Lost City
-http://dl6.sermovie.xyz/Movie/2022/The.Lost.City.2022/The.Lost.City.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Turning_Red_poster.jpg",Turning Red
-http://dl6.sermovie.xyz/Movie/2021/Turning.Red.2022/Turning.Red.2022.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Uncharted_Official_Poster.jpg",Uncharted
-http://dl6.sermovie.xyz/Movie/2021/Uncharted/Uncharted.2022.1080p.10bit.WEB-DL.6CH.x265.PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow
-http://dl4.sermovie.xyz/Movies/2021/Black.Widow/Black.Widow.2021.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Finch_%28film%29.jpg",Finch
-http://dl5.sermovie.xyz/Movies/2021/Finch/Finch.2021.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",Shang-Chi and the Legend of the Ten Rings
-http://dl5.sermovie.xyz/Movies/2021/Shang.Chi.and.the.Legend.of.the.Ten.Rings/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.10bit.BluRay.8CH.x265.HEVC.PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",Spider-Man: No Way Home
-http://dl6.sermovie.xyz/Movie/2021/Spider-Man.No.Way.Home.2022/Spider-Man.No.Way.Home.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/The_Matrix_Resurrections.jpg",The Matrix Resurrections
-http://dl5.sermovie.xyz/Movies/2021/The.Matrix.Resurrections/The.Matrix.Resurrections.2021.720p.HMAX.WEBRip.x264-GalaxyRG.SoftSub.Sermovie.mkv
-#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Venom_Let_There_Be_Carnage_poster.jpg",Venom: Let There Be Carnage
-http://dl3.sermovie.xyz/Movies/2021/Venom.Let.There.Be.Carnage/SoftSub/Venom.Let.There.Be.Carnage.2021.1080p.WEB-DL.x264.RARBG.SoftSub.Sermovie.mkv
