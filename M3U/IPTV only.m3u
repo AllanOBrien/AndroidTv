@@ -926,3 +926,13 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 #EXTINF:-1 group-title="Español" tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png",VPItv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",Ambulance
+https://dl.dropboxusercontent.com/s/w3h0ftjkq9fodx2/Ambulance.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
+https://dl.dropboxusercontent.com/s/jync6ofyw4gvpxu/Moonfall.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",Morbius
+https://dl.dropboxusercontent.com/s/rxas3itlcbjtgey/Morbius.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg",Sonic the Hedgehog 2
+https://dl.dropboxusercontent.com/s/2yodrvdepb056mz/Sonic%20The%20Hedgehog%202.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png",The Adam Project
+https://dl.dropboxusercontent.com/s/x9l5eaj97ofl9x0/The%20Adam%20Project.mp4
