@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",Ambulance
 https://dl.dropboxusercontent.com/s/w3h0ftjkq9fodx2/Ambulance.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Last_Seen_Alive_Poster.jpg",Last Seen Alive
+https://dl.dropboxusercontent.com/s/alcdgmacmxh3n7m/Last%20Seen%20Alive.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
 https://dl.dropboxusercontent.com/s/jync6ofyw4gvpxu/Moonfall.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",Morbius
@@ -36,6 +38,10 @@ https://dl.dropboxusercontent.com/s/hjbaai5u8yqo11j/Black%20Widow.mp4
 https://dl.dropboxusercontent.com/s/t2vz88z0uo3hnvz/Chaos%20Walking.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Cruella_2021_film_poster.jpg",Cruella
 https://dl.dropboxusercontent.com/s/ew23o9zhi85s0h9/Cruella.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",Dune
+https://dl.dropboxusercontent.com/s/qca20r9o8gzced8/Dune.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg",F9
+https://dl.dropboxusercontent.com/s/iols051z1r7adsf/F9.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Finch_%28film%29.jpg",Finch
 https://dl.dropboxusercontent.com/s/rzgr7vzxha1z6c4/Finch.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",Shang-Chi and the Legend of the Ten Rings
@@ -108,13 +114,55 @@ https://dl.dropboxusercontent.com/s/8ddcqnv0qn9nikk/The%20Swarm.mp4
 https://dl.dropboxusercontent.com/s/krsae0clxy7h17f/The%20War%20with%20Grandpa.mkv
 #EXTINF:-1 group-title="Movies 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Worth_%28film%29.jpg",Worth
 https://dl.dropboxusercontent.com/s/xf2pdarmuz8z2fa/Worth.avi
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",Avengers: Endgame
+https://dl.dropboxusercontent.com/s/2osw7l5z8kdq7ci/Avengers%20Endgame.mp4
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Bombshell_poster.jpg",Bombshell
+https://dl.dropboxusercontent.com/s/5f6ju2qu3ffmidq/Bombshell.avi
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg",Fast and Furious Presents Hobbs and Shaw
+https://dl.dropboxusercontent.com/s/nsm6vbfa4wkx912/Fast%20and%20Furious%20Presents%20Hobbs%20and%20Shaw.mkv
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Guava-Island.png",Guava Island
+https://dl.dropboxusercontent.com/s/uwzxaw8pngtcxe8/Guava%20Island.mkv
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png",How To Train Your Dragon The Hidden World
+https://dl.dropboxusercontent.com/s/7g2xxtoqird70rk/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World.mp4
+#EXTINF:-1 group-title="Movies 2018" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",Avengers: Infinity War
+https://dl.dropboxusercontent.com/s/ki5a8bdc4zegqxa/Avengers%20Infinity%20War.mkv
+#EXTINF:-1 group-title="Movies 2018" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Den_of_Thieves_poster.jpg",Den of Thieves
+https://dl.dropboxusercontent.com/s/vr6t5l27g94ih2l/Den%20of%20Thieves.mkv
+#EXTINF:-1 group-title="Movies 2018" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Eighth_Grade.png",Eight Grade
+https://dl.dropboxusercontent.com/s/pu93yys1anq17rv/Eight%20Grade.avi
 #EXTINF:-1 group-title="Movies 2018" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/The_Princess_Switch.png",The Princess Switch
 https://dl.dropboxusercontent.com/s/bgg3iij2i39w318/The%20Princess%20Switch.avi
 #EXTINF:-1 group-title="Movies 2017" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/VictoriaAndAbdulPoster.jpg",Victoria And Abdul
 https://dl.dropboxusercontent.com/s/iqdpgs45h9sx6ui/Victoria%20And%20Abdul.mkv
+#EXTINF:-1 group-title="Movies 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg",Doctor Strange
+https://dl.dropboxusercontent.com/s/tvr163oeq3sghw9/Doctor%20Strange.mkv
+#EXTINF:-1 group-title="Movies 2016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Now_You_See_Me_2_poster.jpg",Now You See Me 2
+https://dl.dropboxusercontent.com/s/27vejdj42go6jsa/Now%20You%20See%20Me%202.mp4
+#EXTINF:-1 group-title="Movies 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",Avengers: Age of Ultron
+https://dl.dropboxusercontent.com/s/3nl3r9mvypz0tru/Avengers%20Age%20of%20Ultron.mp4
+#EXTINF:-1 group-title="Movies 2015" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",Fast and Furious 7
+https://dl.dropboxusercontent.com/s/b0j1s1cru2uaovf/Fast%20and%20Furious%207.avi
+#EXTINF:-1 group-title="Movies 2014" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/How_to_Train_Your_Dragon_2_poster.jpg",How to Train Your Dragon 2
+https://dl.dropboxusercontent.com/s/ihk9expcbj15b89/How%20to%20Train%20Your%20Dragon%202.mp4
+#EXTINF:-1 group-title="Movies 2013" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Fast_%26_Furious_6_film_poster.jpg",Furious 6
+https://dl.dropboxusercontent.com/s/betbrvo7bdom95r/Furious%206.mp4
+#EXTINF:-1 group-title="Movies 2013" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Now_You_See_Me_Poster.jpg",Now You See Me
+https://dl.dropboxusercontent.com/s/i2oa1gemgyqg77r/Now%20You%20See%20Me.mp4
 #EXTINF:-1 group-title="Movies 2013" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",The Wolf of Wall Street
 https://dl.dropboxusercontent.com/s/wuyt3y4czygfyjr/The%20Wolf%20of%20Wall%20Street.mp4
+#EXTINF:-1 group-title="Movies 2012" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",The Avengers
+https://dl.dropboxusercontent.com/s/iug3xirh7axqxvs/The%20Avengers.mp4
+#EXTINF:-1 group-title="Movies 2011" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Fast_Five_poster.jpg",Fast Five
+https://dl.dropboxusercontent.com/s/4m5jl55jd6cvqie/Fast%20Five.avi
+#EXTINF:-1 group-title="Movies 2010" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg",How To Train Your Dragon
+https://dl.dropboxusercontent.com/s/ca5gmjrp31fefiq/How%20To%20Train%20Your%20Dragon.mp4
+#EXTINF:-1 group-title="Movies 2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg",Fast and Furious 4
+https://dl.dropboxusercontent.com/s/1mbs7op1jvu0h53/Fast%20and%20Furious%204.mkv
 #EXTINF:-1 group-title="Movies 2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Proposal.jpg",The Proposal
 https://dl.dropboxusercontent.com/s/0zn9o9oqaf8bl59/The%20Proposal.mp4
 #EXTINF:-1 group-title="Movies 2007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Cronocrimenes.jpg/220px-Cronocrimenes.jpg",Timecrimes
 https://dl.dropboxusercontent.com/s/t20krp5gk6jtvsi/Timecrimes.mkv
+#EXTINF:-1 group-title="Movies 2006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg",The Fast and the Furious Tokyo Drift
+https://dl.dropboxusercontent.com/s/5s58jcsn5vf6uci/The%20Fast%20and%20the%20Furious%20Tokyo%20Drift.mp4
+#EXTINF:-1 group-title="Movies 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Fast-furious-logo-fast-furious.png",The Fast and the Furious
+https://dl.dropboxusercontent.com/s/pintqcvu00sw2x3/The%20Fast%20and%20the%20Furious.mp4
