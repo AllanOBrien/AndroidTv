@@ -926,14 +926,50 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 #EXTINF:-1 group-title="Español" tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png",VPItv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Along_for_the_Ride_%28film%29.jpg",Along for the Ride
+https://dl.dropboxusercontent.com/s/dz8494c9hyd25jg/Along%20for%20the%20Ride.avi
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Ambulance_film_poster.jpg",Ambulance
 https://dl.dropboxusercontent.com/s/w3h0ftjkq9fodx2/Ambulance.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Chip_n_Dale_Rescue_Rangers_Teaser_poster.jpg",Chip n Dale Rescue Rangers
+https://dl.dropboxusercontent.com/s/h3k3fy9gijjimzg/Chip%20n%20Dale%20Rescue%20Rangers.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Downton_Abbey_A_New_Era.jpg/220px-Downton_Abbey_A_New_Era.jpg",Downton Abbey A New Era
+https://dl.dropboxusercontent.com/s/l21mf9lds3w3g5t/Downton%20Abbey%20A%20New%20Era.avi
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Father_Stu.jpg",Father Stu
+https://dl.dropboxusercontent.com/s/91hnitszduks5bn/Father%20Stu.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Fire_Island_Movie_Poster.jpeg",Fire Island
+https://dl.dropboxusercontent.com/s/wrhmqaz1r3e0mb5/Fire%20Island.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/Firestarter_%282022%29_poster.jpg",Firestarter
+https://dl.dropboxusercontent.com/s/ezd5yjlhbn59nbs/Firestarter.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Fortress_Sniper%27s_Eye.jpg",Fortress 2 Snipers Eye
+https://dl.dropboxusercontent.com/s/pqnlrbmaoknntzu/Fortress%202%20Snipers%20Eye.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Hatching_%28film%29.jpeg",Hatching
+https://dl.dropboxusercontent.com/s/e0t2fo5y42vzzli/Hatching.avi
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Hollywood_Stargirl.jpg",Hollywood Stargirl
+https://dl.dropboxusercontent.com/s/k0d7a53mau8kjgm/Hollywood%20Stargirl.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Hustlers_%28Official_Film_Poster%29.png",Hustle
+https://dl.dropboxusercontent.com/s/qn932qwv3ckbqrq/Hustle.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Interceptor_%28film%29.jpg",Interceptor
+https://dl.dropboxusercontent.com/s/qpl242sduft5dv6/Interceptor.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",K.G.F: Chapter 2
+https://dl.dropboxusercontent.com/s/hkjcpqqtiaif78h/KGF%20-%20Chapter%202.mkv
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Last_Seen_Alive_Poster.jpg",Last Seen Alive
 https://dl.dropboxusercontent.com/s/alcdgmacmxh3n7m/Last%20Seen%20Alive.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Look_at_Me_film_poster.png",Look at Me
+https://dl.dropboxusercontent.com/s/3ysflyggl4ychjt/Look%20at%20Me.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Memory_official_logo.png",Memory
+https://dl.dropboxusercontent.com/s/bu6l0rv6ahsdbtn/Memory.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Moonfall_film_poster.jpg",Moonfall
 https://dl.dropboxusercontent.com/s/jync6ofyw4gvpxu/Moonfall.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",Morbius
 https://dl.dropboxusercontent.com/s/rxas3itlcbjtgey/Morbius.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Norm_MacDonald_%2826378045703%29_%28cropped%29.jpg/800px-Norm_MacDonald_%2826378045703%29_%28cropped%29.jpg",Norm Macdonald Nothing Special
+https://dl.dropboxusercontent.com/s/m7fa6o340z5yjr7/Norm%20Macdonald%20Nothing%20Special.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/GervaisBlooms021218-21_%2844341159690%29_%28cropped%29.jpg/800px-GervaisBlooms021218-21_%2844341159690%29_%28cropped%29.jpg",Ricky Gervais Supernature
+https://dl.dropboxusercontent.com/s/3yp1ewrztz5bff5/Ricky%20Gervais%20Supernature.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/SeniorYearNetflixTeaser.jpg",Senior Year
+https://dl.dropboxusercontent.com/s/db744gkoepqfnf4/Senior%20Year.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiC0tYWMV2HDBQ3AudnwJHxS1FaPAYz6aS6ajWpYj0BufIsmDx",Silverton Siege
+https://dl.dropboxusercontent.com/s/cp14bmve87spp55/Silverton%20Siege.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Sonic_the_Hedgehog_2_film_poster.jpg",Sonic the Hedgehog 2
 https://dl.dropboxusercontent.com/s/2yodrvdepb056mz/Sonic%20The%20Hedgehog%202.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/The_Adam_Project_poster.png",The Adam Project
@@ -972,6 +1008,8 @@ https://dl.dropboxusercontent.com/s/qca20r9o8gzced8/Dune.mp4
 https://dl.dropboxusercontent.com/s/iols051z1r7adsf/F9.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Finch_%28film%29.jpg",Finch
 https://dl.dropboxusercontent.com/s/rzgr7vzxha1z6c4/Finch.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Operation_Mincemeat.jpg",Operation Mincemeat
+https://dl.dropboxusercontent.com/s/i1x60tqiu457p84/Operation%20Mincemeat.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg",Shang-Chi and the Legend of the Ten Rings
 https://dl.dropboxusercontent.com/s/ju217cug2whofhy/Shang-Chi%20And%20The%20Legend%20Of%20The%20Ten%20Rings.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",Spider-Man: No Way Home
