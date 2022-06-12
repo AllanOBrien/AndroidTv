@@ -175,7 +175,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",HALLMARK CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
-http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250589
+http://ky-iptv.com:80/shar/shar1234/175866.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/K2GWvrb/hbo-us.png",HBO
@@ -549,7 +549,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD
 http://mains.services:2086/dorec14/Chuckman5525$/95443
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD 2
-http://618377213255270246.nicesun.xyz:80/vv01032/3469675/270246
+http://ky-iptv.com:80/shar/shar1234/175901.ts
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",OUTSIDE TV+
@@ -1520,3 +1520,41 @@ https://dl.dropboxusercontent.com/s/ajxl9s4o4lvhll1/Ally%20McBeal%20S05E20%20Wha
 https://dl.dropboxusercontent.com/s/rlvssa521tm4x0a/Ally%20McBeal%20S05E21%20All%20of%20Me.mp4
 #EXTINF:-1 group-title="Ally McBeal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Ally_McBeal_S1_Opening.jpg",S5 EP22
 https://dl.dropboxusercontent.com/s/c0u7cj4dchw9lee/Ally%20McBeal%20S05E22%20Bygones.mp4
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/up16fxahm72reru/The%20walking%20dead%20-%20S01E01.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/r3lgdd9scxglu5a/The%20walking%20dead%20-%20S01E02.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/7zcs5mp0ks48jmy/The%20walking%20dead%20-%20S01E03.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/16qm4kba2d2ig1n/The%20walking%20dead%20-%20S01E04.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/061ee9n5alxbwv6/The%20walking%20dead%20-%20S01E05.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/7s414lawaugef2l/The%20walking%20dead%20-%20S01E06.avi
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/8ox7ug0qag7v762/The.Walking.Dead.S02E01.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/mojxlr3yux2j7zk/The.Walking.Dead.S02E02.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/2lghbnieknrocyu/The.Walking.Dead.S02E03.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/1vdgpnnp7y75f0l/The.Walking.Dead.S02E04.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/njoj5brdkd1c6do/The.Walking.Dead.S02E05.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/aa97f2ctxwhgudt/The.Walking.Dead.S02E06.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/gkm3dlklixqdhtg/The.Walking.Dead.S02E07.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/bwb0h4a0gzkrwmb/The.Walking.Dead.S02E08.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/gufczm19l97jzxa/The.Walking.Dead.S02E09.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/t40u3wj0w321oz6/The.Walking.Dead.S02E10.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/izbx976v7k3jief/The.Walking.Dead.S02E11.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/0djl6r2fq77h2sk/The.Walking.Dead.S02E12.720p.BluRay.x264.ShAaNiG.mkv
+#EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Walking_Dead_2010_logo.svg",S1 EP1
+https://dl.dropboxusercontent.com/s/zze8aqc39gb0ztv/The.Walking.Dead.S02E13.720p.BluRay.x264.ShAaNiG.mkv
