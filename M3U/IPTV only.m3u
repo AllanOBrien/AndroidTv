@@ -51,7 +51,7 @@ http://mains.services:2086/dorec14/Chuckman5525$/94678
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",ZEE HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
+https://tenwafers.xyz:443/play/VYfewNSy03PjeI2xVNXy2F46bdlvv_x8iXIGT2EUl-c/m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
@@ -65,9 +65,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmiNhVwf01Nkoc7_kYPq-hDs/m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmsHaAOHCJLemtZRMGyBmTn8/m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndPrive.in.png",&Prive
 http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
@@ -143,7 +143,7 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",EPIX 2 HD
 http://mains.services:2086/dorec14/Chuckman5525$/42473
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-PN_jp5hbqKc/XzNOqlH2e8I/AAAAAAAAAuI/nKDY2lFPFzEbSvI2Y7s07SaZouL4syyoQCLcBGAsYHQ/w200-h200/62%2BEpix%2Bdrive.png",EPIX Drive
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35572
+https://tenwafers.xyz:443/play/VYfewNSy03PjeI2xVNXy2Lh2JLbCCsDnEUXeIEzBTbE/m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-us.png",EPIX HD
 http://mains.services:2086/dorec14/Chuckman5525$/13606
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",EPIX HITS HD
@@ -199,7 +199,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playli
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-CPYOdeib4Io/X30unOr_QAI/AAAAAAAABxU/OtovXSFAPGwrKRZuB10b3ZNfL0216L7nwCLcBGAsYHQ/w200-h200/Indieplex.png",IndiePlex
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/63659
+https://tenwafers.xyz:443/play/VYfewNSy03PjeI2xVNXy2BngI8Q5ZIow75eI8cnUeMs/m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",Justice Central
@@ -499,7 +499,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",THE WEATHER CHANEL
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35810
+https://tenwafers.xyz:443/play/VYfewNSy03PjeI2xVNXy2EybSDXHTvvxo5MhXV4Mt_s/m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET HD
@@ -529,13 +529,13 @@ http://mains.services:2086/dorec14/Chuckman5525$/36332
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-HumIStM6gDc/XzW0AHSH9FI/AAAAAAAABEU/vrmMdDm31m0NDft_gPfnWRpLMRp-pHUsACLcBGAsYHQ/w200-h200/162%2BDiscovery%2BLife.png",Discovery Life
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35817
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmrZT0AKThdKmy2BmlnlAb6o/m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",DISCOVERY TURBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/60019
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmhG7ts271ejPQhHPQHv5kJ4/m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery World
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58073
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmg8LGjm7q6eaLMXgaHkvi_c/m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://p2086.securepoint.io:2087/images/38cb042fe09b8041c224c64025c2bb9a.jpg",DOCURAMA
 http://mains.services:2086/dorec14/Chuckman5525$/25779
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/987c7726d3fbcb5df58b51c8aba7eb1f.png",DOG TV
