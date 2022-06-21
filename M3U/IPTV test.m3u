@@ -1,64 +1,50 @@
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET WEST HD
-http://mains.services:2086/lorre/3Jy14gb2kR/3281
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV GULF COAST
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV KEY TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV PANAMA CITY
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV PAWLEYS ISLAND
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/302be602baa5543a2dae95e05f9cf09e.png",CLASSIC ARTS SHOWCASE
-https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/ae8a4ef43a3ec639bab5f5261fea6912.png",COURT TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-3lzhuEY9h8k/XzNOjn1i3gI/AAAAAAAAAtE/CKLYpNh-qegoSPHKGbi-jMpaDWZPAnTVwCLcBGAsYHQ/w200-h200/47%2BCrime%2B%2526%2Binvestigation.png",Crime & Investigation Network
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmo02L8T4fVF4p_opUzSD8SM/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/1c4ec7bfa754d2c15ef9709e9b1a3ad6.png",DC COUNCIL CHANNEL
-http://mains.services:2086/lorre/3Jy14gb2kR/36332
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-HumIStM6gDc/XzW0AHSH9FI/AAAAAAAABEU/vrmMdDm31m0NDft_gPfnWRpLMRp-pHUsACLcBGAsYHQ/w200-h200/162%2BDiscovery%2BLife.png",Discovery Life
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmrZT0AKThdKmy2BmlnlAb6o/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",DISCOVERY TURBO
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmhG7ts271ejPQhHPQHv5kJ4/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery World
-https://tenwafers.xyz:443/play/VYfewNSy03PjeI2xVNXy2J3FlDdLl6FF-F8Vm9a-G98/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://p2086.securepoint.io:2087/images/38cb042fe09b8041c224c64025c2bb9a.jpg",DOCURAMA
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/987c7726d3fbcb5df58b51c8aba7eb1f.png",DOG TV
-http://mains.services:2086/lorre/3Jy14gb2kR/480
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",ID East UHD
-http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png",InWild
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lh3.googleusercontent.com/WQ2ho9IeNMbXvlWlPlbjGFPJML3wXo3BZmWGo-JBnOSFz1Ham13Dv3PsDUcTzm_AHDpZ",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD 2
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmjZR2XYI4iCnYE_W1WGqap4/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",OUTSIDE TV+
-http://mains.services:2086/lorre/3Jy14gb2kR/14872
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/969d532349e828f6c8d10bb58a215fce.png",PURSUIT CHANNEL
-http://mains.services:2086/lorre/3Jy14gb2kR/21948
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science
-http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/81d7c0e5afa502eb293e6d5fb6500327.png",THE SHOPPING CHANNEL
-http://mains.services:2086/lorre/3Jy14gb2kR/14854
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png",Xplore
-https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET JAMS HD
+http://2690.ovh:25461/34baxmo5/56bwf44u/103818
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET SOUL HD
+http://2690.ovh:25461/34baxmo5/56bwf44u/103819
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://p2086.securepoint.io:2086/images/6c6445bbed88fcdb3b4b4be72e6ec8df.png",FM FUSE MUSIC
+http://mains.services:2086/lorre/3Jy14gb2kR/63650
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w21866239.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio | Reggae
+http://mains.services:2086/lorre/3Jy14gb2kR/101168
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio | Love Songs
+http://mains.services:2086/lorre/3Jy14gb2kR/99498
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-gvSm1kkq_qM/X0L3hft97VI/AAAAAAAABL4/s0P_lumasQEaLYLyOvH4wRYB43jH3xX1wCLcBGAsYHQ/w200-h200/167%2BMtv%2B2.png",MTV 2
+http://mains.services:2086/lorre/3Jy14gb2kR/15488
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-oWicRJIPss0/X0L3iZXuExI/AAAAAAAABMA/goD2sTYwJp0av1C-b6fO4FOJ5MIidI2IACLcBGAsYHQ/w200-h200/197%2BMTV%2Bclass.png",MTV Classic
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmtvK7ky_VLuEmGH7HWtQkZE/m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-ABvWoB-_OYY/X0L3iCbn2NI/AAAAAAAABL8/zFBXrDplFwUI1oh_d80uhvzUaPCwF6SjgCLcBGAsYHQ/w200-h200/169%2BMtv%2Blive.png",MTV Live
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzml9jjvSgQz33n6RrwjVV688/m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png",MTV U
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmgHUT1HCTtxw1IsozD1ojZo/m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",MUCH MUSIC
+https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmuw6hShvNeLYuqiZOIIsyPI/m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://play-lh.googleusercontent.com/awYaZOzZFNAzYeixT4x1GnharlP11FAi0ko42MbLdvPBA5pkd2OJatprN3jchW2xf81I",Radio Contact Feel Good
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/1920px-Stingray_Digital.svg.png",Stingray Karaoke
+https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a1164999-b3bf-11ec-bf80-0242ac110003
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://ufdvgospel.com/wp-content/themes/ufdvgospel/images/logo.png",UFDV GOSPEL RADIO (JAMAICA)
+http://mains.services:2086/lorre/3Jy14gb2kR/101167
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",VEVO HIP HOP
+http://mains.services:2086/lorre/3Jy14gb2kR/100765
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",VEVO LATINO
+http://mains.services:2086/lorre/3Jy14gb2kR/100763
+#EXTINF:-1 group-title="MUSIC",Web TV Music
+https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8
