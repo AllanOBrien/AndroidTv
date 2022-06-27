@@ -1,4 +1,2 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" group-title="VOD",Doctor Strange in the Multiverse of Madness 
-https://assets-1.mypowerdisk.com/transcode_video/71cda21516e31ca37a1ff8e6a5785ea4/dash/be85134f5bb50aca83ce85cf9781851e.mpd
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"  group-title="VOD-update", Jurassic World Dominion
-https://www1724.ff-04.com/token=xmKANpc-aFJerT2iw8mGgg/1655412400/103.144.0.0/197/3/31/23e6ac8764f741391c135833175dd313-720p.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mr._Robot_Logo.svg/1920px-Mr._Robot_Logo.svg.png",Movies
+https://bit.ly/ansiptvmovies
