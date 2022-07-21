@@ -715,39 +715,39 @@ http://ky-iptv.com:80/theruler/theruler/220448.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOW CRICKET HD
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOWXTRA CRICKET
-http://electrotv.us:80/f5KcK7s7Aa/Ii977T2lfh/1116408.ts
+http://ky-iptv.com:80/theruler/theruler/1116408.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/6d65392fb8aeb5d1ba7dd4f0f4d60584.png",WNBA ATLANTA DREAM
-http://mains.services:2086/kixy2030/u8zC9nvB69/99303
+http://ky-iptv.com:80/theruler/theruler/395251.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/98dad6af831b84e4a1356af10a639e07.png",WNBA CHICAGO SKY
-http://mains.services:2086/kixy2030/u8zC9nvB69/99304
+http://ky-iptv.com:80/theruler/theruler/395253.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d807624e30f92f2387176d9d750612f1.png",WNBA CONNECTICUT SUN
-http://mains.services:2086/kixy2030/u8zC9nvB69/99305
+http://ky-iptv.com:80/theruler/theruler/1818831.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/f444596ae85c882750cc611d150d0fe6.png",WNBA DALLAS WINGS
-http://mains.services:2086/kixy2030/u8zC9nvB69/99309
+http://ky-iptv.com:80/theruler/theruler/395254.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d00d54da6a4ca9a95f7aa2ca8919e5d3.png",WNBA INDIANA FEVER
-http://mains.services:2086/kixy2030/u8zC9nvB69/99306
+http://ky-iptv.com:80/theruler/theruler/395255.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/7d2265f62d1984a096177b68b6fcc184.png",WNBA LAS VEGAS ACES
-http://mains.services:2086/kixy2030/u8zC9nvB69/99310
+http://ky-iptv.com:80/theruler/theruler/395256.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/7486b37a087e0b0a16a62496dbb27dad.png",WNBA LOS ANGELES SPARKS
-http://mains.services:2086/kixy2030/u8zC9nvB69/99311
+http://ky-iptv.com:80/theruler/theruler/395257.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/5bd7a3fd22ec8d21921d31f79ef47547.png",WNBA MINNESOTA LYNX
-http://mains.services:2086/kixy2030/u8zC9nvB69/99312
+http://ky-iptv.com:80/theruler/theruler/395258.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/2be358c7e07f14efc350f6de5d15f993.png",WNBA NEW YORK LIBERTY
-http://mains.services:2086/kixy2030/u8zC9nvB69/99307
+http://ky-iptv.com:80/theruler/theruler/395259.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/00a9c6d50f1086d74084bcac75b17c1e.png",WNBA PHOENIX MERCURY
-http://mains.services:2086/kixy2030/u8zC9nvB69/99313
+http://ky-iptv.com:80/theruler/theruler/395260.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/078d4443ed8133f6993afc82c2eb2cfa.png",WNBA SEATTLE STORM
-http://mains.services:2086/kixy2030/u8zC9nvB69/99314
+http://ky-iptv.com:80/theruler/theruler/395261.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/6a36d56f79d882471e5009e7eae89a32.png",WNBA WASHINGTON MYSTICS
-http://mains.services:2086/kixy2030/u8zC9nvB69/99308
+http://ky-iptv.com:80/theruler/theruler/395263.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/ee510015f6b6800a49f0389c3aafc779.png",WORLD FISHING NETWORK
 http://tv365.me:900/7439929587/4879165436/376175
 #EXTINF:-1 group-title="SPORTS" tvg-id="WorldPokerTour.us" tvg-country="INT" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE NETWORK HD
-http://tv365.me:900/7439929587/4879165436/153736
+http://ky-iptv.com:80/theruler/theruler/220389.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",YES NETWORK HD
-http://tv365.me:900/7439929587/4879165436/181390
+http://ky-iptv.com:80/theruler/theruler/512819.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UBR7J74eEannqoVvxfefHXrCNXFtulu9zA&usqp=CAU",ZIGGO SPORT GOLF
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37334&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Español" tvg-id="K17JIDT4.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN Latino
