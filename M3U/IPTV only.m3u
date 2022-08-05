@@ -37,7 +37,7 @@ http://tv365.me:900/7439929587/4879165436/195853
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
 http://fortv.cc:8080/Ronnie/Ronnie/21094
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS
-http://hdhd.tk:80/@mrchrisjaeger/4444/19839
+http://ky-iptv.com:80/theruler/theruler/1136524.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",B4U MUSIC
@@ -449,7 +449,7 @@ https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png",AL JAZEERA NEWS ENGLISH
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",BBC AMERICA HD
-http://tv365.me:900/7439929587/4879165436/153873
+http://ky-iptv.com:80/theruler/theruler/1846782.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC WORLD NEWS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC TORONTO HD
@@ -459,7 +459,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN ENGLISH HD
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",CHEDDAR
-http://mains.services:2086/kixy2030/u8zC9nvB69/101839
+http://ky-iptv.com:80/theruler/theruler/1852101.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TORONTO HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA HD
@@ -467,15 +467,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN International
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+http://ky-iptv.com:80/theruler/theruler/1395475.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN USA
-http://mains.services:2086/kixy2030/u8zC9nvB69/95386
+http://ky-iptv.com:80/theruler/theruler/208973.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
-http://mains.services:2086/kixy2030/u8zC9nvB69/65854
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17566&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/e48f93bb225015d64af95220587f81aa.png",CSPAN 1
-http://mains.services:2086/kixy2030/u8zC9nvB69/64146
+http://iptv.iptvthebest.net:15000/live/jgiyeaqh/q1CYdd38b7/20474.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/b27cedaf0ff83525403980572ea93543.png",CSPAN 2
-http://mains.services:2086/kixy2030/u8zC9nvB69/64145
+http://iptv.iptvthebest.net:15000/live/jgiyeaqh/q1CYdd38b7/20473.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/4cce7aeeb97272c9fc7a568ad8760ba9.png",FOX BUSINESS NETWORK
