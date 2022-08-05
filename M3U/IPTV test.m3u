@@ -1,64 +1,12 @@
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET WEST HD
-http://ky-iptv.com:80/theruler/theruler/175794.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV GULF COAST
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV KEY TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV PANAMA CITY
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV PAWLEYS ISLAND
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/302be602baa5543a2dae95e05f9cf09e.png",CLASSIC ARTS SHOWCASE
-http://ky-iptv.com:80/theruler/theruler/499437.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/ae8a4ef43a3ec639bab5f5261fea6912.png",COURT TV
-https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-3lzhuEY9h8k/XzNOjn1i3gI/AAAAAAAAAtE/CKLYpNh-qegoSPHKGbi-jMpaDWZPAnTVwCLcBGAsYHQ/w200-h200/47%2BCrime%2B%2526%2Binvestigation.png",Crime & Investigation Network
-http://ky-iptv.com:80/theruler/theruler/175822.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/1c4ec7bfa754d2c15ef9709e9b1a3ad6.png",DC COUNCIL CHANNEL
-http://ky-iptv.com:80/theruler/theruler/517758.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-HumIStM6gDc/XzW0AHSH9FI/AAAAAAAABEU/vrmMdDm31m0NDft_gPfnWRpLMRp-pHUsACLcBGAsYHQ/w200-h200/162%2BDiscovery%2BLife.png",Discovery Life
-http://ky-iptv.com:80/theruler/theruler/175829.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",DISCOVERY TURBO
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
-http://ky-iptv.com:80/theruler/theruler/399960.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery World
-https://tvnow.best/api/stream/williamariverawar@gmail.com/090625/livetv.epg/discovery.world.co.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://p2086.securepoint.io:2087/images/38cb042fe09b8041c224c64025c2bb9a.jpg",DOCURAMA
-https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/987c7726d3fbcb5df58b51c8aba7eb1f.png",DOG TV
-http://tv365.me:900/7439929587/4879165436/13550
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",ID East UHD
-http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png",InWild
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lh3.googleusercontent.com/WQ2ho9IeNMbXvlWlPlbjGFPJML3wXo3BZmWGo-JBnOSFz1Ham13Dv3PsDUcTzm_AHDpZ",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD 2
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmjZR2XYI4iCnYE_W1WGqap4/m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",OUTSIDE TV+
-http://ky-iptv.com:80/theruler/theruler/175907.ts
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/969d532349e828f6c8d10bb58a215fce.png",PURSUIT CHANNEL
-http://tv365.me:900/7439929587/4879165436/176607
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science
-http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/81d7c0e5afa502eb293e6d5fb6500327.png",THE SHOPPING CHANNEL
-http://mains.services:2086/kixy2030/u8zC9nvB69/14854
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png",Xplore
-https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP1
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AAA8YGT7gIq1H6XWrehfRYZoa/The.Last.Post.s01e01.%5BMPup%5D.mkv
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP2
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AABVux9ek_i0xNKFeV_0pkzFa/The.Last.Post.s01e02.%5BMPup%5D.mkv
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP3
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AAAIMEmzMtv2fHGT6_C3S52va/The.Last.Post.s01e03.%5BMPup%5D.mkv
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP4
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AABuhlJxM32qVm83fJMlSfRra/The.Last.Post.s01e04.%5BMPup%5D.mkv
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP5
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AAAexj5vibcT2xaMGRok8SJaa/The.Last.Post.s01e05.%5BMPup%5D.mkv
+#EXTINF:-1 group-title="The Last Post" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Last_Post_tv_series_titlecard.JPG/250px-The_Last_Post_tv_series_titlecard.JPG",The Last Post S1 EP6
+https://dl.dropboxusercontent.com/sh/v0pcxvdrmjjrc81/AACvzIqREkZAyqB2j1rTtQJ_a/The.Last.Post.s01e06.%5BMPup%5D.mkv
