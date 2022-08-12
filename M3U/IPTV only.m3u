@@ -926,6 +926,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpi
 https://dl.dropboxusercontent.com/s/ck2ab1eh6gm1ynb/9%20Bullets.avi
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/A_madea_homecoming.jpeg",A Madea Homecoming
 https://dl.dropboxusercontent.com/s/v5c1evu5woosg1g/A%20Madea%20Homecoming.avi
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Alone_together_2.jpg/220px-Alone_together_2.jpg",Alone Together
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAB1XGIaRq75HgUQIgtluGlja/Alone.Together.2022.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://dnm.nflximg.net/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABYVEjj0tSUIgheP2YI95-HFthQ52EZKW9gR25LTNgOxcj_J-Nij7kSFMP5yKNFRaXakNjsemdu0q-nqV0cuTlG8m0qsRRGFPIoyQb8Ud3zWK1CDFlXePXIYheYeucxvlETaYDA.jpg?r=d78",Amy Schumer Presents Parental
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AACO4kxiF9mTPjQTzibT-QfQa/Amy.Schumer.Presents.Parental.Advisory.2022.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/abandoned-2022/large_abandoned-movie-poster-2022.jpeg",Abandoned
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAA_hFO2xS5d04HikhoF5qrTa/Abandoned.2022.HDRip.XviD.AC3-EVO.avi
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Along_for_the_Ride_%28film%29.jpg",Along for the Ride
 https://dl.dropboxusercontent.com/s/jgqr430asrjbuu2/Along%20for%20the%20Ride.avi
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Against_the_Ice.jpeg",Against The Ice
@@ -1062,6 +1068,16 @@ https://dl.dropboxusercontent.com/s/7p2goz79x2412em/Turning%20Red.mkv
 https://dl.dropboxusercontent.com/s/lca6oys7g94frdw/Uncharted.mp4
 #EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/You_Wont_Be_Alone_poster.png",You Won't Be Alone
 https://dl.dropboxusercontent.com/s/uwms74a7yl7l8nt/You%20Wont%20Be%20Alone.avi
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/8_Bit_Christmas.jpg/220px-8_Bit_Christmas.jpg",8-Bit Christmas
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAATAUoyv339ltLq1vBpnaVia/8-Bit.Christmas.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/A_Boy_Called_Christmas_poster.png/220px-A_Boy_Called_Christmas_poster.png",A Boy Called Christmas
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAD7NACPvZmDXrgqYSNyhuzDa/A.Boy.Called.Christmas.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/A_House_on_the_Bayou.jpg",A House On The Bayou
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AACFJtX2Mjm13ujIT5FTVt-Ma/A.House.On.The.Bayou.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Adele_-_One_Night_Only.jpeg/220px-Adele_-_One_Night_Only.jpeg",Adele One Night Only
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAAt3--yABRTgAw_E__IZwbCa/Adele.One.Night.Only.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/After_We_Fell_film_poster.png/220px-After_We_Fell_film_poster.png",After We Fell
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AABARw5XPS4VFZCWS1MJ4dP9a/After.We.Fell.2021.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/AntlersOctober2021poster.png",Antlers
 https://dl.dropboxusercontent.com/s/7s18k3fyu3lssy7/Antlers.mp4
 #EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Army_of_the_Dead_poster.png",Army of the Dead
@@ -1186,6 +1202,8 @@ https://dl.dropboxusercontent.com/s/oqg6z1vt6o2158p/The%20Swarm.mp4
 https://dl.dropboxusercontent.com/s/f7cs1hv3ht93t3f/The%20War%20with%20Grandpa.mkv
 #EXTINF:-1 group-title="Movies 2020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Worth_%28film%29.jpg",Worth
 https://dl.dropboxusercontent.com/s/31p4vbfb6il4dmq/Worth.avi
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/After_2019_film.png",After
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AAD_RaRLrY-8gsYxGlSnrHXka/After.2019.HDRip.XviD.AC3-EVO.avi
 #EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",Avengers: Endgame
 https://dl.dropboxusercontent.com/s/22w5vhvbntbt7lk/Avengers%20Endgame.mp4
 #EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Bombshell_poster.jpg",Bombshell
@@ -1268,6 +1286,8 @@ https://dl.dropboxusercontent.com/s/k26oi4qch0zqno3/Harry.Potter.And.The.Deathly
 https://dl.dropboxusercontent.com/s/lm58skj2861mctg/How%20To%20Train%20Your%20Dragon.mp4
 #EXTINF:-1 group-title="Movies 2010" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg",The Twilight Saga Eclipse
 https://dl.dropboxusercontent.com/s/u0bp6e07cf1k88u/The%20Twilight%20Saga%20Eclipse%20-%20Fantasy%202010%20%5BH264-mp4%5D%20English.mp4
+#EXTINF:-1 group-title="Movies 2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Five_hundred_days_of_summer.jpg/220px-Five_hundred_days_of_summer.jpg",500 Days of Summer
+https://dl.dropboxusercontent.com/sh/2hgy34j1vq5ui4w/AADfKHukfZDbVL2g1l9NYMpCa/500 Days of Summer %282009%29  %5B1080p x265 10bit FS69 Joy%5D.mkv
 #EXTINF:-1 group-title="Movies 2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg",Fast and Furious 4
 https://dl.dropboxusercontent.com/s/sps00k63ob5l5b6/Fast%20and%20Furious%204.mkv
 #EXTINF:-1 group-title="Movies 2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Final_destination_09.jpg",Final Destination 4
