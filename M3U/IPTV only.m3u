@@ -57,7 +57,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playli
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN Live
-https://live.chdrstatic.com/cbn/primary/1.m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/204987.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://p2086.securepoint.io:2086/images/a4fe9a2accf2230f9fd2b08647b84dbe.png",CHRISTIAN TELEVISION NETWORK
 http://ky-iptv.com:80/theruler/theruler/1235144.ts
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/8d0ca1f4e8add76ca70b5b064205f340.jpg",EWTN HD
@@ -73,7 +73,7 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
-http://tv365.me:900/7439929587/4879165436/183627
+http://89.187.175.143:80/3012/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU",AMG TV
@@ -107,9 +107,9 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://p2086.securepoint.io:2086/images/2841338cc3304c2dd10899467ad3884d.png",CINEMAX MOREMAX
-http://tv365.me:900/7439929587/4879165436/13621
+http://moontools.me:8080/MITVENVIVO22/sUxl9vDb0M/82544
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://p2086.securepoint.io:2086/images/677b151adc5948e887a71bd7420c798a.png",CINEMAX OUTERMAX
-http://tv365.me:900/7439929587/4879165436/170172
+http://moontools.me:8080/MITVENVIVO22/sUxl9vDb0M/28716
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://p2086.securepoint.io:2086/images/35e06fce2a6365719ef6fefc23d60ac7.png",CLEO TV
 http://ky-iptv.com:80/theruler/theruler/1228409.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
