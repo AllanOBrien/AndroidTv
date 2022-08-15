@@ -1,2 +1,20 @@
-#EXTINF:-1 tvg-id="APLP" tvg-name="USA Animal Planet West" tvg-logo="http://ky-iptv.com:80/images/84fc1bae60a71d7a802858f8dee6cda0.png" group-title="USA Entertainment",USA Animal Planet West
-http://ky-iptv.com:80/live/robertd/robertd/175794.m3u8
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://image.tmdb.org/t/p/w185/cmLdl1JbP7FTEguUxIxAFXcwa5X.jpg", Dave Chappelle Whats in a Name
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AACWXSCt5u2szlQEZYkDlSysa/Dave.Chappelle.Whats.in.a.Name.2022.720p.WEBRip.400MB.x264-GalaxyRG.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Day_Shift_%28film%29.jpg/220px-Day_Shift_%28film%29.jpg", Day Shift
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AABM5du6wMr0xMeNwBdPiMW-a/Day.Shift.2022.HDRip.XviD.AC3-EVO.avi
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Dhaakad_poster.jpg/220px-Dhaakad_poster.jpg", Dhaakad
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AABFh8WXgK6zdDeBn4-n9SDYa/Dhaakad %282022%29 - Hindi - 1080p - HDRip - x264 - AAC 2.0 - 1.8GB - ESub - QRips.mkv
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Don%27t_Make_Me_Go.jpg/220px-Don%27t_Make_Me_Go.jpg", Dont Make Me Go
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AAAJZoJurb-xRSIB5dfJ5W7ya/Dont.Make.Me.Go.2022.1080p.WEBRip.x265-RBG.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-logo="https://image.tmdb.org/t/p/w185/3SlInUtP77qScbtqYWzsmP2hPWz.jpg", Earwig
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AAA7pA2XUyZkZWtncAQdlUDma/Earwig.2022.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dear-evan_film-poster.jpg/220px-Dear-evan_film-poster.jpg", Dear Evan Hansen
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AABOXN08Q_48jvb8OsT-k2JUa/Dear.Evan.Hansen.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Dhamaka_film_poster.jpg/220px-Dhamaka_film_poster.jpg", Dhamaka
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AADJ7i7jBiIiGZ28W9Rd1GuDa/Dhamaka %282021%29 - Hindi - HDRip - 1080p - %5BHindi%2B English %2B Telugu %2B Tamil%5D - 1.5GB - ESub - QRips.mkv
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Diary_of_a_Wimpy_Kid_%282021%29_Official_Poster.jpg/220px-Diary_of_a_Wimpy_Kid_%282021%29_Official_Poster.jpg", Diary Of A Wimpy Kid
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AABPsFrSTGXQUMnB7U31G_4Ia/Diary.Of.A.Wimpy.Kid.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://i0.wp.com/moviesandmania.com/wp-content/uploads/2021/08/Double-Walker-movie-film-horror-ghost-Sylvie-Mix-poster-1.jpeg", Double Walker
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AAA9m1RVdLxQatzU28QFbzXXa/Double.Walker.2021.1080p.BRRip.DD5.1.X.264-EVO.mkv
+#EXTINF:-1 group-title="Movies 2021" tvg-logo="https://www.new-video.de/co/encounter18lh.jpg", Encounter
+https://dl.dropboxusercontent.com/sh/kwon3lft2eyvi04/AACBq7VpI1dgnBq60EFWNFbYa/Encounter.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
