@@ -617,9 +617,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playl
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-LEjflwSu2XQ/XzWJEVvf4UI/AAAAAAAAA_s/b9YFKUWpe9UgyijM3Wb9RJc9_ayPnGDdgCLcBGAsYHQ/w200-h200/145%2BFs1.png",FS 1
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1594
+http://ky-iptv.com:80/1234554/1234554/220387.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-3ZSO3n3wrkA/X0PqX6Vw6OI/AAAAAAAABM8/Dq2rbN76DFcovrvl84JJd94_t2EcpNOgQCLcBGAsYHQ/w200-h200/171%2BFs2.png",FS 2
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/58081
+http://ky-iptv.com:80/1234554/1234554/220388.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-ZEig4_7hVlw/XzNOO7f_L-I/AAAAAAAAAqg/0LpD6NgeY9IHASVozL6D_MlnitADXQJeACLcBGAsYHQ/w200-h200/101%2BGinx%2Besports.png",Ginx eSports
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ginx.esports.tv.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png",Gol TV
@@ -627,7 +627,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/gol.tv.espan
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png",MANS 1
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/69575
+http://ky-iptv.com:80/1234554/1234554/220444.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
 http://ky-iptv.com:80/live/robertd/robertd/176144.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
