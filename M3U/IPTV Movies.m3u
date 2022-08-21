@@ -5344,3 +5344,675 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210503.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210502.mkv
 #EXTINF:-1 group-title="Movies" tvg-name="EN: Monsoon " tvg-logo="https://image.tmdb.org/t/p/original/xIKVeH1iAKJOYYh9lvObD3hYIaf.jpg", Monsoon 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210501.mkv
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Godzilla: Planet of the Monsters (2017)*
+https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wonder Woman (2017)
+http://deadlyblogger.com/NewRelease/wonderwoman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Colossal (2016)
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Nocturnal Animals (2016)
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rogue One: A Star Wars Story (2016)
+http://deadlyblogger.com/NewRelease/rogue1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rules Don't Apply (2016)
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X-Men: Apocalypse (2016)
+http://deadlyblogger.com/NewRelease/xmen2016.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hateful Eight (2015)
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Transporter Refueled (2015)
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Guardians of the Galaxy (2014)
+http://deadlyblogger.com/NewRelease/guardians2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", John Wick (2014)
+http://deadlyblogger.com/NewRelease/johnwick.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", A Haunted House 2 (2014)
+http://www.deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Buck Wild (2014)
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Free Fall (2014)
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Get on Up (2014)
+http://deadlyblogger.com/NewRelease/getonup.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Madea's Neighbors from Hell (2014)
+http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Maleficent (2014)
+http://www.deadlyblogger.com/NewRelease/maleficent.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Mr. Peabody & Sherman (2014)
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Need for Speed (2014)
+http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Non-Stop (2014)
+http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Paranormal Activity: The Marked Ones (2014)
+http://www.deadlyblogger.com/NewRelease/markedones.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pompeii (2014)
+http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Ride Along (2014)
+http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rio 2 (2014)
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", School Dance (2014)
+http://www.deadlyblogger.com/NewRelease/schooldance.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Taken 3 (2014)
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Amazing Spider-Man 2 (2014)
+http://www.deadlyblogger.com/NewRelease/amazin2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Lego Movie (2014)
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Pirate Fairy (2014)
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Single Moms Club (2014)
+http://www.deadlyblogger.com/NewRelease/singlemom.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Veronica Mars (2014)
+http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", We'll Never Have Paris (2014)
+https://archive.org/download/WellNeverHaveParis2014720p/We%27ll%20Never%20Have%20Paris%20(2014)%20720p%20WEB-DL%20(UpFilm).mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 12 Years a Slave (2013)
+http://www.deadlyblogger.com/NewRelease/12slave.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 47 Ronin (2013)
+http://www.deadlyblogger.com/NewRelease/47ronin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Afflicted (2013)
+http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", After Earth (2013)
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", American Hustle (2013)
+http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Anchorman 2: The Legend Continues (2013)
+http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Bad Grandpa (2013)
+http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Battle of the Year (2013)
+http://www.deadlyblogger.com/NewRelease/battleyear2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Carrie (2013)
+http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Carrie (2013)*
+https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Delivery Man (2013)
+http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Empire State (2013)
+http://www.deadlyblogger.com/NewRelease/empirestate.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Epic (2013)
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Escape Plan (2013)
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Free Birds (2013)
+http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Frozen (2013)
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Furious 6 (2013)
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Grown Ups 2 (2013)
+http://www.deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Grudge Match (2013)
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Identity Thief (2013)
+http://www.deadlyblogger.com/NewRelease/identitythief.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Insidious - Chapter 2 (2013)
+http://www.deadlyblogger.com/NewRelease/insidious2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Iron Man 3 (2013)
+http://www.deadlyblogger.com/NewRelease/ironman3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Kevin Hart: Let Me Explain (2013)
+http://www.deadlyblogger.com/NewRelease/kevin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Kick-Ass 2 (2013)
+http://www.deadlyblogger.com/NewRelease/kickass2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Killing Season (2013)
+http://www.deadlyblogger.com/NewRelease/killings.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Last Vegas (2013)
+http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Lego Star Wars: The Yoda Chronicles (2013)
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Man of Steel (2013)*
+http://www.deadlyblogger.com/NewRelease/steel.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Man of Tai Chi (2013)
+http://www.deadlyblogger.com/NewRelease/tai.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Monsters University (2013)
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Now You See Me (2013)
+http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Olympus Has Fallen (2013)
+http://www.deadlyblogger.com/NewRelease/fallen1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Prisoners (2013)
+http://www.deadlyblogger.com/NewRelease/prisoners.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Repentance (2013)
+http://www.deadlyblogger.com/NewRelease/repentance.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Runner Runner (2013)
+http://www.deadlyblogger.com/NewRelease/runnerrunner.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saving Mr. Banks (2013)
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Star Trek: Into Darkness (2013)
+http://deadlyblogger.com/NewRelease/darkness.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bling Ring (2013)
+http://www.deadlyblogger.com/NewRelease/blingring.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Call (2013)
+http://www.deadlyblogger.com/NewRelease/thecall.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Conjuring (2013)
+http://www.deadlyblogger.com/NewRelease/conjuring.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Grandmaster (2013)
+http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Family (2013)
+http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hangover Part III (2013)
+http://www.deadlyblogger.com/NewRelease/hangover3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Heat (2013)
+http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hobbit: The Desolation of Smaug (2013)
+http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hunger Games: Catching Fire (2013)
+http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Internship (2013)
+http://www.deadlyblogger.com/NewRelease/internship2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Jungle Book: Return 2 the Jungle (2013)
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Mortal Instruments: City of Bones (2013)
+http://www.deadlyblogger.com/NewRelease/themort1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Starving Games (2013)
+http://www.deadlyblogger.com/NewRelease/starving2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Smurfs 2 (2013)
+http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Wolf of Wall Street (2013)
+http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Wolverine (2013)*
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", This Is the End (2013)
+http://www.deadlyblogger.com/NewRelease/theend.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Toy Story of Terror (2013)
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Turbo (2013)
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", We're the Millers (2013)
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", World War Z (2013)
+http://www.deadlyblogger.com/NewRelease/world.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Flight (2012)
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Men in Black 3 (2012)
+http://www.deadlyblogger.com/NewRelease/mnb3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pitch Perfect (2012)
+http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Project X (2012)
+http://www.deadlyblogger.com/NewRelease/projectx.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Prometheus (2012)
+http://www.deadlyblogger.com/NewRelease/prometheus.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Safe House (2012)
+http://www.deadlyblogger.com/NewRelease/safehouse.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Spring Breakers (2012)
+http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bourne Legacy (2012)
+http://www.deadlyblogger.com/NewRelease/bourne4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hobbit: An Unexpected Journey (2012)
+http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hunger Games (2012)
+http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", This Is 40 (2012)
+http://www.deadlyblogger.com/NewRelease/thisis40.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Think Like a Man (2012)
+http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Woggie (2012)
+https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wrong Turn 5: Bloodlines (2012)
+http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Fast Five (2011)*
+http://www.deadlyblogger.com/NewRelease/fast5.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", King of Paper Chasin' (2011)
+http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rise of the Planet of the Apes (2011)
+http://www.deadlyblogger.com/NewRelease/apes7.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Girl with the Dragon Tattoo (2011)
+http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Grey (2011)
+http://www.deadlyblogger.com/NewRelease/grey.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hangover Part II (2011)
+http://www.deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hit List (2011)
+http://www.deadlyblogger.com/NewRelease/hitlist.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Kick (2011)
+http://www.deadlyblogger.com/NewRelease/thekick.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Transformers: Dark of the Moon (2011)
+http://www.deadlyblogger.com/NewRelease/transformers3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wrong Turn 4 - Bloody Beginnings (2011)
+http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X: First Class (2011)
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Everything Must Go (2010)
+http://www.deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Grown Ups (2010)
+http://www.deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Hot Tub Time Machine (2010)
+http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Insidious (2010)
+http://www.deadlyblogger.com/NewRelease/insidious1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Iron Man 2 (2010)
+http://www.deadlyblogger.com/NewRelease/ironman2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jackass 3D (2010)
+http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw 3D - The Final Chapter (2010)
+http://www.deadlyblogger.com/NewRelease/saw7.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Tangled (2010)
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Other Guys (2010)
+http://www.deadlyblogger.com/NewRelease/otherguys.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Unstoppable (2010)
+http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", A Christmas Carol (2009)
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Chiaroscuro Baby (2009)
+https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Fast & Furious (2009)*
+http://www.deadlyblogger.com/NewRelease/fast4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home (2009)
+https://archive.org/download/Home2009/Home2009_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Land of the Lost (2009)
+http://www.deadlyblogger.com/NewRelease/landlost.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Law Abiding Citizen (2009)
+http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Madea Goes to Jail (2009)
+http://www.deadlyblogger.com/NewRelease/madea1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Orphan (2009)
+http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw VI (2009)
+http://www.deadlyblogger.com/NewRelease/saw6.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Chinese Room (2009)
+https://archive.org/download/TheChineseRoom/thechineseroom.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Hangover (2009)
+http://www.deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Taking of Pelham 123 (2009)
+http://www.deadlyblogger.com/NewRelease/pelham123.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Transformers: Revenge of the Fallen (2009)
+http://www.deadlyblogger.com/NewRelease/transformers2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wrong Turn 3 - Left for Dead (2009)
+http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X-Men Origins: Wolverine (2009)
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Iron Man (2008)
+http://www.deadlyblogger.com/NewRelease/ironman1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Meet the Browns (2008)
+http://www.deadlyblogger.com/NewRelease/browns1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw V (2008)
+http://www.deadlyblogger.com/NewRelease/saw5.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Semi-Pro (2008)
+http://www.deadlyblogger.com/NewRelease/semipro.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Seven Pounds (2008)
+http://www.deadlyblogger.com/NewRelease/sevenp.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Sita Sings the Blues (2008)
+https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Sobaka (2008)
+https://archive.org/download/Sobaka/sobaka.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Step Brothers (2008)
+http://www.deadlyblogger.com/NewRelease/stepbro.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The House Bunny (2008)
+http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", American Gangster (2007)
+http://www.deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Blades of Glory (2007)
+http://www.deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Hot Fuzz (2007)
+http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", I Am Legend (2007)
+http://www.deadlyblogger.com/NewRelease/iaml.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Insecurity (2007)
+https://archive.org/download/insecurity/Insecurity_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Ratatouille (2007)
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw IV (2007)
+http://www.deadlyblogger.com/NewRelease/saw4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Steal This Film 2 (2007)
+https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bourne Ultimatum (2007)
+http://www.deadlyblogger.com/NewRelease/bourne3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Transformers (2007)
+http://www.deadlyblogger.com/NewRelease/transformers1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wrong Turn 2: Dead End (2007)
+http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Zeitgeist - The Movie (2007)
+https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Bah Humduck! - A Looney Tunes Christmas (2006)
+https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Children of Men (2006)
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Inside Man (2006)
+http://www.deadlyblogger.com/NewRelease/insideman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Killa Season (2006)
+http://www.deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Madea's Family Reunion (2006)
+http://www.deadlyblogger.com/NewRelease/madea2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Mickey Saves Santa (2006)
+http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw III (2006)
+http://www.deadlyblogger.com/NewRelease/saw3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Steal This Film (2006)
+https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Step Up (2006)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Talladega Nights: The Ballad of Ricky Bobby (2006)
+http://www.deadlyblogger.com/NewRelease/talla.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Fast and the Furious - Tokyo Drift (2006)
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wholesale Souls Inc. (2006)
+https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X-Men: The Last Stand (2006)
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Between Hurricanes (2005)
+https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Bewitched (2005)
+http://www.deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dirty (2005)
+http://www.deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Four Brothers (2005)
+http://www.deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw II (2005)
+http://www.deadlyblogger.com/NewRelease/saw2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Exorcism of Emily Rose (2005)
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Anchorman: The Legend of Ron Burgundy (2004)
+http://www.deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Blade: Trinity (2004)
+http://www.deadlyblogger.com/NewRelease/blade3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dirty Dancing - Havana Nights (2004)
+http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Godzilla: Final Wars (2004)
+https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", I Robot (2004)
+http://www.deadlyblogger.com/NewRelease/irobot.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Kicking & Screaming (2005)
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Limbo (2004)
+https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Mickey's Twice Upon a Christmas (2004)
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Napoleon Dynamite (2004)
+http://www.deadlyblogger.com/NewRelease/napolean.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Saw (2004)
+http://www.deadlyblogger.com/NewRelease/saw1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bourne Supremacy (2004)
+http://www.deadlyblogger.com/NewRelease/bourne2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Day After Tomorrow (2004)
+http://www.deadlyblogger.com/NewRelease/theday2004.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Polar Express (2004)
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 2 Fast 2 Furious (2003)
+http://www.deadlyblogger.com/NewRelease/fast2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Bad Boys II (2003)
+http://www.deadlyblogger.com/NewRelease/badboys2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Battle Royale II - Requiem (2003)
+https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Elf (2003)
+http://www.deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Finding Nemo (2003)
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Looney Tunes Back in Action (2003)
+https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Malibu's Most Wanted (2003)
+http://www.deadlyblogger.com/NewRelease/malibu1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Nobody Needs To Know (2003)
+https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Old School (2003)
+http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Lord of the Rings: The Return of the King (2003)
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Matrix Reloaded (2003)
+http://www.deadlyblogger.com/NewRelease/matrix2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Matrix Revolutions (2003)
+http://www.deadlyblogger.com/NewRelease/matrix3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wrong Turn (2003)
+http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X2 (2003)
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 28 Days Later (2002)
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Blade II (2002)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Friday After Next (2002)
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Godzilla Against Mechagodzilla (2002)
+https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Paid in Full (2002)
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Shottas (2002)
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Tarzan & Jane (2002)
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Ali (2001)
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jay and Silent Bob Strike Back (2001)
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Planet of the Apes (2001)
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pootie Tang (2001)
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Return to Cabin by the Lake (2001)
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Animal (2001)
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Fast and the Furious (2001)*
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Lord of the Rings: The Fellowship of the Ring (2001)
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Baller Blockin' (2000)
+http://www.deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Battle Royale (2000) [EN-Subs]
+https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Cabin by the Lake (2000)
+http://www.deadlyblogger.com/NewRelease/cabin1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", How the Grinch Stole Christmas (2000)
+http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Next Friday (2000)
+http://www.deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Tweety's High Flying Adventure (2000)
+https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", X-Men (2000)
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Austin Powers: The Spy Who Shagged Me (1999)
+http://www.deadlyblogger.com/NewRelease/austin2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Children of the Corn 666: Isaac's Return (1999)
+http://www.deadlyblogger.com/NewRelease/corn6.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dogma (1999)
+http://www.deadlyblogger.com/NewRelease/dogma1999.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", In Too Deep (1999)
+http://www.deadlyblogger.com/NewRelease/deep1999.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jawbreaker (1999)
+http://www.deadlyblogger.com/NewRelease/jawbreaker.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pokemon: The Movie 2000 (1999)
+https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Devil's Feast (1999)
+https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Bone Collector (1999)
+http://www.deadlyblogger.com/NewRelease/thebone1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Boondock Saints (1999)
+http://www.deadlyblogger.com/NewRelease/saints1999.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Matrix (1999)
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Wild Wild West (1999)
+http://www.deadlyblogger.com/NewRelease/wildwest.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 3 Ninjas: High Noon at Mega Mountain (1998)
+http://www.deadlyblogger.com/NewRelease/3ninja4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", A Night at the Roxbury (1998)
+http://www.deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Belly (1998)
+http://www.deadlyblogger.com/NewRelease/belly1998.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Blade (1998)
+http://www.deadlyblogger.com/NewRelease/blade1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Fallen (1998)
+http://www.deadlyblogger.com/NewRelease/fallen2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Siege (1998)
+http://www.deadlyblogger.com/NewRelease/siege1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Wedding Singer (1998)
+http://www.deadlyblogger.com/NewRelease/wedding1998.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Austin Powers: International Man of Mystery (1997)
+http://www.deadlyblogger.com/NewRelease/austin1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Flubber (1997)
+http://www.deadlyblogger.com/NewRelease/flubber.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Gattaca (1997)
+https://archive.org/download/Gattaca/Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home Alone 3 (1997)
+http://www.deadlyblogger.com/NewRelease/homealone3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Men in Black (1997)
+http://www.deadlyblogger.com/NewRelease/mnb1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rebirth of Mothra II (1997)
+https://archive.org/download/RebirthOfMothraII/Rebirth%20Of%20Mothra%20II.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Scream 2 (1997)
+https://archive.org/download/Scream21997.720p.BrRip.x264.YIFY/Scream%202%201997.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Fifth Element (1997)
+https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Children of the Corn: The Gathering (1996)
+http://www.deadlyblogger.com/NewRelease/corn4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+http://www.deadlyblogger.com/NewRelease/menace.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", D3: The Mighty Ducks (1996)
+http://www.deadlyblogger.com/NewRelease/mighty3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Independence Day (1996)
+http://www.deadlyblogger.com/NewRelease/indep.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jack (1996)
+http://www.deadlyblogger.com/NewRelease/jack1996.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jingle All the Way (1996)
+http://www.deadlyblogger.com/NewRelease/jinglealltheway.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Rebirth of Mothra (1996)
+https://archive.org/download/RebirthOfMothra/Rebirth%20Of%20Mothra.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Space Jam (1996)
+https://archive.org/download/Bugs_Bunny_Collection/Space%20Jam%20(Bg%20Audio)%20(1996)%20-%20[arsenaloyal].mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 3 Ninjas Knuckle Up (1995)
+http://www.deadlyblogger.com/NewRelease/3ninja3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Bad Boys (1995)
+http://www.deadlyblogger.com/NewRelease/badboys1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Children of the Corn III: Urban Harvest (1995)
+http://www.deadlyblogger.com/NewRelease/corn3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Congo (1995)
+http://www.deadlyblogger.com/NewRelease/congo1995.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Crimson Tide (1995)
+http://www.deadlyblogger.com/NewRelease/crimson.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dangerous Minds (1995)
+http://www.deadlyblogger.com/NewRelease/minds.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dead Presidents (1995)
+http://www.deadlyblogger.com/NewRelease/deadp.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Friday (1995)
+http://www.deadlyblogger.com/NewRelease/friday1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Gamera: Guardian of the Universe (1995)
+https://archive.org/download/GameraTheGuardianOfTheUniverse/Gamera%20-%20The%20Guardian%20Of%20The%20Universe.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jumanji (1995)
+http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Jumanji (1995)*
+https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", New Jersey Drive (1995)
+http://www.deadlyblogger.com/NewRelease/jerseydrive95.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Theodore Rex (1995)
+https://archive.org/download/Theodore_Rex_1995_Full_Movie/Theodore_Rex_1995_Full_Movie-Uns80N3aF34.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 3 Ninjas Kick Back (1994)
+http://www.deadlyblogger.com/NewRelease/3ninja2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", D2: The Mighty Ducks (1994)
+http://www.deadlyblogger.com/NewRelease/mighty2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", New Nightmare (1994)
+http://www.deadlyblogger.com/NewRelease/elm7.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Lion King (1994)
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Blood In Blood Out (1993)
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Hocus Pocus (1993)
+http://www.deadlyblogger.com/NewRelease/hocuspocus.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Menace II Society (1993)
+http://www.deadlyblogger.com/NewRelease/menace2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Mrs. Doubtfire (1993)
+http://www.deadlyblogger.com/NewRelease/doubtfire.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Only the Strong (1993)
+http://www.deadlyblogger.com/NewRelease/onlys.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Teenage Mutant Ninja Turtles III (1993)
+http://www.deadlyblogger.com/NewRelease/tmnt3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Nightmare Before Christmas (1993)
+http://www.deadlyblogger.com/NewRelease/nightmarebefore.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Secret Garden (1993)
+http://www.deadlyblogger.com/NewRelease/garden1993.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", 3 Ninjas (1992)
+http://www.deadlyblogger.com/NewRelease/3ninja1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Class Act (1992)
+http://www.deadlyblogger.com/NewRelease/classact.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Children of the Corn II: The Final Sacrifice (1992)
+http://www.deadlyblogger.com/NewRelease/corn2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Godzilla and Mothra: The Battle for Earth (1992)
+https://archive.org/download/GodzillaAndMothraTheBattleForEarth/Godzilla%20And%20Mothra%20The%20Battle%20For%20Earth.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home Alone 2: Lost in New York (1992)
+http://www.deadlyblogger.com/NewRelease/homealone2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Juice (1992)
+http://www.deadlyblogger.com/NewRelease/juice.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pet Sematary II (1992)
+http://www.deadlyblogger.com/NewRelease/sematary2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Romper Stomper (1992)
+http://www.deadlyblogger.com/NewRelease/romper.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", South Central (1992)
+http://www.deadlyblogger.com/NewRelease/southcentral.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Mighty Ducks (1992)
+http://www.deadlyblogger.com/NewRelease/mighty1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Muppet Christmas Carol (1992)
+http://www.deadlyblogger.com/NewRelease/muppetcarol.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Boyz n the Hood (1991)
+http://www.deadlyblogger.com/NewRelease/thehood.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Child's Play 3 (1991)
+http://www.deadlyblogger.com/NewRelease/childsplay3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Don't Tell Mom the Babysitter's Dead (1991)
+http://www.deadlyblogger.com/NewRelease/babysitter1991.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Dying Young (1991)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Scelta%20D.Amore%20-%20Dying%20Young%20%281991%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Freddy's Dead: The Final Nightmare (1991)
+http://www.deadlyblogger.com/NewRelease/elm6.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Hook (1991)
+http://www.deadlyblogger.com/NewRelease/hook1991.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", New Jack City (1991)
+http://www.deadlyblogger.com/NewRelease/newjack.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+http://www.deadlyblogger.com/NewRelease/tmnt2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Child's Play 2 (1990)
+http://www.deadlyblogger.com/NewRelease/childsplay2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", DuckTales the Movie: Treasure of the Lost Lamp (1990)
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Home Alone (1990)
+http://www.deadlyblogger.com/NewRelease/homealone1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Teenage Mutant Ninja Turtles (1990)
+http://www.deadlyblogger.com/NewRelease/tmnt1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Godfather: Part III (1990)
+http://www.deadlyblogger.com/NewRelease/godfather3.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Troll 2 (1990)
+http://www.deadlyblogger.com/NewRelease/troll2.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", A Nightmare on Elm Street 5 - The Dream Child (1989)
+http://www.deadlyblogger.com/NewRelease/elm5.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Francesco (1989)
+https://archive.org/download/Francesco1989_466/Francesco-1989-Clip_512kb.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Pet Sematary (1989)
+http://www.deadlyblogger.com/NewRelease/sematary1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", The Little Mermaid (1989)
+http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", A Nightmare on Elm Street 4 - The Dream Master (1988)
+http://www.deadlyblogger.com/NewRelease/elm4.mp4
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" ", Child's Play (1988)
+http://www.deadlyblogger.com/NewRelease/childsplay1.mp4
