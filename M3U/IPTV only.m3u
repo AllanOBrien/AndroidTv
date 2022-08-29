@@ -273,7 +273,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ 
-http://fortv.cc:8080/Ronnie/Ronnie/9299
+https://list.iptvcat.com/my_list/s/aa0f18f7ae67ec33ac22b73a0146953b.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-jGUGrTO6lH4/X30u1jLNXAI/AAAAAAAABzI/0eDD5kyDh8kzfeWG1tUS7ere9cNS3pvggCLcBGAsYHQ/w200-h200/Starz%2Bwest%2BUSA.png",Starz Cinema West
 http://ky-iptv.com:80/live/robertd/robertd/176068.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY HD
@@ -283,7 +283,7 @@ https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmvWbwcWinVuyhByH4Y4fd4g/m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SUNDANCE TV
-http://tv365.me:900/7439929587/4879165436/181583
+https://list.iptvcat.com/my_list/s/afde75df5e3e3a2430786d1d9b302c08.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",SYFY
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png",TBS
@@ -295,7 +295,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT EAST HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT LA HD
-http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
+http://ky-iptv.com:80/Maurice10/Maurice20/175954.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TNTSERIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1920px-TruTV_2014.svg.png",TRUTV
@@ -317,9 +317,9 @@ http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ultraxplaytv.com:8000/images/0b473ed51b9d5470e30044b4a1fd3db3.png",WPIX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://p2086.securepoint.io:2086/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",BABY TV
-http://tv365.me:900/7439929587/4879165436/176802
+http://ky-iptv.com:80/Maurice10/Maurice20/176237.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",BOOMERANG HD
-http://tv365.me:900/7439929587/4879165436/176822
+http://ky-iptv.com:80/Maurice10/Maurice20/176238.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",BRAT TV
 http://ky-iptv.com:80/live/robertd/robertd/1584579.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK HD US
