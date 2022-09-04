@@ -664,8 +664,16 @@ http://ky-iptv.com:80/live/robertd/robertd/1846772.m3u8
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98785
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",SKY SPORTS F1 HD
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37068&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37068&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/82729
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",SKY SPORTS FOOTBALL
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98781
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11658&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53980
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",SKY SPORTS GOLF
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98779
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
@@ -698,6 +706,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extens
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE 1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE 1
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE 2
 http://ky-iptv.com:80/robertd/robertd/1383050.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SUPER SPORT GOLF
