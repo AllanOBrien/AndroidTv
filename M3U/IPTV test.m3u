@@ -1,6 +1,8 @@
-#EXTINF:-1 group-title="VOD" ,tv shows
+#EXTM3U
+#EXTINF:-1,tv shows
 https://bit.ly/ansiptvseries
 #EXT-X-ENDLIST
-#EXTINF:-1 group-title="VOD" ,movies
+#EXTM3U
+#EXTINF:-1,movies
 https://bit.ly/ansiptvmovies
 #EXT-X-ENDLIST
