@@ -1,8 +1,3 @@
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",EPIX 2 HD
-http://ky-iptv.com:80/Maurice10/Maurice20/176030.ts
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-PN_jp5hbqKc/XzNOqlH2e8I/AAAAAAAAAuI/nKDY2lFPFzEbSvI2Y7s07SaZouL4syyoQCLcBGAsYHQ/w200-h200/62%2BEpix%2Bdrive.png",EPIX Drive
-http://ky-iptv.com:80/live/robertd/robertd/176027.ts
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-us.png",EPIX HD
-http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45582.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",EPIX HITS HD
-http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90956.m3u8
+https://bit.ly/ansiptvseries
+#EXT-X-DISCONTINUITY
+https://bit.ly/ansiptvmovies
