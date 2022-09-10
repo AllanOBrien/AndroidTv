@@ -69,7 +69,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playli
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/AndPrive.in.png",&Prive
-http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
@@ -113,7 +113,7 @@ http://ky-iptv.com:80/Maurice10/Maurice20/176020.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://p2086.securepoint.io:2086/images/35e06fce2a6365719ef6fefc23d60ac7.png",CLEO TV
 http://ky-iptv.com:80/live/robertd/robertd/1228409.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
-http://tv365.me:900/7439929587/4879165436/176763
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90937.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",COMEDY CENTRAL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="comet.us" tvg-chno="101" tvg-logo="https://i.imgur.com/27D8JVS.png",COMET
