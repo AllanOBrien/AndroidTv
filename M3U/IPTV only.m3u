@@ -519,7 +519,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/302be602baa5543a2dae95e05f9cf09e.png",CLASSIC ARTS SHOWCASE
-http://ky-iptv.com:80/robertd/robertd/499437.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/ae8a4ef43a3ec639bab5f5261fea6912.png",COURT TV
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-3lzhuEY9h8k/XzNOjn1i3gI/AAAAAAAAAtE/CKLYpNh-qegoSPHKGbi-jMpaDWZPAnTVwCLcBGAsYHQ/w200-h200/47%2BCrime%2B%2526%2Binvestigation.png",Crime & Investigation Network
@@ -535,7 +535,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smi
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg",Discovery Velocity
 http://ky-iptv.com:80/live/robertd/robertd/399960.ts
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery World
-http://mains.services:2086/A.Jones01/1904550/88719?checkedby:iptvcat.com
+http://uniontvs.com:8080/Mohamed/123456/262000?checkedby:iptvcat.com
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://p2086.securepoint.io:2087/images/38cb042fe09b8041c224c64025c2bb9a.jpg",DOCURAMA
 https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/987c7726d3fbcb5df58b51c8aba7eb1f.png",DOG TV
@@ -547,9 +547,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/playlist.m
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lh3.googleusercontent.com/WQ2ho9IeNMbXvlWlPlbjGFPJML3wXo3BZmWGo-JBnOSFz1Ham13Dv3PsDUcTzm_AHDpZ",LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2035
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD 2
-https://tenwafers.xyz:443/play/EbrZCAqwNQ6RyUt2EHkzmjZR2XYI4iCnYE_W1WGqap4/m3u8
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=39799&extension=ts&play_token=6x1TctzWw6
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",OUTSIDE TV+
