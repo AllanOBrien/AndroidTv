@@ -2946,8 +2946,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212176.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212175.mkv
 #EXTINF:-1 group-title="Movies" tvg-name="Mercy Christmas " tvg-logo="https://image.tmdb.org/t/p/original/2jRVyg7YRPpq4SLaa047eVNJvwe.jpg",Mercy Christmas 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212174.mkv
-#EXTINF:-1 group-title="Movies" tvg-name="Mission Impossible - Fallout " tvg-logo="https://image.tmdb.org/t/p/original/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",Mission Impossible - Fallout 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212173.mkv
 #EXTINF:-1 group-title="Movies" tvg-name="Molly The Real Thing " tvg-logo="https://image.tmdb.org/t/p/original/6IwiGrcnumfCwR6s3JVV8Je0rKs.jpg",Molly The Real Thing 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212172.mkv
 #EXTINF:-1 group-title="Movies" tvg-name="Papillon " tvg-logo="https://image.tmdb.org/t/p/original/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",Papillon 
@@ -6810,8 +6808,6 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/634793.mp4
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/635372.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Mid90s 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/635373.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo=" ", Mission Impossible Fallout 2018
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/628812.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ", Hunter Killer 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/634446.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",A-X-L 2018
@@ -8862,8 +8858,6 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/679866.mp4
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/679901.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ", The Art of Self Defense 2019
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/679902.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Toy Story 4 2019
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/679903.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Truth and Justice 2019
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/679905.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Artik 2019
@@ -16936,8 +16930,6 @@ http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/4610.mkv
 http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/14469.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="",Tone-Deaf
 http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/19108.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo="",Top Gun
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18543.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo="",Toy Story
 http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/18928.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo="",Toy Story 2
@@ -17514,6 +17506,26 @@ https://dl.dropboxusercontent.com/sh/h6jwcuy1y7xv7ff/AABism9vIA4aWnhZqIvUIjYOa/S
 https://dl.dropboxusercontent.com/sh/h6jwcuy1y7xv7ff/AAA9zxMR2_N0Lr20J7zeC_n6a/The School Of Rock 2003 720p BRRip zeberzee.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="",The Skeleton Key
 https://dl.dropboxusercontent.com/sh/h6jwcuy1y7xv7ff/AABNDF9cZ2nNAqOkIjw5Ve-oa/The.Skeleton.Key.2005.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",20th Century Women
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AAAMoYUU7sgcjaGJk0rGxuhEa/20th.Century.Women.2016.1080p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",47 Ronin
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AACydIS_qnjbAaEr18p4C2ETa/47.Ronin.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",A Scanner Darkly
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AAAjZNPwAPq0DZl0JZY8lqbca/A.Scanner.Darkly.2006.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",Bill Ted Face The Music
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AAAKlpWtUt99ZA-WVfM02vH2a/Bill.Ted.Face.The.Music.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",Mission Impossible
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AABSMo_DiZXSi5Htvy3c4QZea/MI 1996 1080p.mkv
+#EXTINF:-1 group-title="Movies" tvg-logo="",Mission Impossible II
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AAAs-vvfOKa_BlfOSemuKH6ba/Mission.Impossible.II.2000.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",The Village
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AACWOcSsX-wcob3HPxz05Swqa/The Village %282004%29 720p BrRip 5.1 x264 aac %5BTuGAZx%5D.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",The Devils Advocate
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AABT3aWou5N8p2xjkkAiVlWNa/The.Devils.Advocate.1997.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",The Lake House
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AACQmoG_uvce2u6GSmtXiftDa/The.Lake.House.2006.1080p.BluRay.x265-RARBG.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="",The SpongeBob Movie Sponge On The Run
+https://dl.dropboxusercontent.com/sh/f17rb6lv2lqwje9/AABVKf4dDop2nFexmuz7jsAqa/The.SpongeBob.Movie.Sponge.On.The.Run.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",Game of Thrones S1 EP1
 https://dl.dropboxusercontent.com/s/i99d1s0dmo6srmo/Game.of.Thrones.S01E01.720p.BluRay.500MB.ShAaNiG.com.mkv
 #EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",Game of Thrones S1 EP2
