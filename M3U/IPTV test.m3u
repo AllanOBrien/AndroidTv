@@ -1,23 +1,33 @@
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:CNC3.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",SYNERGY TV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",B4U MUSIC
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTwg0Vl0oBeCuvnaw9yaxqw0XMKOFP_HJL9rS1ZxQ=s900-c-k-c0x00ffffff-no-rj",Colors
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/157161.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV 
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",STAR PLUS
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/280767
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",ZEE HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:ZEETV.smil/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN Live
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/204987.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://p2086.securepoint.io:2086/images/a4fe9a2accf2230f9fd2b08647b84dbe.png",CHRISTIAN TELEVISION NETWORK
+http://ky-iptv.com:80/live/robertd/robertd/1235144.ts
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/8d0ca1f4e8add76ca70b5b064205f340.jpg",EWTN HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 
 
 
