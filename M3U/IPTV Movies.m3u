@@ -452,7 +452,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212670.mkv
 https://dl.dropboxusercontent.com/s/lukc62kpii44gf3/Fast%20and%20Furious%20Presents%20Hobbs%20and%20Shaw.mkv
 #EXTINF:-1 group-title="Movies 2019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Guava-Island.png",Guava Island
 https://dl.dropboxusercontent.com/s/byuv3c238dq0976/Guava%20Island.mkv
-#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMxMGRlNGYtNDQwOC00NzdmLTk1NmUtZTBhNTFmMzM1MzY4XkEyXkFqcGdeQXVyNzU5Nzk0MQ@@._V1_UY1200_CR85,0,630,1200_AL_.jpg",Hashtag 
+#EXTINF:-1 group-title="Movies 2019" tvg-logo="https://bluray7.com/wp-content/uploads/2020/06/el5iyidR2XkMh0JusWGQLLZuaYb.jpg",Hashtag 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212494.mkv
 #EXTINF:-1 group-title="Movies 2019" tvg-logo="https://image.tmdb.org/t/p/original/8pPerZl6DPQFElh7Mf52pSrlYi8.jpg",Hatton Garden The Inside Story 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212667.mkv
@@ -830,7 +830,7 @@ https://dl.dropboxusercontent.com/s/2qil0bg6yzq4akz/Amelie%20%5BAm%C3%A9lie%20Po
 https://dl.dropboxusercontent.com/s/oxqjzhucu92q6w4/Harry.Potter.And.The.Philosopher%27s.Stone.2001.BDRip.720p.mkv
 #EXTINF:-1 group-title="Movies 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Jurassic_Park_III_poster.jpg",Jurassic Park III
 https://dl.dropboxusercontent.com/s/6rk871pr4r40xyx/Jurassic%20Park%20III.mp4
-#EXTINF:-1 group-title="Movies 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",Monsters,Inc.
+#EXTINF:-1 group-title="Movies 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Monsters_Inc.JPG",Monsters Inc.
 https://dl.dropboxusercontent.com/s/x733g9ljyvwup97/Monsters.Inc.2001.720p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="Movies 2001" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Rush_Hour_2_poster.png",Rush Hour 2
 https://dl.dropboxusercontent.com/s/k6l00yt01qv3u3l/Rush.Hour.2.2001.720p.BluRay.x264.YIFY.mp4
@@ -1848,7 +1848,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212260.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212259.mp4
 #EXTINF:-1 group-title="Movies" tvg-name="Sex And Lucia " tvg-logo="https://image.tmdb.org/t/p/original/gvErAg9bv7xOO3B40gottv6Bqip.jpg",Sex And Lucia 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212258.mp4
-#EXTINF:-1 group-title="Movies" tvg-name="Sex,Lies,And Videotape " tvg-logo="https://image.tmdb.org/t/p/original/8nEWEFsRfwpyU0OP3Jv4Boxl5MY.jpg",Sex,Lies,And Videotape 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original/8nEWEFsRfwpyU0OP3Jv4Boxl5MY.jpg",Sex Lies And Videotape 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212257.mp4
 #EXTINF:-1 group-title="Movies" tvg-name="Shame " tvg-logo="https://image.tmdb.org/t/p/original/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg",Shame 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212256.mp4
@@ -1886,7 +1886,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212241.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212240.mp4
 #EXTINF:-1 group-title="Movies" tvg-name="The Center Of The World " tvg-logo="https://image.tmdb.org/t/p/original/lmcabkCsSQ08yll4dIVclWc2RSX.jpg",The Center Of The World 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212239.mp4
-#EXTINF:-1 group-title="Movies" tvg-name="The Cook,The Thief,His Wife & Her Lover " tvg-logo="https://image.tmdb.org/t/p/original/15xMqAnFsROopAT66zdRyu2Dtek.jpg",The Cook,The Thief,His Wife & Her Lover 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original/15xMqAnFsROopAT66zdRyu2Dtek.jpg",The Cook The Thief His Wife & Her Lover 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212238.mp4
 #EXTINF:-1 group-title="Movies" tvg-name="The Crush " tvg-logo="https://image.tmdb.org/t/p/original/yLjDOHZ56VBYLg5m3ohx4hMcTtO.jpg",The Crush 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212237.mp4
@@ -5566,7 +5566,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/50208.mkv
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/50210.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",The Hatton Garden Job
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/50202.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Three Billboards Outside Ebbing,Missouri 2018
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Three Billboards Outside Ebbing Missouri 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/19462.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Is Genesis History? 2017
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/50186.mkv
@@ -6028,7 +6028,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/52732.mkv
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/52733.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Boundaries 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/625642.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Don't Worry,He Won't Get Far On Foot 2018
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Don't Worry He Won't Get Far On Foot 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/623697.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Drew Michael 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/53116.mkv
@@ -6050,7 +6050,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/627096.mp4
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/38294.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Like Father 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/624196.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Love,Simon 2018
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Love Simon 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/35505.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Mandy 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/625649.mkv
@@ -6208,7 +6208,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/53555.mkv
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/625653.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",The Ashram 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/21219.mp4
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Paul,Apostle Of Christ 2018
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Paul Apostle Of Christ 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/37259.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",The Last Witness 2018
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/35501.mkv
@@ -7020,7 +7020,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/643072.mp4
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/643079.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Trading Paint 2019
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/643081.mp4
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Berlin,I Love You 2019
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Berlin I Love You 2019
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/643439.mkv
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",High Flying Bird 2019
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/643442.mkv
@@ -7998,7 +7998,7 @@ http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/669808.mp4
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/669992.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",The Last Thing He Wanted 2020
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/669993.mp4
-#EXTINF:-1 group-title="Movies" tvg-logo=" ",Standing Up,Falling Down 2020
+#EXTINF:-1 group-title="Movies" tvg-logo=" ",Standing Up Falling Down 2020
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/669994.mp4
 #EXTINF:-1 group-title="Movies" tvg-logo=" ",Rag Doll 2020
 http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/669995.mp4
