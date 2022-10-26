@@ -1,8 +1,11 @@
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="https://bit.ly/anstvepg"
+#EXTM3U x-tvg-url="https://bit.ly/anstvepg2"
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="cnc3.car" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BET.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BET.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET EAST
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="cw.wupa.atlanta.ga.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
