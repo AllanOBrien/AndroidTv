@@ -1,23 +1,23 @@
 #EXTINF:-1,#EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="cnc3.car" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8
+https://bit.ly/ansiptvcnc3
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV 
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
+https://bit.ly/ansiptvietv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BET.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET East
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
+https://bit.ly/ansiptvbethd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="cw.wupa.atlanta.ga.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
+https://bit.ly/ansiptvcw11
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="NatGeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
+https://bit.ly/ansiptvnationalgeographic
 #EXTINF:-1 group-title="NEWS" tvg-id="msnbc.usa.us" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+https://bit.ly/ansiptvmsnbchd
 #EXTINF:-1 group-title="MUSIC" tvg-id="mtv.us" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
+https://bit.ly/ansiptvmtv
 #EXTINF:-1 group-title="WESTERN" tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png",HLS STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+https://bit.ly/ansiptvhlsstrirrwesterns
 #EXTINF:-1 group-title="ANIME" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://bit.ly/ansiptvanimeallday
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
-https://legochannel-vizio.amagi.tv/playlist.m3u8
+https://bit.ly/ansiptvlegochannel
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/How_the_Grinch_Stole_Christmas_film_poster.jpg",How the Grinch Stole Christmas
 https://dl.dropboxusercontent.com/sh/gumdvjut3i8tfmu/AABw-NOTznekPSyCB6XW5v_3a/How.the.Grinch.Stole.Christmas.2000.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
