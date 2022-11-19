@@ -1,3 +1,63 @@
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WPLGlogo.png/140px-WPLGlogo.png",ABC 10 MIAMI HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/170px-KABC-TV_logo.svg.png",ABC 7 LOS ANGELES HD
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" tvg-id="AlJazeeraEnglish.qa",AL JAZEERA NEWS ENGLISH
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg" tvg-id="BBCWorldNewsNorthAmerica.uk",BBC AMERICA HD
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1846782.ts
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png" tvg-id="BBCNews.uk",BBC WORLD NEWS HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC TORONTO HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSNews.us",CBS NEWS HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" tvg-id="CGTN.cn",CGTN ENGLISH HD
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" tvg-id="Cheddar.us",CHEDDAR
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1852101.ts
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TORONTO HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg" tvg-id="CNBC.us",CNBC HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png" tvg-id="CNN.us",CNN International
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1395475.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png" tvg-id="CNNHD.us",CNN USA
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/208973.ts
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17566&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/e48f93bb225015d64af95220587f81aa.png" tvg-id="CSPAN.us",CSPAN 1
+http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/388?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/b27cedaf0ff83525403980572ea93543.png" tvg-id="CSPAN2.us",CSPAN 2
+http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/387?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/4cce7aeeb97272c9fc7a568ad8760ba9.png" tvg-id="FoxBusiness.us",FOX BUSINESS NETWORK
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/176949.ts
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png" tvg-id="FoxNewsChannel.us",FOX News
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png" tvg-id="France24English.fr",FRANCE 24 ENGLISH
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://p2086.securepoint.io:2086/images/c598b9cbb33c393d831b2169b57f0b57.png" tvg-id="FreeSpeechTV.us",FREE SPEECH TV
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/787136.ts
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/KTLA_logo.svg/120px-KTLA_logo.svg.png",KTLA 5 HD LA
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png" tvg-id="MSNBC.us",MSNBC HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" ,NEWS 12 HD (BROOKLYN)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="NHKWorldJapan.jp" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp",NHK World Japan
+http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",THE WEATHER CHANEL
+http://ky-iptv.com:80/live/Nestor1234/Nestor1234/175945.ts
+#EXTINF:-1 group-title="NEWS" tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
