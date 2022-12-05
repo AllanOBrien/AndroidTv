@@ -40,9 +40,5 @@ https://bit.ly/ansiptvanimeallday
 https://bit.ly/ansiptvlegochannel
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.live.comeseetv.com/uploads/images/clip_1562_1565394558_social.jpg",Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-id="Boomerang.us",BOOMERANG HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-#EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h1.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDM6MjA6MzMgQU0maGFzaF92YWx1ZT1aMC95SHF0SUxRZHduS3ZyOE9QZ29nPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/How_the_Grinch_Stole_Christmas_film_poster.jpg",How the Grinch Stole Christmas
 https://dl.dropboxusercontent.com/sh/gumdvjut3i8tfmu/AABw-NOTznekPSyCB6XW5v_3a/How.the.Grinch.Stole.Christmas.2000.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
