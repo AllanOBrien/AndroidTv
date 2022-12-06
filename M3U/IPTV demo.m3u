@@ -7,7 +7,7 @@ https://bit.ly/ansiptvietv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BETEast.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET East
 https://bit.ly/ansiptvbethd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
-https://dai.google.com/linear/hls/pa/event/wFZ1ufQ8ToaSdPgGtbBbpw/stream/f5d7d6a6-aa1f-43df-8e25-304bfb6afe9f:DLS/variant/d1ca50f5d27359c24aa3efe552a57e09/bandwidth/5630732.m3u8
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/a6/bf/6fa6bff4-2527-6c5d-1bc1-09e35b35440a/source/512x512bb.jpg",CineLife
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="TheCW.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
@@ -15,19 +15,19 @@ https://bit.ly/ansiptvcw11
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i1.wp.com/www.rokuki.com/wp-content/uploads/2019/09/comedy-dynamics.jpg?resize=1070%2C470",STIRR Comedy Dynamics
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="charge.us" tvg-logo="https://i.imgur.com/6UpMEN1.png",CHARGE
-https://dai.google.com/linear/hls/pa/event/e1QjWFRNSR2YFYGsPbkfgg/stream/12c71dd0-21a3-4bc6-b8b2-714ceade476f:TUL/variant/a5d897cd89df69a305d485e79dfcdddf/bandwidth/2689125.m3u8
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="dove.us" tvg-logo="https://i.imgur.com/V0u3mgI.png",Dove
-https://dai.google.com/linear/hls/pa/event/dfbBGQhPQQqypdEAjpUGlA/stream/d25ca9f5-5b93-4413-bd0c-dcf7ef02f2fb:CBF2/variant/e24b036e6d4479e9efba09e6cd5e87d0/bandwidth/2500000.m3u8
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
-https://dai.google.com/linear/hls/pa/event/5xreV3X4T9WxeIbrwOmdMA/stream/94f2e59c-6ce4-427e-8624-4e0622376888:MRN2/variant/313487ba7be4372420923573fbcf13e4/bandwidth/3072000.m3u8
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="peopletv.us" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
-https://dai.google.com/linear/hls/pa/event/Fe9LYYCFR5Csif-I5dyMHg/stream/3865d445-25c6-4c44-8699-da7f3ac3fd04:MRN2/variant/b82a146b610dcc4db0477dc37c5ed070/bandwidth/1513283.m3u8
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="NationalGeographicEast.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
 https://bit.ly/ansiptvnationalgeographic
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSNews.us",CBS NEWS HD
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/27174891-bf99-496b-9d4d-ef043d3c6eb4:CBF2/variant/ea524505d39e73f6a2da30bf0adce261/bandwidth/3073312.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="MSNBC.us" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
 https://bit.ly/ansiptvmsnbchd
 #EXTINF:-1 group-title="MUSIC" tvg-id="MTVEast.us" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
