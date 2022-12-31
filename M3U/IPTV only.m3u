@@ -27,15 +27,15 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlis
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM JAMAICA
-http://n2086.securepoint.io:25461/live/airball/airball/118996.m3u8
+http://n2086.securepoint.io:25461/live/nWnWD6mWjGgf/wMNgLRSrxeAm/118996.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM JAMAICA 2
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/499632.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
-http://n2086.securepoint.io:25461/live/airball/airball/56902.m3u8
+http://n2086.securepoint.io:25461/live/nWnWD6mWjGgf/wMNgLRSrxeAm/56902.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV 2
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1891102.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
-http://n2086.securepoint.io:25461/airball/airball/118994
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/118994
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/MELLO_TV.png",MELLO TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
@@ -535,9 +535,9 @@ http://mains.services:2086/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/63650?checkedby:
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w21866239.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio  Reggae
-http://n2086.securepoint.io:25461/airball/airball/101226
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/101226
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio  Love Songs
-http://n2086.securepoint.io:25461/airball/airball/65731
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/65731
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-gvSm1kkq_qM/X0L3hft97VI/AAAAAAAABL4/s0P_lumasQEaLYLyOvH4wRYB43jH3xX1wCLcBGAsYHQ/w200-h200/167%2BMtv%2B2.png",MTV 2
@@ -621,7 +621,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://ufdvgospel.com/wp-content/themes/ufdvgospel/images/logo.png",UFDV GOSPEL RADIO (JAMAICA)
-http://n2086.securepoint.io:25461/airball/airball/101462
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/101462
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/200px-Vevo_2016_Logo.svg.png" tvg-id="Vevo2K.us",VEVO
@@ -897,7 +897,7 @@ http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/634
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",BOX NATION UK 2
 http://humiptv.live:8080//live/500757885/3356646354/1056.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",BOX NATION UK 3
-http://n2086.securepoint.io:25461/airball/airball/53849
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53849
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT 1 HD1
 http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/6
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png",BT SPORT 1 HD2
@@ -1099,7 +1099,7 @@ http://ky-iptv.com:80/live/Nestor1234/Nestor1234/386582.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 4
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/386583.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SUPER SPORT GOLF
-http://n2086.securepoint.io:25461/airball/airball/56763
+http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56763
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",THE BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",TSN 1
