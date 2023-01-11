@@ -1,6 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://bit.ly/anstvepgus"
-#EXTINF:-1 group-title="TRINIDAD" tvg-name="CAR: CNC3 TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnctv3.tt" tvg-name="CAR: CNC3 TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-name="CAR: GAYELLE THE CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
@@ -16,16 +16,18 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="tttlimited.tt" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",REVOLT HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlist.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-id="revolt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",REVOLT HD
+http://sharkiptv.vip:80/live/0863663869/2048942146/176704.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
+http://sharkiptv.vip:80/live/0863663869/2048942146/76411.ts
+#EXTINF:-1 group-title="JAMAICA" tvg-id="ceen.jm" tvg-logo="https://lo1.in/car/ceen.png",CEEN HD
+http://sharkiptv.vip:80/live/0863663869/2048942146/376160.ts
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM JAMAICA
 http://n2086.securepoint.io:25461/live/nWnWD6mWjGgf/wMNgLRSrxeAm/118996.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM JAMAICA 2
@@ -33,18 +35,20 @@ http://ky-iptv.com:80/live/Nestor1234/Nestor1234/499632.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
 http://n2086.securepoint.io:25461/live/nWnWD6mWjGgf/wMNgLRSrxeAm/56902.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV 2
-http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1891102.m3u8
+http://sharkiptv.vip:80/live/0863663869/2048942146/13154.ts
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/118994
+#EXTINF:-1 group-title="JAMAICA" tvg-id="jamaicanewsnetwork.jm" tvg-logo="https://lo1.in/car/jnn.png",JNN HD
+http://sharkiptv.vip:80/live/0863663869/2048942146/195850.ts
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/MELLO_TV.png",MELLO TV
-https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
-http://fortv.cc:8080/jsc/jsc/21094
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV 2
+http://sharkiptv.vip:80/live/0863663869/2048942146/195853.ts
+#EXTINF:-1 group-title="JAMAICA" tvg-id="reggaeentertainment.jm" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
+http://sharkiptv.vip:80/live/0863663869/2048942146/195862.ts
+#EXTINF:-1 group-title="JAMAICA" tvg-id="reggaeentertainment.jm" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV 2
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/499568.m3u8
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS
-http://line.premiumpowers.net:80/live/Bianca/1234567/550818.m3u8
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS 2
+#EXTINF:-1 group-title="JAMAICA" tvg-id="televisionjamaicasports.jm" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS
+http://sharkiptv.vip:80/live/0863663869/2048942146/195896.ts
+#EXTINF:-1 group-title="JAMAICA" tvg-id="televisionjamaicasports.jm" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ SPORTS 2
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1136524.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-name="CAR: B4U MOVIES" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",B4U MOVIES (IND)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
@@ -894,7 +898,7 @@ http://line.premiumpowers.net:80/Bianca/1234567/547746
 http://line.premiumpowers.net:80/Bianca/1234567/547747
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1920px-Fight_network_logo.svg.png",Fight Network
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1859755.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-id="flowsports2.tt" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/176986.ts
@@ -1014,7 +1018,7 @@ http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1919875.ts
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1908869.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/425326269958328320/0rPoK3Cw_400x400.jpeg",SPORTSMAX 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/425326269958328320/0rPoK3Cw_400x400.jpeg",SPORTSMAX 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="sportsmax2.jm" tvg-logo="https://pbs.twimg.com/profile_images/425326269958328320/0rPoK3Cw_400x400.jpeg",SPORTSMAX 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",Super Sport LaLiga
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
