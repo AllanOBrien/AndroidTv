@@ -18,8 +18,10 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/pla
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="tttlimited.tt" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="ccntv6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="ccntv6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 SD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="ccntv6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 HD
+http://sharkiptv.vip:80/live/0863663869/2048942146/268269.ts
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-id="revolt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",REVOLT HD
