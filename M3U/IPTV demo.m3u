@@ -1,10 +1,10 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://bit.ly/anstvepgus"
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnc3.car" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnctv3.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 https://bit.ly/ansiptvcnc3
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV 
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV 
 https://bit.ly/ansiptvietv
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BETEast.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET East
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BET.us" tvg-logo="https://static.epg.best/us/BET.us.png",BET East
 https://bit.ly/ansiptvbethd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Buzzr.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
