@@ -1,2 +1,285 @@
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/n9U0Yr9ZN4WycZt2RT7nHHN1y6zRAnIszhoikUflgPluKBGH-CBO2TAVUk6HsUghOKTt3p1zMIAYFiI2_JqOhZ_B91TgjOdA14T6VOaKvb1h93d2lQMxaZdU4JvRFqt_qtrFPFgtUHwbFQiU0yM_f3z32akmvUxeXormQsZ-H8ZUy-vwvGp80pnayqGK7uWN=w1280",INSTANTSTREAM
-https://dl.dropboxusercontent.com/s/dhsuig93oefmk9r/INSTANTSTREAM%20Installation.mp4
+#EXTM3U
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="US-720 : A&E" tvg-logo="http://onlytimewilltell.xyz:2086/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="USA 720 (low bit)",US-720 : A&E
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507594
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="US-720 : ACC NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/61f6d06824a04c8a91c6cf86d5b52c29.png" group-title="USA 720 (low bit)",US-720 : ACC NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507721
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="US-720 : ACTION MAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="USA 720 (low bit)",US-720 : ACTION MAX
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507713
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US-720 : AMC" tvg-logo="http://onlytimewilltell.xyz:2086/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA 720 (low bit)",US-720 : AMC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507595
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="US-720 : AMERICAN HEROES" tvg-logo="http://onlytimewilltell.xyz:2086/images/19b7162e52c4dd78604a50586ab206fe.png" group-title="USA 720 (low bit)",US-720 : AMERICAN HEROES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507696
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US-720 : ANIMAL PLANET" tvg-logo="http://onlytimewilltell.xyz:2086/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="USA 720 (low bit)",US-720 : ANIMAL PLANET
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507672
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US-720 : ASPIRE" tvg-logo="http://mains.services:2086/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="USA 720 (low bit)",US-720 : ASPIRE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507707
+#EXTINF:-1 tvg-id="AWE.us" tvg-name="US-720 : AWE" tvg-logo="http://onlytimewilltell.xyz:2086/images/30ddbf56dcf5de6000aff5a9d6e02527.png" group-title="USA 720 (low bit)",US-720 : AWE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507697
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="US-720 : AXS TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/abe85810c77ddc6502a1b8ba88aa094d.png" group-title="USA 720 (low bit)",US-720 : AXS TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507641
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="US-720 : BABY FIRST" tvg-logo="http://onlytimewilltell.xyz:2086/images/f8089affee222f1f593459e5e30bfa2c.png" group-title="USA 720 (low bit)",US-720 : BABY FIRST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507681
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="US-720 : BBC AMERICA" tvg-logo="http://onlytimewilltell.xyz:2086/images/40fd83186c01e9ecf6b94cc0de4a0a21.png" group-title="USA 720 (low bit)",US-720 : BBC AMERICA
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507616
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="US-720 : BBC WORLD NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/85cba1400ff1ad855af1c6c3824b768d.png" group-title="USA 720 (low bit)",US-720 : BBC WORLD NEWS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507661
+#EXTINF:-1 tvg-id="BET.us" tvg-name="US-720 : BET" tvg-logo="http://mains.services:2086/images/21ba295afbd4c4e50e8061542c65a66a.png" group-title="USA 720 (low bit)",US-720 : BET
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507687
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="US-720 : BET HER" tvg-logo="http://onlytimewilltell.xyz:2086/images/e8eb32b5d4d2ffc5e0825aa539d8b850.png" group-title="USA 720 (low bit)",US-720 : BET HER
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507670
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="US-720 : BIG TEN NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="USA 720 (low bit)",US-720 : BIG TEN NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507711
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="US-720 : BLOOMBERG TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="USA 720 (low bit)",US-720 : BLOOMBERG TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507607
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US-720 : BRAVO" tvg-logo="http://onlytimewilltell.xyz:2086/images/85ffe80302daa68797bf4373e2a2a9c3.png" group-title="USA 720 (low bit)",US-720 : BRAVO
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507620
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="US-720 : C-SPAN" tvg-logo="http://onlytimewilltell.xyz:2086/images/e48f93bb225015d64af95220587f81aa.png" group-title="USA 720 (low bit)",US-720 : C-SPAN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507680
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="US-720 : C-SPAN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/b27cedaf0ff83525403980572ea93543.png" group-title="USA 720 (low bit)",US-720 : C-SPAN 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507678
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US-720 : CARTOON NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="USA 720 (low bit)",US-720 : CARTOON NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507613
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US-720 : CBS SPORTS NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="USA 720 (low bit)",US-720 : CBS SPORTS NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507712
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="US-720 : CHEDDAR BUSINESS" tvg-logo="https://i.iheart.com/v3/re/new_assets/20117af9-38ef-4b73-8d9e-0ebc114b9526" group-title="USA 720 (low bit)",US-720 : CHEDDAR BUSINESS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507593
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="US-720 : CINEMAX EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="USA 720 (low bit)",US-720 : CINEMAX EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507604
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="US-720 : CMT" tvg-logo="http://onlytimewilltell.xyz:2086/images/797a8b0b28b4e4f88cf253fcbe269333.png" group-title="USA 720 (low bit)",US-720 : CMT
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507694
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US-720 : CNBC" tvg-logo="http://onlytimewilltell.xyz:2086/images/17c6cdfa9240e3ca5f6e9dd2ef3d0441.png" group-title="USA 720 (low bit)",US-720 : CNBC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507619
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US-720 : CNN" tvg-logo="http://104.218.60.145:2086/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="USA 720 (low bit)",US-720 : CNN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507603
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US-720 : CNN EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="USA 720 (low bit)",US-720 : CNN EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507725
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US-720 : COMEDY CENTRAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="USA 720 (low bit)",US-720 : COMEDY CENTRAL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507692
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="US-720 : COMEDY TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/379ba5e0c25c609f46a0d39c07495783.png" group-title="USA 720 (low bit)",US-720 : COMEDY TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507660
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="US-720 : COOKING CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/b65d63f52caafa9e02cd3f703238ce25.png" group-title="USA 720 (low bit)",US-720 : COOKING CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507645
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="US-720 : CRIME & INVESTIGATION" tvg-logo="http://onlytimewilltell.xyz:2086/images/615332a46677808b4941a8723f713fa8.png" group-title="USA 720 (low bit)",US-720 : CRIME & INVESTIGATION
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507716
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="US-720 : DESTINATION AMERICA" tvg-logo="http://onlytimewilltell.xyz:2086/images/64cd10671a200a5d84493abc346bbd91.png" group-title="USA 720 (low bit)",US-720 : DESTINATION AMERICA
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507654
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US-720 : DISCOVERY CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="USA 720 (low bit)",US-720 : DISCOVERY CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507675
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="US-720 : DISCOVERY FAMILY CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/93e75712a34dd337ec1712d6836ea766.png" group-title="USA 720 (low bit)",US-720 : DISCOVERY FAMILY CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507682
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="US-720 : DISCOVERY LIFE" tvg-logo="http://onlytimewilltell.xyz:2086/images/318556139546e6a874832a47f07e7785.png" group-title="USA 720 (low bit)",US-720 : DISCOVERY LIFE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507669
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US-720 : DISNEY CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="USA 720 (low bit)",US-720 : DISNEY CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507591
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="US-720 : DISNEY JUNIOR" tvg-logo="http://onlytimewilltell.xyz:2086/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="USA 720 (low bit)",US-720 : DISNEY JUNIOR
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507588
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="US-720 : DISNEY XD" tvg-logo="http://onlytimewilltell.xyz:2086/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="USA 720 (low bit)",US-720 : DISNEY XD
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507590
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="US-720 : E!" tvg-logo="http://onlytimewilltell.xyz:2086/images/9ae48746313e74dfef6d7ebf40d14957.png" group-title="USA 720 (low bit)",US-720 : E!
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507621
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US-720 : ESPN" tvg-logo="http://onlytimewilltell.xyz:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="USA 720 (low bit)",US-720 : ESPN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507606
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US-720 : ESPN 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="USA 720 (low bit)",US-720 : ESPN 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507608
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US-720 : ESPN DEPORTES" tvg-logo="http://onlytimewilltell.xyz:2086/images/baa4d872ef0fa798840a3bdb57173ca1.png" group-title="USA 720 (low bit)",US-720 : ESPN DEPORTES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507702
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="US-720 : ESPN NEWS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1e760a1cc204e39d03178e615c9cc0e0.png" group-title="USA 720 (low bit)",US-720 : ESPN NEWS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507605
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="US-720 : ESPN U" tvg-logo="http://onlytimewilltell.xyz:2086/images/500b1f7cdad583f9d07c87427babe201.png" group-title="USA 720 (low bit)",US-720 : ESPN U
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507614
+#EXTINF:-1 tvg-id="FuseMusic.us" tvg-name="US-720 : FM FUSE MUSIC" tvg-logo="http://onlytimewilltell.xyz:2086/images/6c6445bbed88fcdb3b4b4be72e6ec8df.png" group-title="USA 720 (low bit)",US-720 : FM FUSE MUSIC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507632
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US-720 : FOOD NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/110eae003165e6c2a9b21112e100b6e1.png" group-title="USA 720 (low bit)",US-720 : FOOD NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507691
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="US-720 : FOX BUSINESS NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/4cce7aeeb97272c9fc7a568ad8760ba9.png" group-title="USA 720 (low bit)",US-720 : FOX BUSINESS NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507627
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="US-720 : FOX DEPORTES" tvg-logo="http://onlytimewilltell.xyz:2086/images/85aa86be7eb472a5724b51324c7e5c7d.png" group-title="USA 720 (low bit)",US-720 : FOX DEPORTES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507701
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="US-720 : FOX NEWS CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/8fd11dd170fd0262942aea685c02a52a.png" group-title="USA 720 (low bit)",US-720 : FOX NEWS CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507628
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US-720 : FOX SPORTS 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="USA 720 (low bit)",US-720 : FOX SPORTS 1
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507637
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US-720 : FOX SPORTS 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="USA 720 (low bit)",US-720 : FOX SPORTS 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507617
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="US-720 : FUSE TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/b779bab179800365a00fef05fa07ef3c.png" group-title="USA 720 (low bit)",US-720 : FUSE TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507676
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US-720 : FX" tvg-logo="http://onlytimewilltell.xyz:2086/images/bdf4721cef747b0d12ae91dc50e6ea37.png" group-title="USA 720 (low bit)",US-720 : FX
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507698
+#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="US-720 : FX MOVIE CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/8eaa630fee1e5f33ea698a570f488c8e.png" group-title="USA 720 (low bit)",US-720 : FX MOVIE CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507674
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="US-720 : FXX" tvg-logo="http://onlytimewilltell.xyz:2086/images/2131a961d37899516cb061079bd109a9.png" group-title="USA 720 (low bit)",US-720 : FXX
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507638
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="US-720 : FYI" tvg-logo="http://onlytimewilltell.xyz:2086/images/40aacdcf79bbdaad8450dfedc310bbb9.png" group-title="USA 720 (low bit)",US-720 : FYI
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507602
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="US-720 : GALAVISION" tvg-logo="http://onlytimewilltell.xyz:2086/images/7a145880ffb91024db895dc9a821b3e9.png" group-title="USA 720 (low bit)",US-720 : GALAVISION
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507631
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="US-720 : GAME SHOW NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/5c2e1c41a0ff25ae4049a685941134ea.png" group-title="USA 720 (low bit)",US-720 : GAME SHOW NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507655
+#EXTINF:-1 tvg-id="GOLTVEnglish.us" tvg-name="US-720 : GOLTV" tvg-logo="http://onlytimewilltell.xyz:2086/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="USA 720 (low bit)",US-720 : GOLTV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507704
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="US-720 : HALLMARK CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/7fb73930c48246aae2442283b0402a01.png" group-title="USA 720 (low bit)",US-720 : HALLMARK CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507642
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="US-720 : HALLMARK DRAMA" tvg-logo="http://onlytimewilltell.xyz:2086/images/d1a6af3718f7cb08407daaa491c82d0d.png" group-title="USA 720 (low bit)",US-720 : HALLMARK DRAMA
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507715
+#EXTINF:-1 tvg-id="HallmarkMoviesAndMysteries.us" tvg-name="US-720 : HALLMARK MOVIES & MYSTERIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/a5175faf6dc24adc7eda4f9cfc721b47.png" group-title="USA 720 (low bit)",US-720 : HALLMARK MOVIES & MYSTERIES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507644
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US-720 : HBO 2 EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="USA 720 (low bit)",US-720 : HBO 2 EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507714
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US-720 : HBO EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="USA 720 (low bit)",US-720 : HBO EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507633
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US-720 : HBO FAMILY EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="USA 720 (low bit)",US-720 : HBO FAMILY EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507635
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="US-720 : HBO LATINO" tvg-logo="http://onlytimewilltell.xyz:2086/images/ff7cfaeb9866b5ec1cd461f7a689b5a4.png" group-title="USA 720 (low bit)",US-720 : HBO LATINO
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507634
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="US-720 : HDNET MOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/bf5b9897810f73b04d72c555e671829d.png" group-title="USA 720 (low bit)",US-720 : HDNET MOVIES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507720
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="US-720 : HGTV" tvg-logo="http://onlytimewilltell.xyz:2086/images/dd1a46a3f3d3ef0fa48f81255b70274f.png" group-title="USA 720 (low bit)",US-720 : HGTV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507688
+#EXTINF:-1 tvg-id="History.us" tvg-name="US-720 : HISTORY" tvg-logo="http://onlytimewilltell.xyz:2086/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="USA 720 (low bit)",US-720 : HISTORY
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507601
+#EXTINF:-1 tvg-id="HistoryenEspanol.us" tvg-name="US-720 : HISTORY EN ESPANOL" tvg-logo="http://onlytimewilltell.xyz:2086/images/20f75e4171638f09269b7aab6191946b.png" group-title="USA 720 (low bit)",US-720 : HISTORY EN ESPANOL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507703
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="US-720 : HLN" tvg-logo="http://onlytimewilltell.xyz:2086/images/bf81708ff203c6d0189a52ad6c471e65.png" group-title="USA 720 (low bit)",US-720 : HLN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507612
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="US-720 : HOME SHOPPING NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/30a3939e2062e8705607623c04a94478.png" group-title="USA 720 (low bit)",US-720 : HOME SHOPPING NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507724
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US-720 : INVESTIGATION DISCOVERY" tvg-logo="http://onlytimewilltell.xyz:2086/images/c252334e2e045ea52295de41cbefa2b7.png" group-title="USA 720 (low bit)",US-720 : INVESTIGATION DISCOVERY
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507683
+#EXTINF:-1 tvg-id="JusticeCentral.us" tvg-name="US-720 : JUSTICE CENTRAL" tvg-logo="http://onlytimewilltell.xyz:2086/images/adaf7165f36157522f99c77eed9b3c3a.png" group-title="USA 720 (low bit)",US-720 : JUSTICE CENTRAL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507656
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="US-720 : LIFETIME" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b0306da67700794086722363df4e655.png" group-title="USA 720 (low bit)",US-720 : LIFETIME
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507600
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="US-720 : LIFETIME MOVIE NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/6a657362a529af4a724ccab5f03ab20d.png" group-title="USA 720 (low bit)",US-720 : LIFETIME MOVIE NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507597
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="US-720 : MAGNOLIA NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/2b70fcb1bdea031a3365a12fcad78a08.png" group-title="USA 720 (low bit)",US-720 : MAGNOLIA NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507643
+#EXTINF:-1 tvg-id="Epix.us" tvg-name="US-720 : MGM+" tvg-logo="http://onlytimewilltell.xyz:2086/images/a325c8f97037e645ade6159bcd253213.png" group-title="USA 720 (low bit)",US-720 : MGM+
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507586
+#EXTINF:-1 tvg-id="EPIX2.us" tvg-name="US-720 : MGM+ HITS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5aabbcebd62c39ff556e4b0711a7cdb0.png" group-title="USA 720 (low bit)",US-720 : MGM+ HITS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507585
+#EXTINF:-1 tvg-id="EpixHits.us" tvg-name="US-720 : MGM+ MARQUEE" tvg-logo="http://onlytimewilltell.xyz:2086/images/8deb1ce16fa29236dd2651e275a22202.png" group-title="USA 720 (low bit)",US-720 : MGM+ MARQUEE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507587
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="US-720 : MOTORTREND" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b7f5a6c9883d43ffba0f22532ce50de.png" group-title="USA 720 (low bit)",US-720 : MOTORTREND
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507666
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US-720 : MSNBC" tvg-logo="http://onlytimewilltell.xyz:2086/images/942f4e823c77b2e0720064f924b269b2.png" group-title="USA 720 (low bit)",US-720 : MSNBC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507626
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US-720 : MTV" tvg-logo="http://onlytimewilltell.xyz:2086/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="USA 720 (low bit)",US-720 : MTV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507693
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="US-720 : MTV 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/f93d02d27a780600587bb437fcf0ab25.png" group-title="USA 720 (low bit)",US-720 : MTV 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507611
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US-720 : MTV LIVE" tvg-logo="http://onlytimewilltell.xyz:2086/images/ef3e7ea306bf7607dd208455f6ad2ff0.png" group-title="USA 720 (low bit)",US-720 : MTV LIVE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507719
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US-720 : NAT GEO WILD" tvg-logo="http://onlytimewilltell.xyz:2086/images/757a717ee2ade661c665276734c83b16.png" group-title="USA 720 (low bit)",US-720 : NAT GEO WILD
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507657
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US-720 : NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="USA 720 (low bit)",US-720 : NATIONAL GEOGRAPHIC CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507624
+#EXTINF:-1 tvg-id="UNIVERSO.us" tvg-name="US-720 : NBC UNIVERSO" tvg-logo="http://onlytimewilltell.xyz:2086/images/8827a16688a97f353b5b722ed0e1ac6f.png" group-title="USA 720 (low bit)",US-720 : NBC UNIVERSO
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507629
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US-720 : NHL NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/7efeeaa72cfe67ba4c96433c437250cb.png" group-title="USA 720 (low bit)",US-720 : NHL NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507652
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="US-720 : NICK JR" tvg-logo="http://onlytimewilltell.xyz:2086/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="USA 720 (low bit)",US-720 : NICK JR
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507685
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="US-720 : NICKELODEON EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="USA 720 (low bit)",US-720 : NICKELODEON EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507690
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="US-720 : NICKTOONS" tvg-logo="http://onlytimewilltell.xyz:2086/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="USA 720 (low bit)",US-720 : NICKTOONS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507659
+#EXTINF:-1 tvg-id="OAN.us" tvg-name="US-720 : ONE AMERICAN NEWS NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/oan-news.png" group-title="USA 720 (low bit)",US-720 : ONE AMERICAN NEWS NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507695
+#EXTINF:-1 tvg-id="OvationTV.us" tvg-name="US-720 : OVATION" tvg-logo="http://onlytimewilltell.xyz:2086/images/04a2282ecf533cc7ef92bdedcec44472.png" group-title="USA 720 (low bit)",US-720 : OVATION
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507705
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="US-720 : OWN" tvg-logo="http://onlytimewilltell.xyz:2086/images/b515e18aa3fbe7d264d7ca5a95ef73e1.png" group-title="USA 720 (low bit)",US-720 : OWN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507664
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US-720 : OXYGEN" tvg-logo="http://onlytimewilltell.xyz:2086/images/6124d98749365e3db2c9e5b27ca04db6.png" group-title="USA 720 (low bit)",US-720 : OXYGEN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507630
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US-720 : PARAMOUNT NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="USA 720 (low bit)",US-720 : PARAMOUNT NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507686
+#EXTINF:-1 tvg-id="POP.us" tvg-name="US-720 : POP" tvg-logo="http://onlytimewilltell.xyz:2086/images/fc348bca626aa3f04575eb12690ca02f.png" group-title="USA 720 (low bit)",US-720 : POP
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507709
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="US-720 : QVC" tvg-logo="http://onlytimewilltell.xyz:2086/images/88965d2f7c6fda6f18db83d9c68bfe16.png" group-title="USA 720 (low bit)",US-720 : QVC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507723
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="US-720 : QVC 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/88965d2f7c6fda6f18db83d9c68bfe16.png" group-title="USA 720 (low bit)",US-720 : QVC 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507722
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="US-720 : REELZ CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/584ef7f10f7c720f9375676804d015cf.png" group-title="USA 720 (low bit)",US-720 : REELZ CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507710
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="US-720 : REVOLT" tvg-logo="http://mains.services:2086/images/5e99084d1c2aff23e62bf7034efb7cc8.png" group-title="USA 720 (low bit)",US-720 : REVOLT
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507658
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="US-720 : SCIENCE" tvg-logo="http://onlytimewilltell.xyz:2086/images/ceb10d787c97f433e28f7d7e91359495.png" group-title="USA 720 (low bit)",US-720 : SCIENCE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507673
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US-720 : SEC NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/5cadb617f3cd5971d7b6938faa45fa05.png" group-title="USA 720 (low bit)",US-720 : SEC NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507639
+#EXTINF:-1 tvg-id="ShortsTV.us" tvg-name="US-720 : SHORTS TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/3224c8e85b269b83253a5254c370b0f3.png" group-title="USA 720 (low bit)",US-720 : SHORTS TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507717
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="US-720 : SHOWTIME 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/de534e374fafe9c5555aa9f3ccc6b7e4.PNG" group-title="USA 720 (low bit)",US-720 : SHOWTIME 2
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507700
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US-720 : SHOWTIME EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="USA 720 (low bit)",US-720 : SHOWTIME EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507647
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="US-720 : SHOWTIME EXTREME" tvg-logo="http://onlytimewilltell.xyz:2086/images/601f0f0bd37ce3760bc59784cb1f7cc7.png" group-title="USA 720 (low bit)",US-720 : SHOWTIME EXTREME
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507699
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="US-720 : SMITHSONIAN CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/5f94fcfb02ab29a4e46404e3b0b54f42.png" group-title="USA 720 (low bit)",US-720 : SMITHSONIAN CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507718
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="US-720 : SPORTSMAN CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/97b0f30e6e508a4dc8a2fd90423feb55.png" group-title="USA 720 (low bit)",US-720 : SPORTSMAN CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507708
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US-720 : STARZ EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/1748d8b34eb1824b6a0e7eb7c32fbed9.png" group-title="USA 720 (low bit)",US-720 : STARZ EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507618
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US-720 : STARZ ENCORE ACTION" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE ACTION
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507649
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US-720 : STARZ ENCORE BLACK" tvg-logo="http://onlytimewilltell.xyz:2086/images/94231417ebc0b8c7fdb9fb36f31204f3.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE BLACK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507663
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="US-720 : STARZ ENCORE CLASSIC" tvg-logo="http://onlytimewilltell.xyz:2086/images/e539e7281ee1530c1c644776f0ed1671.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE CLASSIC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507662
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US-720 : STARZ ENCORE EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/74308ec32e6add9bb6f9b5b6a56ac448.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507622
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US-720 : STARZ ENCORE FAMILY" tvg-logo="http://onlytimewilltell.xyz:2086/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE FAMILY
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507667
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US-720 : STARZ ENCORE SUSPENSE" tvg-logo="http://onlytimewilltell.xyz:2086/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE SUSPENSE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507668
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="US-720 : STARZ ENCORE WEST" tvg-logo="http://onlytimewilltell.xyz:2086/images/74308ec32e6add9bb6f9b5b6a56ac448.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE WEST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507671
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US-720 : STARZ ENCORE WESTERNS" tvg-logo="http://onlytimewilltell.xyz:2086/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="USA 720 (low bit)",US-720 : STARZ ENCORE WESTERNS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507665
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="US-720 : STARZ KIDS & FAMILY" tvg-logo="http://onlytimewilltell.xyz:2086/images/7d63340016cf627156aa959eb3616fa6.png" group-title="USA 720 (low bit)",US-720 : STARZ KIDS & FAMILY
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507636
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="US-720 : SUNDANCE TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/0e450d1e32291326bded0e1a8b9b4c20.png" group-title="USA 720 (low bit)",US-720 : SUNDANCE TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507596
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US-720 : SYFY" tvg-logo="http://onlytimewilltell.xyz:2086/images/14831b3a087423067dd5af937a12204b.png" group-title="USA 720 (low bit)",US-720 : SYFY
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507623
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="US-720 : TASTEMADE" tvg-logo="http://onlytimewilltell.xyz:2086/images/aa8b93dbdd52ef0658c680ac460c1459.png" group-title="USA 720 (low bit)",US-720 : TASTEMADE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507726
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="US-720 : TBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/246192747747106ebe4bc069841fe7ad.png" group-title="USA 720 (low bit)",US-720 : TBS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507615
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="US-720 : TEEN NICK" tvg-logo="http://onlytimewilltell.xyz:2086/images/e4c2ac1ceb834f05cdca7a81465c73d8.png" group-title="USA 720 (low bit)",US-720 : TEEN NICK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507648
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US-720 : TENNIS CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="USA 720 (low bit)",US-720 : TENNIS CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507650
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="US-720 : THE WEATHER CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/87c7216a891a6fa9f80f38583d212707.png" group-title="USA 720 (low bit)",US-720 : THE WEATHER CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507651
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US-720 : TLC" tvg-logo="http://onlytimewilltell.xyz:2086/images/5f1c280eb49cb312fbd2685883e03a14.png" group-title="USA 720 (low bit)",US-720 : TLC
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507677
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="US-720 : TNT" tvg-logo="http://onlytimewilltell.xyz:2086/images/921b51e15cd8f016c05021b7de04d906.png" group-title="USA 720 (low bit)",US-720 : TNT
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507610
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US-720 : TRAVEL CHANNEL" tvg-logo="http://onlytimewilltell.xyz:2086/images/397c149e2a8103c497794751f39ebe5e.png" group-title="USA 720 (low bit)",US-720 : TRAVEL CHANNEL
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507684
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="US-720 : TRU TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/fdbb17cf13c759253764469048ffb71c.png" group-title="USA 720 (low bit)",US-720 : TRU TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507640
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="US-720 : TUDN" tvg-logo="http://onlytimewilltell.xyz:2086/images/016ec81df02ea3b1a28ce99b6ea38a8a.png" group-title="USA 720 (low bit)",US-720 : TUDN
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507679
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="US-720 : TURNER CLASSIC MOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="USA 720 (low bit)",US-720 : TURNER CLASSIC MOVIES
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507609
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US-720 : TV LAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/2cbd4762cbae032a77da5eb90ae71c23.png" group-title="USA 720 (low bit)",US-720 : TV LAND
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507689
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="US-720 : TV ONE" tvg-logo="http://onlytimewilltell.xyz:2086/images/ea9d392f2db3aa7a2e9b2266c5503953.png" group-title="USA 720 (low bit)",US-720 : TV ONE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507592
+#EXTINF:-1 tvg-id="tvg.us" tvg-name="US-720 : TVG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvgnetwork.png" group-title="USA 720 (low bit)",US-720 : TVG
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507653
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="US-720 : UNIVERSAL KIDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/bbba9c4241bd95f290ac234c204889c6.png" group-title="USA 720 (low bit)",US-720 : UNIVERSAL KIDS
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507646
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="US-720 : UNIVISION EAST" tvg-logo="http://onlytimewilltell.xyz:2086/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="USA 720 (low bit)",US-720 : UNIVISION EAST
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507589
+#EXTINF:-1 tvg-id="UP.us" tvg-name="US-720 : UP" tvg-logo="http://onlytimewilltell.xyz:2086/images/10cca02013f76aa7889e28a483d1dbfc.png" group-title="USA 720 (low bit)",US-720 : UP
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507706
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US-720 : USA NETWORK" tvg-logo="http://onlytimewilltell.xyz:2086/images/564583623d050230f8dcaa711f71ae8e.png" group-title="USA 720 (low bit)",US-720 : USA NETWORK
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507625
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="US-720 : VICE" tvg-logo="http://onlytimewilltell.xyz:2086/images/7a81f3cdf7cae23a8cfade7564e1bc30.png" group-title="USA 720 (low bit)",US-720 : VICE
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507599
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="US-720 : WE TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/9386dc91b67e23d597b3de31424799b2.png" group-title="USA 720 (low bit)",US-720 : WE TV
+http://ys-users.com:8080/cardeir55@gmail.com/GLUFvWS4Uh/507598
