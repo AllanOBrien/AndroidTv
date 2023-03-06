@@ -93,7 +93,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-id="TBS.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
+#EXTINF:-1 group-title="RELIGION" tvg-id="tbnenlace.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="AndPrive.in" tvg-logo="https://static.epg.best/in/AndPrive.in.png",&Privé HD
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1a:79:b0:e5:9b&stream=862618&extension=m3u8
