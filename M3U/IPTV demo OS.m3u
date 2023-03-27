@@ -39,5 +39,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.live.comeseetv.com/uploads/images/clip_1562_1565394558_social.jpg",Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 group-title="VOD: HD" tvg-logo="http://77.247.109.54:80/images/bfc835bd544d15e5706eee8f094d3421.jpg",Titanic
-https://dl.dropboxusercontent.com/sh/pf1iezj0ufdug30/AACsoDJO_5Z-AtsR80JHEMDca/Titanic.1997.HDTV.1080p.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies 2022" tvg-name="The Guardians of the Galaxy Holiday Special (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVrfgf4rHU0dHf5iWmtBH9MibB.jpg",The Guardians of the Galaxy Holiday Special (2022)
+https://dl.dropboxusercontent.com/sh/1tqjrli9advhsmw/AACnK5wAKg3IiZbTBLQxDIw0a/The.Guardians.of.the.Galaxy.Holiday.Special.2022.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-EddieSmurfy.mkv
