@@ -297,8 +297,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43&live=1&app_b
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="WMEU4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/200px-MeTV_Logo.svg.png",METV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="WMGMTV.us" tvg-logo="https://static.epg.best/us/MGM.us.png",MGM
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/playlist.m3u8
+#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="mgm.us" tvg-logo="https://static.epg.best/us/MGM.us.png",MGM
+http://ip365.cx:900/0324429672/3273888951/181596
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png" tvg-id="MovieMax.us",MovieMax 1
 http://ip365.cx:900/0324429672/3273888951/181598
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png" tvg-id="MovieMax.us",MovieMax 2
@@ -405,7 +405,7 @@ https://list.iptvcat.com/my_list/s/afde75df5e3e3a2430786d1d9b302c08.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-id="TBS.us",TBS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBS.smil/playlist.m3u8
-#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png" tvg-id="TCMEast.us",TCM
+#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png" tvg-id="TCMBrazil.br",TCM
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png" tvg-id="TLCEast.us",TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
@@ -431,7 +431,7 @@ http://ky-iptv.com:80/live/deshazior/deshazior/175967.ts
 http://ky-iptv.com:80/live/deshazior/deshazior/175970.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png" tvg-id="VH1.us",VH1
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:VH1.smil/playlist.m3u8
-#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",WARNER
+#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="WarnerChannelBrazil.br" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",WARNER
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/220px-We_TV_logo_2014.svg.png" tvg-id="WeTVEast.us",WE TV+ HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
@@ -454,7 +454,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISCOVERY_FAMILY.smil
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",DISCOVERY KIDS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" tvg-id="DisneyChannel.us",DISNEY HD EAST US
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" tvg-id="DisneyJunior.us",DISNEY JUNIOR CANADA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-id="DisneyXD.us",DISNEY XD US
@@ -1038,7 +1038,7 @@ http://ip365.cx:900/0324429672/3273888951/191694
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier Sports 2 UK
 http://ip365.cx:900/0324429672/3273888951/189891
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="SPORTS" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg",Real Madrid TV US Version 
