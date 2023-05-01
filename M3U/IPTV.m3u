@@ -18027,6 +18027,10 @@ http://ip365.cx:900/0324429672/3273888951/181665
 http://ip365.cx:900/0324429672/3273888951/181670
 #EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US| FOX BUSINESS HD" tvg-logo="https://lo1.in/us/fxb.png" group-title="AM | USA NEWS",US| FOX BUSINESS HD
 http://ip365.cx:900/0324429672/3273888951/181644
+#EXTINF:-1 tvg-id="" tvg-name="US| NEWS NATION HD" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA NEWS",US| NEWS NATION HD
+http://ip365.cx:900/0324429672/3273888951/42175
+#EXTINF:-1 tvg-id="" tvg-name="US| NEWS NATION HD (WEST)" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA NEWS",US| NEWS NATION HD (WEST)
+http://ip365.cx:900/0324429672/3273888951/42176
 #EXTINF:-1 tvg-id="bbcworldnews.us" tvg-name="US| BBC WORLD NEWS HD" tvg-logo="https://lo1.in/por/bbcwrldns.png" group-title="AM | USA NEWS",US| BBC WORLD NEWS HD
 http://ip365.cx:900/0324429672/3273888951/254686
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US| BLOOMBERG HD" tvg-logo="https://lo1.in/us/blom.png" group-title="AM | USA NEWS",US| BLOOMBERG HD
@@ -18195,10 +18199,6 @@ http://ip365.cx:900/0324429672/3273888951/13584
 http://ip365.cx:900/0324429672/3273888951/13550
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="US| VICE HD" tvg-logo="https://lo1.in/us/vice.png" group-title="AM | USA ENTERTAINMENT",US| VICE HD
 http://ip365.cx:900/0324429672/3273888951/176699
-#EXTINF:-1 tvg-id="" tvg-name="US| NEWS NATION HD" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA ENTERTAINMENT",US| NEWS NATION HD
-http://ip365.cx:900/0324429672/3273888951/42175
-#EXTINF:-1 tvg-id="" tvg-name="US| NEWS NATION HD (WEST)" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA ENTERTAINMENT",US| NEWS NATION HD (WEST)
-http://ip365.cx:900/0324429672/3273888951/42176
 #EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US| HEROES &amp; ICONS HD" tvg-logo="https://lo1.in/us/heri.png" group-title="AM | USA ENTERTAINMENT",US| HEROES &amp; ICONS HD
 http://ip365.cx:900/0324429672/3273888951/176746
 #EXTINF:-1 tvg-id="awe.us" tvg-name="US| AWE HD" tvg-logo="https://lo1.in/us/awe.png" group-title="AM | USA ENTERTAINMENT",US| AWE HD
@@ -22831,19 +22831,19 @@ http://ip365.cx:900/0324429672/3273888951/181473
 http://ip365.cx:900/0324429672/3273888951/181474
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ USA MLB EVENTS ONLY ✦●✦" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA MLB",✦●✦ USA MLB EVENTS ONLY ✦●✦
 http://ip365.cx:900/0324429672/3273888951/400200870
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 1 : Cincinnati Reds vs Tampa Bay Rays // UK Wed 19/04 5:35pm // ET Wed 19/04 12:35pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 1 : Cincinnati Reds vs Tampa Bay Rays // UK Wed 19/04 5:35pm // ET Wed 19/04 12:35pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 1 : Boston Red Sox vs Minnesota Twins // UK Thu 20/04 6:35pm // ET Thu 20/04 1:35pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 1 : Boston Red Sox vs Minnesota Twins // UK Thu 20/04 6:35pm // ET Thu 20/04 1:35pm
 http://ip365.cx:900/0324429672/3273888951/400200868
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 2 : Detroit Tigers vs Cleveland Guardians // UK Wed 19/04 6:10pm // ET Wed 19/04 1:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 2 : Detroit Tigers vs Cleveland Guardians // UK Wed 19/04 6:10pm // ET Wed 19/04 1:10pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 2 : New York Yankees vs Los Angeles Angels // UK Thu 20/04 9:05pm // ET Thu 20/04 4:05pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 2 : New York Yankees vs Los Angeles Angels // UK Thu 20/04 9:05pm // ET Thu 20/04 4:05pm
 http://ip365.cx:900/0324429672/3273888951/400200867
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 3 : Miami Marlins vs San Francisco Giants // UK Wed 19/04 6:10pm // ET Wed 19/04 1:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 3 : Miami Marlins vs San Francisco Giants // UK Wed 19/04 6:10pm // ET Wed 19/04 1:10pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 3 : Pittsburgh Pirates vs Cincinnati Reds // UK Thu 20/04 11:35pm // ET Thu 20/04 6:35pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 3 : Pittsburgh Pirates vs Cincinnati Reds // UK Thu 20/04 11:35pm // ET Thu 20/04 6:35pm
 http://ip365.cx:900/0324429672/3273888951/400200866
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 4 : St. Louis Cardinals vs Arizona Diamondbacks // UK Wed 19/04 6:15pm // ET Wed 19/04 1:15pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 4 : St. Louis Cardinals vs Arizona Diamondbacks // UK Wed 19/04 6:15pm // ET Wed 19/04 1:15pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 4 : Philadelphia Phillies vs Colorado Rockies // UK Thu 20/04 11:40pm // ET Thu 20/04 6:40pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 4 : Philadelphia Phillies vs Colorado Rockies // UK Thu 20/04 11:40pm // ET Thu 20/04 6:40pm
 http://ip365.cx:900/0324429672/3273888951/400200865
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 5 : Kansas City Royals vs Texas Rangers // UK Wed 19/04 7:10pm // ET Wed 19/04 2:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 5 : Kansas City Royals vs Texas Rangers // UK Wed 19/04 7:10pm // ET Wed 19/04 2:10pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 5 : Chicago Cubs vs Los Angeles Dodgers // UK Fri 21/04 12:40am // ET Thu 20/04 7:40pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 5 : Chicago Cubs vs Los Angeles Dodgers // UK Fri 21/04 12:40am // ET Thu 20/04 7:40pm
 http://ip365.cx:900/0324429672/3273888951/400200864
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 6 : Chicago White Sox vs Philadelphia Phillies // UK Wed 19/04 7:10pm // ET Wed 19/04 2:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 6 : Chicago White Sox vs Philadelphia Phillies // UK Wed 19/04 7:10pm // ET Wed 19/04 2:10pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 6 : Arizona Diamondbacks vs San Diego Padres // UK Fri 21/04 2:40am // ET Thu 20/04 9:40pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 6 : Arizona Diamondbacks vs San Diego Padres // UK Fri 21/04 2:40am // ET Thu 20/04 9:40pm
 http://ip365.cx:900/0324429672/3273888951/400200863
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 7 : Los Angeles Dodgers vs New York Mets // UK Wed 19/04 8:10pm // ET Wed 19/04 3:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 7 : Los Angeles Dodgers vs New York Mets // UK Wed 19/04 8:10pm // ET Wed 19/04 3:10pm
+#EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 7 : San Francisco Giants vs New York Mets // UK Fri 21/04 2:45am // ET Thu 20/04 9:45pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 7 : San Francisco Giants vs New York Mets // UK Fri 21/04 2:45am // ET Thu 20/04 9:45pm
 http://ip365.cx:900/0324429672/3273888951/400200862
 #EXTINF:-1 tvg-id="" tvg-name="US| MLB LIVE 8 : Colorado Rockies vs Pittsburgh Pirates // UK Wed 19/04 8:10pm // ET Wed 19/04 3:10pm" tvg-logo="https://lo1.in/us/mlb.png" group-title="AM | USA MLB",US| MLB LIVE 8 : Colorado Rockies vs Pittsburgh Pirates // UK Wed 19/04 8:10pm // ET Wed 19/04 3:10pm
 http://ip365.cx:900/0324429672/3273888951/400200861
@@ -22993,11 +22993,11 @@ http://ip365.cx:900/0324429672/3273888951/181685
 http://ip365.cx:900/0324429672/3273888951/181720
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦USA| NBA LEAUGE PASS ✦●✦" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA NBA",✦●✦USA| NBA LEAUGE PASS ✦●✦
 http://ip365.cx:900/0324429672/3273888951/400163561
-#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 1 : 7:30p Lakers – Grizzlies" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 1 : 7:30p Lakers – Grizzlies
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 1 : 7:30p  Sixers – Nets" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 1 : 7:30p  Sixers – Nets
 http://ip365.cx:900/0324429672/3273888951/378804
-#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 2 : 9:00p Heat – Bucks " tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 2 : 9:00p Heat – Bucks 
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 2 : 10:00p  Kings – Warriors" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 2 : 10:00p  Kings – Warriors
 http://ip365.cx:900/0324429672/3273888951/378803
-#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 3 : 10:00p Timberwolves – Nuggets" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 3 : 10:00p Timberwolves – Nuggets
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 3 : 10:30p  Suns – Clippers" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 3 : 10:30p  Suns – Clippers
 http://ip365.cx:900/0324429672/3273888951/378802
 #EXTINF:-1 tvg-id="" tvg-name="US| NBA PASS 4 : 8:30p Warriors – Kings" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA PASS 4 : 8:30p Warriors – Kings
 http://ip365.cx:900/0324429672/3273888951/378801
@@ -24371,6 +24371,16 @@ http://ip365.cx:900/0324429672/3273888951/176070
 http://ip365.cx:900/0324429672/3273888951/8463
 #EXTINF:-1 tvg-id="" tvg-name="CA| CHCO-TV 26.1 St. Andrews NB HD" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",CA| CHCO-TV 26.1 St. Andrews NB HD
 http://ip365.cx:900/0324429672/3273888951/8464
+#EXTINF:-1 tvg-id="" tvg-name="CA| WAPA AMERICA HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| WAPA AMERICA HD
+http://ip365.cx:900/0324429672/3273888951/22847
+#EXTINF:-1 tvg-id="" tvg-name="CA| FOX (WNYW) HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| FOX (WNYW) HD
+http://ip365.cx:900/0324429672/3273888951/22849
+#EXTINF:-1 tvg-id="" tvg-name="CA| ABC (WSBDT) HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| ABC (WSBDT) HD
+http://ip365.cx:900/0324429672/3273888951/22850
+#EXTINF:-1 tvg-id="" tvg-name="CA| ABC (NE) HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| ABC (NE) HD
+http://ip365.cx:900/0324429672/3273888951/22852
+#EXTINF:-1 tvg-id="" tvg-name="CA| I24 NEWS HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| I24 NEWS HD
+http://ip365.cx:900/0324429672/3273888951/22854
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦GENERAL✦●✦ ." tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",✦●✦GENERAL✦●✦ .
 http://ip365.cx:900/0324429672/3273888951/176109
 #EXTINF:-1 tvg-id="" tvg-name="CA| ONTARIO LEGISLATURE HD" tvg-logo="https://lo1.in/ca/ontarioll.png" group-title="AM | CANADA GENERAL",CA| ONTARIO LEGISLATURE HD
@@ -24409,6 +24419,8 @@ http://ip365.cx:900/0324429672/3273888951/362323
 http://ip365.cx:900/0324429672/3273888951/259051
 #EXTINF:-1 tvg-id="" tvg-name="CA| FAITH TV HD" tvg-logo="https://lo1.in/ca/faith.png" group-title="AM | CANADA GENERAL",CA| FAITH TV HD
 http://ip365.cx:900/0324429672/3273888951/176077
+#EXTINF:-1 tvg-id="" tvg-name="CA| THE LEARNING CHANNEL HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| THE LEARNING CHANNEL HD
+http://ip365.cx:900/0324429672/3273888951/22842
 #EXTINF:-1 tvg-id="saltlighttv.ca" tvg-name="CA| SALT HD" tvg-logo="https://lo1.in/ca/sltplslght.png" group-title="AM | CANADA GENERAL",CA| SALT HD
 http://ip365.cx:900/0324429672/3273888951/176147
 #EXTINF:-1 tvg-id="saltlighttv.ca" tvg-name="CA| SALT + LIGHT TV " tvg-logo="https://lo1.in/ca/sltplslght.png" group-title="AM | CANADA GENERAL",CA| SALT + LIGHT TV 
@@ -24419,6 +24431,8 @@ http://ip365.cx:900/0324429672/3273888951/172069
 http://ip365.cx:900/0324429672/3273888951/176068
 #EXTINF:-1 tvg-id="" tvg-name="CA| DAYSTAR TV HD" tvg-logo="https://lo1.in/ca/daystr.png" group-title="AM | CANADA GENERAL",CA| DAYSTAR TV HD
 http://ip365.cx:900/0324429672/3273888951/176105
+#EXTINF:-1 tvg-id="" tvg-name="CA| BYU TV HD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| BYU TV HD
+http://ip365.cx:900/0324429672/3273888951/22848
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ST-CAM✦●✦" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",✦●✦ST-CAM✦●✦
 http://ip365.cx:900/0324429672/3273888951/400407466
 #EXTINF:-1 tvg-id="" tvg-name="CA| (CAM) St. Philips | Newfoundland HD" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",CA| (CAM) St. Philips | Newfoundland HD
@@ -25177,6 +25191,22 @@ http://ip365.cx:900/0324429672/3273888951/176139
 http://ip365.cx:900/0324429672/3273888951/176116
 #EXTINF:-1 tvg-id="" tvg-name="CA| MAGNOLIA NETWORK HD" tvg-logo="https://lo1.in/us/magch.png" group-title="AM | CANADA ENTERTAINMENT",CA| MAGNOLIA NETWORK HD
 http://ip365.cx:900/0324429672/3273888951/21248
+#EXTINF:-1 tvg-id="" tvg-name="CA| HOLA TV HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| HOLA TV HD
+http://ip365.cx:900/0324429672/3273888951/22839
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAMILY ENTERTAINMENT TV HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| FAMILY ENTERTAINMENT TV HD
+http://ip365.cx:900/0324429672/3273888951/22840
+#EXTINF:-1 tvg-id="" tvg-name="CA| OPRAH WINFREY NETWORK HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| OPRAH WINFREY NETWORK HD
+http://ip365.cx:900/0324429672/3273888951/22841
+#EXTINF:-1 tvg-id="" tvg-name="CA| HOME GARDEN TELEVISION HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| HOME GARDEN TELEVISION HD
+http://ip365.cx:900/0324429672/3273888951/22844
+#EXTINF:-1 tvg-id="" tvg-name="CA| CENTRO AMERICA TV HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| CENTRO AMERICA TV HD
+http://ip365.cx:900/0324429672/3273888951/22846
+#EXTINF:-1 tvg-id="" tvg-name="CA| CURIOSITY STREAM HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| CURIOSITY STREAM HD
+http://ip365.cx:900/0324429672/3273888951/22853
+#EXTINF:-1 tvg-id="" tvg-name="CA| IMPACT NETWORK HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| IMPACT NETWORK HD
+http://ip365.cx:900/0324429672/3273888951/22855
+#EXTINF:-1 tvg-id="" tvg-name="CA| DOMINICANA HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| DOMINICANA HD
+http://ip365.cx:900/0324429672/3273888951/22845
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦CINEMA✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA CINEMA",✦●✦CINEMA✦●✦ 
 http://ip365.cx:900/0324429672/3273888951/175941
 #EXTINF:-1 tvg-id="ctvcomedywest.ca" tvg-name="CA| CTV COMEDY WEST HD" tvg-logo="https://lo1.in/ca/ctvcome.png" group-title="AM | CANADA CINEMA",CA| CTV COMEDY WEST HD
@@ -25243,6 +25273,8 @@ http://ip365.cx:900/0324429672/3273888951/175936
 http://ip365.cx:900/0324429672/3273888951/175924
 #EXTINF:-1 tvg-id="" tvg-name="CA| TCM HD" tvg-logo="https://lo1.in/ca/tcm.png" group-title="AM | CANADA CINEMA",CA| TCM HD
 http://ip365.cx:900/0324429672/3273888951/242951
+#EXTINF:-1 tvg-id="" tvg-name="CA| LIFETIME MOVIES HD" tvg-logo="" group-title="AM | CANADA CINEMA",CA| LIFETIME MOVIES HD
+http://ip365.cx:900/0324429672/3273888951/22843
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦DOCUMENTARY✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA DOCUMENTARY",✦●✦DOCUMENTARY✦●✦ 
 http://ip365.cx:900/0324429672/3273888951/176182
 #EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA| INVESTIGATION DISCOVERY HD" tvg-logo="https://lo1.in/ca/invesdis.png" group-title="AM | CANADA DOCUMENTARY",CA| INVESTIGATION DISCOVERY HD
@@ -25341,6 +25373,8 @@ http://ip365.cx:900/0324429672/3273888951/175888
 http://ip365.cx:900/0324429672/3273888951/176108
 #EXTINF:-1 tvg-id="onegetfit.ca" tvg-name="CA| ONE GET FIT HD " tvg-logo="https://lo1.in/ca/onegf.png" group-title="AM | CANADA MUSIC",CA| ONE GET FIT HD 
 http://ip365.cx:900/0324429672/3273888951/175893
+#EXTINF:-1 tvg-id="" tvg-name="CA| CMT MUSIC HD" tvg-logo="" group-title="AM | CANADA MUSIC",CA| CMT MUSIC HD
+http://ip365.cx:900/0324429672/3273888951/22851
 #EXTINF:-1 tvg-id="" tvg-name="CA|  STINGRAY RETRO " tvg-logo="https://lo1.in/ca/stinrtro.png" group-title="AM | CANADA MUSIC",CA|  STINGRAY RETRO 
 http://ip365.cx:900/0324429672/3273888951/175896
 #EXTINF:-1 tvg-id="" tvg-name="CA|  STINGRAY VIBE " tvg-logo="https://lo1.in/ca/stinvibe.png" group-title="AM | CANADA MUSIC",CA|  STINGRAY VIBE 
@@ -27795,6 +27829,8 @@ http://ip365.cx:900/0324429672/3273888951/400241590
 http://ip365.cx:900/0324429672/3273888951/400241589
 #EXTINF:-1 tvg-id="" tvg-name="UY| FRANCE 24 ESPAÑOL SD" tvg-logo="https://lo1.in/uru/fr.png" group-title="AM | URUGUAY",UY| FRANCE 24 ESPAÑOL SD
 http://ip365.cx:900/0324429672/3273888951/400241585
+#EXTINF:-1 tvg-id="" tvg-name="UY| TELEDOCE HD" tvg-logo="" group-title="AM | URUGUAY",UY| TELEDOCE HD
+http://ip365.cx:900/0324429672/3273888951/400608175
 #EXTINF:-1 tvg-id="" tvg-name="UY| HISPANTV SD" tvg-logo="https://lo1.in/uru/his.png" group-title="AM | URUGUAY",UY| HISPANTV SD
 http://ip365.cx:900/0324429672/3273888951/400241584
 #EXTINF:-1 tvg-id="" tvg-name="UY| LATINA TV PAYSANDU HD" tvg-logo="https://lo1.in/uru/ltt.png" group-title="AM | URUGUAY",UY| LATINA TV PAYSANDU HD
@@ -28499,3 +28535,31 @@ http://ip365.cx:900/0324429672/3273888951/400586210
 http://ip365.cx:900/0324429672/3273888951/400586219
 #EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Prison Break" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Prison Break
 http://ip365.cx:900/0324429672/3273888951/400586239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| She-Ra and the Princesses of Power" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| She-Ra and the Princesses of Power
+http://ip365.cx:900/0324429672/3273888951/400607421
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Married... with Children" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Married... with Children
+http://ip365.cx:900/0324429672/3273888951/400607422
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Law & Order" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Law & Order
+http://ip365.cx:900/0324429672/3273888951/400607761
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Law & Order: Organized Crime" tvg-logo="https://lo1.in/uk/247.png" group-title="live-channels",24/7 EN| Law & Order: Organized Crime
+http://ip365.cx:900/0324429672/3273888951/400607951
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| He-Man and the Masters of the Universe" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| He-Man and the Masters of the Universe
+http://ip365.cx:900/0324429672/3273888951/400609023
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| A Million Little Things" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| A Million Little Things
+http://ip365.cx:900/0324429672/3273888951/400609121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Billy the Exterminator" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Billy the Exterminator
+http://ip365.cx:900/0324429672/3273888951/400610502
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Party Down" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Party Down
+http://ip365.cx:900/0324429672/3273888951/400611118
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Young Sheldon" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Young Sheldon
+http://ip365.cx:900/0324429672/3273888951/400611119
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Letterkenny" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Letterkenny
+http://ip365.cx:900/0324429672/3273888951/400611120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| The Office" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| The Office
+http://ip365.cx:900/0324429672/3273888951/400611121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| The Office" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| The Office
+http://ip365.cx:900/0324429672/3273888951/400611122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Boy Meets World" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Boy Meets World
+http://ip365.cx:900/0324429672/3273888951/400613587
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EN| Zombie House Flipping" tvg-logo="https://lo1.in/uk/247.png" group-title="24/7 | ENGLISH",24/7 EN| Zombie House Flipping
+http://ip365.cx:900/0324429672/3273888951/400613588
