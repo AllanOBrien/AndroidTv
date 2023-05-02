@@ -444,7 +444,7 @@ http://ip365.cx:900/0324429672/3273888951/376164
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-id="Boomerang.us",BOOMERANG HD
 http://ip365.cx:900/0324429672/3273888951/376162
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Brat_TV_logo.png/250px-Brat_TV_logo.png" tvg-id="BratTV.us",BRAT TV
-https://brat-roku-us.amagi.tv/playlist.m3u8
+http://ip365.cx:900/0324429672/3273888951/75963
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" tvg-id="CartoonNetwork.us",CARTOON NETWORK HD US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://www.cartoonnetwork.com/cartoonito/static/cnito-logo.png" tvg-id="Cartoonito.uk",CARTOONITO HD
@@ -460,7 +460,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playli
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-id="DisneyXD.us",DISNEY XD US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" tvg-id="DuckDynasty.uk",DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+http://ip365.cx:900/0324429672/3273888951/176823
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://i.imgur.com/ZbAVzad.png",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
