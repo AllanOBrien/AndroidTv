@@ -506,9 +506,9 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg",Westerns TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",AFRICA CHANNEL 
-http://ky-iptv.com:25461/live/Summer2023/Summer2023/1369166.m3u8
+http://ip365.cx:900/0324429672/3273888951/376194
 #EXTINF:-1 group-title="AFRICA" tvg-logo="https://cdn-africamagic.dstv.com/images/Channel/2016/10/19/369/4/11_showcase.png",Africa Magic Showcase
-http://tv.nlt.wtf:24561/live/Ashley689/673175/103523.ts
+http://ky-iptv.com:25461/live/Summer2023/Summer2023/1089435
 #EXTINF:-1 group-title="AFRICA" tvg-logo=",Pluto TV Demand Africa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Español" tvg-id="K17JIDT4.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN Latino
