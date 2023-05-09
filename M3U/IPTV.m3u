@@ -25,7 +25,7 @@ http://ip365.cx:900/0324429672/3273888951/268269
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-id="revolt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",REVOLT HD
 http://ip365.cx:900/0324429672/3273888951/176704
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://ww1.prweb.com/prfiles/2012/10/17/10025263/Tempo%20Networks%20logo.gif",TEMPO
 http://ip365.cx:900/0324429672/3273888951/76411
 #EXTINF:-1 group-title="JAMAICA" tvg-id="ceen.jm" tvg-logo="https://lo1.in/car/ceen.png",CEEN HD
 http://ip365.cx:900/0324429672/3273888951/376160
