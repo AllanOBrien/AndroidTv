@@ -99,14 +99,14 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="AandE.us" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
-#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="ActionMAX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
+#EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
 http://ip365.cx:900/0324429672/3273888951/170628
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="ActionMAX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",ACTION MAX EAST
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176011.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",ACTION MAX WEST
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176012.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="AMC.us" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
+http://ip365.cx:900/0324429672/3273888951/181627
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="amgtv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU",AMG TV 1
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="amgtv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU",AMG TV 2
@@ -140,7 +140,7 @@ http://ip365.cx:900/0324429672/3273888951/176775
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="Bravo.us" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO HD 2
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="BUZZR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="BYUTV.us" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg",BYU TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="CBSNewsMiami.us" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",CBS 4 MIAMI HD
@@ -172,7 +172,7 @@ http://ky-iptv.com:25461/live/BBrown384/564657344453/177079.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="ComedyCentral.us" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",COMEDY CENTRAL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://i1.wp.com/www.rokuki.com/wp-content/uploads/2019/09/comedy-dynamics.jpg?resize=1070%2C470",STIRR Comedy Dynamics
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="comet.us" tvg-logo="https://i.imgur.com/27D8JVS.png",COMET
 http://ky-iptv.com:25461/live/BBrown384/564657344453/175814.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",COMET TV
