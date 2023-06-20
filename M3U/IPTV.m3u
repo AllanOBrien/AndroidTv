@@ -384,11 +384,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg" tvg-id="Starz.us",STARZ HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181568
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/starz.eastern.us.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-jGUGrTO6lH4/X30u1jLNXAI/AAAAAAAABzI/0eDD5kyDh8kzfeWG1tUS7ere9cNS3pvggCLcBGAsYHQ/w200-h200/Starz%2Bwest%2BUSA.png" tvg-id="StarzCinema.us",Starz Cinema West
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176068.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" tvg-id="StarzComedy.us",STARZ COMEDY FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/13625
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/starz.comedy.eastern.us.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" tvg-id="StarzComedy.us",STARZ COMEDY EAST
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176069.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg" tvg-id="StarzEncoreFamily.us",Starz Encore Family
@@ -440,9 +440,9 @@ http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/210px-PIX11_2017.svg.png" tvg-id="WPIXDT1.us",WPIX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="http://p2086.securepoint.io:2086/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png",BABY TV
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/376164
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/baby.tv.us.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-id="Boomerang.us",BOOMERANG HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/376162
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/boomerang.us.m3u8
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Brat_TV_logo.png/250px-Brat_TV_logo.png" tvg-id="BratTV.us",BRAT TV
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/75963
 #EXTINF:-1 group-title="US | KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" tvg-id="CartoonNetwork.us",CARTOON NETWORK HD US
@@ -750,9 +750,9 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/WPLGlogo.png/140px-WPLGlogo.png",ABC 10 MIAMI HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="abcwcvb.us" tvg-name="US| ABC 5  (WCVB) BOSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/200px-WCVB-TV_%282021%29.svg.png",ABC 5 WCVB
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/183400
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/abc.wcvb.boston.ma.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="abc7kabctv.us" tvg-name="US| ABC 7 LOS ANGELES " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/170px-KABC-TV_logo.svg.png",ABC 7 LOS ANGELES HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/183410
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/abc.kabc.los.angeles.ca.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" tvg-id="AlJazeeraEnglish.qa",AL JAZEERA NEWS ENGLISH
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="bbcamerica.us" tvg-name="US| BBC AMERICA HD" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",BBC AMERICA HD
@@ -764,7 +764,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSNews.us",CBS NEWS HD
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cgtn.us" tvg-name="US| CGTN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN ENGLISH HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181672
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cgtn.news.ze.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cheddarbusiness.us" tvg-name="US| CHEDDAR BUSINESS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png",CHEDDAR BUSINESS FHD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/181632
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TORONTO HD
@@ -776,13 +776,13 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="CAR| CNN INTERNATIONAL HD" tvg-logo="https://static.epg.best/us/CNN.us.png" tvg-id="CNN.us",CNN International
 http://gystreamer01.airlinktt.co/ottorigin02/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cnn.us" tvg-name="US| CNN FHD" tvg-logo="https://static.epg.best/us/CNN.us.png" tvg-id="CNNHD.us",CNN FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181662
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cnn.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cp24.ca" tvg-name="CA| CP24 NEWS HD" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24 NEWS HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/176094
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cp24.cablepulse.24.ca.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cspan.us" tvg-name="US| C-SPAN 1 HD" tvg-logo="http://p2086.securepoint.io:2086/images/e48f93bb225015d64af95220587f81aa.png",C-SPAN 1
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181659
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cspan.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cspan2.us" tvg-name="US| C-SPAN 2 HD" tvg-logo="http://p2086.securepoint.io:2086/images/b27cedaf0ff83525403980572ea93543.png",C-SPAN 2
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181660
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/c.span.2.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="cspan3.us" tvg-name="US| C-SPAN 3 HD" tvg-logo="https://lo1.in/us/csp3.png",C-SPAN 3 HD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/212526
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
@@ -802,19 +802,19 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 #EXTINF:-1 group-title="NEWS" tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" ,NEWS 12 HD (BROOKLYN)
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/182447
 #EXTINF:-1 group-title="NEWS" tvg-id="newsmax.us" tvg-name="US|  (DISTROTV) NEWSMAX TV HD" tvg-logo="https://static.epg.best/us/Newsmax.us.png",NEWSMAX
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/400163469
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/newsmax.tv.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="CAR| NHK WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK WORLD HD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/268282
 #EXTINF:-1 group-title="NEWS" tvg-id="rt.uk" tvg-name="UK| RT NEWS FHD" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT NEWS FHD UK
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/153849
 #EXTINF:-1 group-title="NEWS" tvg-id="weatherchannel.us" tvg-name="US| THE WEATHER CHANNEL HD" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",THE WEATHER CHANEL
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181656
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/the.weather.channel.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="trtworld.uk" tvg-name="UK| TRT WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World UK
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/400230338
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" tvg-id="AnimalPlanetEast.us",ANIMAL PLANET HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET WEST HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/176638
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/animal.planet.canada.ca.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV 30A
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://p2086.securepoint.io:2086/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png",BEACH TV GULF COAST
@@ -860,9 +860,9 @@ http://iptv365.xyz:80/live/t12mgxya299/0312262374/176654
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="" tvg-name="CAR| NAT GEO HD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO HD 2
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/376149
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="natgeowild.us" tvg-name="US| NAT GEO WILD HD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/176653
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="" tvg-name="CAR| NAT GEO WILD HD" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NAT GEO WILD HD 2
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/376148
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/nat.geo.co.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/NatGeo.us.png" tvg-id="NationalGeographicEast.us",NATIONAL GEOGRAPHIC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Outside_TV.png/220px-Outside_TV.png" tvg-id="OutsideTVPlus.us",OUTSIDE TV+
@@ -876,7 +876,7 @@ http://iptv365.xyz:80/live/t12mgxya299/0312262374/176116
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" tvg-id="TravelChannel.us",TRAVEL CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg",World Fashion Channel
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/75956
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/world.fashion.channel.ru.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="XploreTV.us" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png",XPLORE HD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/400163478
 #EXTINF:-1 group-title="KUNG FU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
@@ -978,11 +978,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://a.espncdn.com/i/ncaa/logos/SEC_ESPN_logo.png",ESPN SEC NETWORK
 http://ky-iptv.com:25461/live/BBrown384/564657344453/220411.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport1.uk" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",EUROSPORT 1 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/400201937
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/eurosport.1.uk.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport2.uk" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",EUROSPORT 2 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191417
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/eurosport.2.uk.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1920px-Fight_network_logo.svg.png",Fight Network
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/400163415
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/fight.network.canada.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="flowsports2.tt" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="FoxSoccerPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
@@ -1056,21 +1056,21 @@ https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",Sky Sport NBA HD
 http://ky-iptv.com:25461/live/BBrown384/564657344453/1846772.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportscricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",SKY SPORTS CRICKET
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/400201962
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/hasitauf.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/153701
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/qkihgakk.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsfootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",SKY SPORTS FOOTBALL
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191691
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/lvupvmnk.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsgolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",SKY SPORTS GOLF
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191685
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/kszsuhwg.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsmainevent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/153691
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/eppvjpkd.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsmix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",SKY SPORTS MIX
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/189987
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/szckleid.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportsnews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",SKY SPORTS NEWS
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191687
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/fdghodsfgh.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/153693
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/diiefbxx.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="sony.us" tvg-name="US| SNY HD" tvg-logo="https://1.bp.blogspot.com/-DjkjclFC9rc/XzNOnkVAyHI/AAAAAAAAAtk/QZz81WNA5ZEnPs1AiY14BrHKrh6gTOIbQCLcBGAsYHQ/w200-h200/54%2BSny.png",SNY
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/155507
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.live.comeseetv.com/uploads/images/clip_1562_1565394558_social.jpg",Sports TV Plus
@@ -1098,57 +1098,57 @@ http://iptv365.xyz:80/live/t12mgxya299/0312262374/159892
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SUPER SPORT PREMIER LEAGUE SD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/186872
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT PREMIER LEAGUE FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190004
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT FOOTBALL HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190006
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.football.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT MAXIMO 1
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191773
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.mximo.1.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT ACTION FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190015
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.action.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT BLITZ FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190012
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.blitz.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT CRICKET FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191776
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.cricket.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT GOLF FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191775
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.golf.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT GRANDSTAND FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190002
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.grandstand.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT MOTORSPORT HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191772
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.motorsport.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT PLAY FHD
 http://iptv365.xyz:80/live/t12mgxya299/0312262374/195920
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT PSL FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190003
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.psl.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT RUGBY FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191771
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.rugby.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png",SUPERSPORT TENNIS FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/191770
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.tennis.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 1 FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190007
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.variety.1.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 2 FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190008
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.variety.2.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 3 FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190009
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.variety.3.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png",SUPERSPORT VARIETY 4 FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/190010
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ss.variety.4.ze.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",THE BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",TSN 1
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/175769
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tsn1.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",TSN2 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/175768
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tsn2.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="tsn3.ca" tvg-name="CA| TSN 3 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png",TSN3 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/175767
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tsn3.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="tsn4.ca" tvg-name="CA| TSN 4 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png",TSN4 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/175766
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tsn4.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="tsn5.ca" tvg-name="CA| TSN 5 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png",TSN5 HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/175765
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tsn5.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-c9Ost9rpxes/X2EEEClQ97I/AAAAAAAABQI/Dn4nZDtaYjwW2RCIZ2sFI2mQnAWT8LvIgCLcBGAsYHQ/w200-h200/tvg.png",TVG 2
 http://ky-iptv.com:25461/live/BBrown384/564657344453/220449.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/212529
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ufc.fightpass.1.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="tennischannel.us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://lo1.in/us/tnn.png" ,TENNIS CHANNEL FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181415
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/the.tennis.channel.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOW CRICKET HD
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.finder.com/niche-builder/5e75cebe4dc9e.jpg",WILLOW XTRA HD
@@ -1182,11 +1182,11 @@ http://ky-iptv.com:25461/live/BBrown384/564657344453/220454.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="WorldPokerTour.us" tvg-country="INT" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://b1g.fun/logos2/Astro_WWE.jpg",WWE NETWORK FHD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181443
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/wwe.network.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="US| FOX SPORTS YES NETWORK HD" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",YES NETWORK HD
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/181390
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/yes.network.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UBR7J74eEannqoVvxfefHXrCNXFtulu9zA&usqp=CAU",ZIGGO SPORT GOLF
-http://iptv365.xyz:80/live/t12mgxya299/0312262374/16821
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/ziggo.sport.golf.nl.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="PLUTO TV CHANNELS",Pluto TV Spotlight
 https://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=32d387e3-1a7e-11ed-91db-0242ac110003
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PLUTO TV CHANNELS" ,Pluto TV Action
