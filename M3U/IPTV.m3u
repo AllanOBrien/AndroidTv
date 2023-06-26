@@ -210,13 +210,13 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56281.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="EpixDriveIn.us" tvg-logo="https://1.bp.blogspot.com/-PN_jp5hbqKc/XzNOqlH2e8I/AAAAAAAAAuI/nKDY2lFPFzEbSvI2Y7s07SaZouL4syyoQCLcBGAsYHQ/w200-h200/62%2BEpix%2Bdrive.png",EPIX Drive 2
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176027.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="Epix.us" tvg-logo="https://yt3.ggpht.com/-wsQnz4CLzOs/AAAAAAAAAAI/AAAAAAAAAAA/QmNS_jiU08o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",EPIX HD 1
-http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/28554
+http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/28554.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="Epix.us" tvg-logo="https://yt3.ggpht.com/-wsQnz4CLzOs/AAAAAAAAAAI/AAAAAAAAAAA/QmNS_jiU08o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",EPIX HD 2
 http://line.premiumpowers.net:80/live/Bianca/1234567/45582.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="Epix.us" tvg-logo="https://yt3.ggpht.com/-wsQnz4CLzOs/AAAAAAAAAAI/AAAAAAAAAAA/QmNS_jiU08o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",EPIX HD 3
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176026.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="EpixHits.us" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/photos/premium-channels/EPIX/cox-premium-channel-epix-logo-hits.jpg",EPIX HITS HD
-http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/34952
+http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/34952.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="EpixHits.us" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/photos/premium-channels/EPIX/cox-premium-channel-epix-logo-hits.jpg",EPIX HITS HD 2
 http://ky-iptv.com:25461/live/BBrown384/564657344453/176029.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/TravelEscape.ca.png",ESCAPE TV
@@ -224,7 +224,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="FLIX.us" tvg-logo="https://static.epg.best/in/AndFlix.in.png",FLIXX HD
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="FoodNetwork.us" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK HD 
-http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/111860
+http://moontools.me:8080/live/Platino11/czXx3HhDRLxc/111860.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX 7 AUSTIN TX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="Freeform.us" tvg-logo="https://static.epg.best/us/Freeform.us.png",FREEFORM 
