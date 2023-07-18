@@ -952,7 +952,7 @@ http://ky-iptv.com:80/live/BBrown384/564657344453/1565706.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="ATTSportsNetHouston.us" tvg-logo="https://1.bp.blogspot.com/-R935Fqy8X4c/XzQb0UdGGAI/AAAAAAAAA0U/sK_IJb6IORwmjye7jQTZAHfNQRt-SCisQCLcBGAsYHQ/w200-h200/110%2BAy%2526t.png",AT&T Sport 3
 http://ky-iptv.com:80/live/BBrown384/564657344453/220390.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="beINSports.us" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN SPORTS HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:BEIN_SPORTS.smil/playlist.m3u8
+http://ky-iptv.com:80/BBrown384/564657344453/220395.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="beINSports.us" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",beIN SPORTS HD 2
 http://ip365.cx:80/JMnsxysV/DAD5B8B7/181503
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
@@ -972,9 +972,9 @@ http://ip365.cx:80/JMnsxysV/DAD5B8B7/181380
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsmax-2-1706.png",E2 Sports Max 2
 http://ky-iptv.com:80/live/BBrown384/564657344453/220405.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="ESPN.us" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/181387.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="ESPN2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/181514.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://a.espncdn.com/i/ncaa/logos/SEC_ESPN_logo.png",ESPN SEC NETWORK
 http://ky-iptv.com:80/live/BBrown384/564657344453/220411.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport1.uk" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",EUROSPORT 1 HD
@@ -984,19 +984,19 @@ http://ip365.cx:80/JMnsxysV/DAD5B8B7/191417
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1920px-Fight_network_logo.svg.png",Fight Network
 http://ip365.cx:80/JMnsxysV/DAD5B8B7/400163415
 #EXTINF:-1 group-title="SPORTS" tvg-id="flowsports2.tt" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FLOW_SPORTS.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/376145.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="FoxSoccerPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
 http://ky-iptv.com:80/live/BBrown384/564657344453/176986.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="FoxSports1.us" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/181440
 #EXTINF:-1 group-title="SPORTS" tvg-id="FoxSports2.us" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/181441
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-LEjflwSu2XQ/XzWJEVvf4UI/AAAAAAAAA_s/b9YFKUWpe9UgyijM3Wb9RJc9_ayPnGDdgCLcBGAsYHQ/w200-h200/145%2BFs1.png",FS 1
 http://ky-iptv.com:80/live/BBrown384/564657344453/220387.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-3ZSO3n3wrkA/X0PqX6Vw6OI/AAAAAAAABM8/Dq2rbN76DFcovrvl84JJd94_t2EcpNOgQCLcBGAsYHQ/w200-h200/171%2BFs2.png",FS 2
 http://ky-iptv.com:80/live/BBrown384/564657344453/220388.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-ZEig4_7hVlw/XzNOO7f_L-I/AAAAAAAAAqg/0LpD6NgeY9IHASVozL6D_MlnitADXQJeACLcBGAsYHQ/w200-h200/101%2BGinx%2Besports.png",Ginx eSports
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ginx.esports.tv.ze.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/175790.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png",Gol TV
 http://ky-iptv.com:80/live/BBrown384/564657344453/176324.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT Wrestling 
@@ -1006,7 +1006,7 @@ http://ky-iptv.com:80/live/BBrown384/564657344453/220444.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png",MLB NETWORK HD
 http://ky-iptv.com:80/live/BBrown384/564657344453/176144.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
-http://platinumxmedia.xyz:8080/live/geniptvservice/4EYQYcwMU6/63795
+http://hostengine.live/live/Alice/Alice123/140452.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png",MSG
 http://ky-iptv.com:80/live/BBrown384/564657344453/220421.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png",MSG +
