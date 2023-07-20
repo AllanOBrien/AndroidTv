@@ -330,7 +330,7 @@ http://ky-iptv.com:80/live/boris1234/1234boris/175917.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.imgur.com/gWOqTZg.png",People are Awesome
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=bd89af6a-97e2-413e-8be3-888c0ba6d814&clientModelNumber=na&deviceDNT=false&deviceId=bd89af6a-97e2-413e-8be3-888c0ba6d814&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=3729f924-b279-11eb-9c37-0242ac110002&sid=3729f924-b279-11eb-9c37-0242ac110002&userId=
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="PeopleTV.us" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
-https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+http://playhispano.org:8080/live/TvPremiumNelson/uRucSYBC9L/131738.ts
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP
 http://ky-iptv.com:80/live/boris1234/1234boris/189986.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Quest_logo.png",QUEST
@@ -1073,8 +1073,8 @@ http://ip365.cx:80/JMnsxysV/DAD5B8B7/191687
 http://ip365.cx:80/JMnsxysV/DAD5B8B7/153693
 #EXTINF:-1 group-title="SPORTS" tvg-id="sony.us" tvg-name="US| SNY HD" tvg-logo="https://1.bp.blogspot.com/-DjkjclFC9rc/XzNOnkVAyHI/AAAAAAAAAtk/QZz81WNA5ZEnPs1AiY14BrHKrh6gTOIbQCLcBGAsYHQ/w200-h200/54%2BSny.png",SNY
 http://ip365.cx:80/JMnsxysV/DAD5B8B7/155507
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.live.comeseetv.com/uploads/images/clip_1562_1565394558_social.jpg",Sports TV Plus
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="sonysix.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",SPORT TV 1
 http://ky-iptv.com:80/live/boris1234/1234boris/399398.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",SPORT TV 2
