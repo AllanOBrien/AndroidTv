@@ -654,7 +654,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/101226
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/71/MC_Radio_%282008-.n.v.%29.png",MC Radio  Love Songs
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/65731
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png" tvg-id="MTV.us",MTV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/181112.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-gvSm1kkq_qM/X0L3hft97VI/AAAAAAAABL4/s0P_lumasQEaLYLyOvH4wRYB43jH3xX1wCLcBGAsYHQ/w200-h200/167%2BMtv%2B2.png" tvg-id="MTV2.us",MTV 2
 http://ky-iptv.com:80/live/christiano/christiano/177084.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://1.bp.blogspot.com/-oWicRJIPss0/X0L3iZXuExI/AAAAAAAABMA/goD2sTYwJp0av1C-b6fO4FOJ5MIidI2IACLcBGAsYHQ/w200-h200/197%2BMTV%2Bclass.png" tvg-id="MTVClassic.us",MTV Classic
@@ -26727,6 +26727,66 @@ http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400252106.ts
 http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400292073.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="AM | COSTA RICA" tvg-logo="https://lo1.in/cr/td4.png",CR| TD+ 2 HD
 http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400292116.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/flg.png",✦●✦ BAB | CRICKET ✦●✦
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201965.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/supsp.png",BAB| SUPER SPORTS CRICKET FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201963.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/skyspcrk.png",BAB| SKY SPORTS CRICKET HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201962.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/skyspcrk.png",BAB| SKY SPORTS CRICKET FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201961.ts
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/astcrk.png",BAB| ASTRO CRICKET HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201960.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/ind/ipl.png",BAB| CRICKET-T SPORTS PK HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400406180.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/fxcrk.png",BAB| FOX CRICKET 501 HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201959.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/ptvsp.png",BAB| PTV SPORTS HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201958.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/geosup.png",BAB| GEO SUPER HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201957.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/tensp.png",BAB| TEN SPORTS FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201956.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/snyten.png",BAB| SONY TEN 1 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201955.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/snyten2.png",BAB| SONY TEN 2 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201954.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/snyten3.png",BAB| SONY TEN 3 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201953.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/wilw.png",BAB| WILLOW CRICKET HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201952.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/wilw.png",BAB| WILLOW EXTRA HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201951.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/asp.png",BAB| A SPORTS HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400313467.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/fesp.png",BAB| FREE SPORTS FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201950.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/fesp.png",BAB| FREESPORTS HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201949.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strsp1.png",BAB| STAR SPORTS 1 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201948.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strsp2.png",BAB| STAR SPORTS 2 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201947.ts
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strsp3.png",BAB| STAR SPORTS 3 HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201946.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strspse1.png",BAB| STAR SPORTS SELECT 1 FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201945.ts
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strspse2.png",BAB| STAR SPORTS SELECT 2  FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201944.ts
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/sstsphd.png",BAB| STAR SPORTS 1 HINDI FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201943.ts
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/strsp1.png",BAB| STAR SPORTS 1 TAMIL HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201942.ts
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/snysix.png",BAB| SONY SIX FHD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201941.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/rtasp.png",BAB| RTA SPORTS
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201940.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/btsp1.png",BAB| BT SPORT 1 HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201939.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/uk/btsp2.png",BAB| BT SPORT 2 HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201938.ts
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="" group-title="BAB | CRICKET" tvg-logo="https://lo1.in/cricket/eursp.png",BAB| EUROSPORT HD
+http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400201937.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 | ENGLISH" tvg-logo="https://lo1.in/uk/247.png",✦●✦24/7-MOVIES✦●✦
 http://ip365.cx:80/live/JMnsxysV/DAD5B8B7/400525383.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 | ENGLISH" tvg-logo="https://lo1.in/uk/247.png",24/7-EN| TOP MOVIES 2023
