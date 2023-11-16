@@ -1,635 +1,255 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="btc.car" tvg-name="btc.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/btc.car.png",BTC TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/btc.car.m3u8
-#EXTINF:-1 tvg-id="ccn.tv6.tt.car" tvg-name="ccn.tv6.tt.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/ccn.tv6.tt.car.png",CCN TV6
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ccn.tv6.tt.car.m3u8
-#EXTINF:-1 tvg-id="church.car" tvg-name="church.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/church.car.png",Church
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/church.car.m3u8
-#EXTINF:-1 tvg-id="cnc3.car" tvg-name="cnc3.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/cnc3.car.png",CNC3
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cnc3.car.m3u8
-#EXTINF:-1 tvg-id="color.vision.car" tvg-name="color.vision.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/color.vision.car.png",Color Vision
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/color.vision.car.m3u8
-#EXTINF:-1 tvg-id="curacao.car" tvg-name="curacao.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/curacao.car.png",Curacao
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/curacao.car.m3u8
-#EXTINF:-1 tvg-id="cvm.car" tvg-name="cvm.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/cvm.car.png",CVM
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cvm.car.m3u8
-#EXTINF:-1 tvg-id="direct.13.car" tvg-name="direct.13.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/direct.13.car.png",Direct 13
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/direct.13.car.m3u8
-#EXTINF:-1 tvg-id="estv.car" tvg-name="estv.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/estv.car.png",ESTV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/estv.car.m3u8
-#EXTINF:-1 tvg-id="flow.sports.hd.car" tvg-name="flow.sports.hd.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/flow.sports.hd.car.png",Flow Sports
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/flow.sports.hd.car.m3u8
-#EXTINF:-1 tvg-id="flowtv.jm.car" tvg-name="flowtv.jm.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/flowtv.jm.car.png",FlowTV JM
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/flowtv.jm.car.m3u8
-#EXTINF:-1 tvg-id="globo.tv.hon" tvg-name="globo.tv.hon" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/globo.tv.hon.png",Globo TV HN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/globo.tv.hon.m3u8
-#EXTINF:-1 tvg-id="hype.car" tvg-name="hype.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/hype.car.png",Hype
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hype.car.m3u8
-#EXTINF:-1 tvg-id="island.luck.car" tvg-name="island.luck.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/island.luck.car.png",Island Luck
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/island.luck.car.m3u8
-#EXTINF:-1 tvg-id="jcn.bahamas.car" tvg-name="jcn.bahamas.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/jcn.bahamas.car.png",JCN Bahamas
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/jcn.bahamas.car.m3u8
-#EXTINF:-1 tvg-id="jnn.car" tvg-name="jnn.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/jnn.car.png",JNN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/jnn.car.m3u8
-#EXTINF:-1 tvg-id="parliament.bahamas.car" tvg-name="parliament.bahamas.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/parliament.bahamas.car.png",Parliament Bahamas
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/parliament.bahamas.car.m3u8
-#EXTINF:-1 tvg-id="retv.car" tvg-name="retv.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/retv.car.png",RETV 1
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/retv.car.m3u8
-#EXTINF:-1 tvg-id="sky.news.car" tvg-name="sky.news.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/sky.news.car.png",Sky News
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/sky.news.car.m3u8
-#EXTINF:-1 tvg-id="smile.child.car" tvg-name="smile.child.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/smile.child.car.png",Smile Child
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/smile.child.car.m3u8
-#EXTINF:-1 tvg-id="super.canal.car" tvg-name="super.canal.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/super.canal.car.png",Super Canal
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/super.canal.car.m3u8
-#EXTINF:-1 tvg-id="synergy.car" tvg-name="synergy.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/synergy.car.png",Synergy
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/synergy.car.m3u8
-#EXTINF:-1 tvg-id="telecentro.car" tvg-name="telecentro.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/telecentro.car.png",Telecentro
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/telecentro.car.m3u8
-#EXTINF:-1 tvg-id="teleprogreso.hon" tvg-name="teleprogreso.hon" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/teleprogreso.hon.png",TeleProgreso HN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/teleprogreso.hon.m3u8
-#EXTINF:-1 tvg-id="tnt.feva.car" tvg-name="tnt.feva.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/tnt.feva.car.png",TNT Feva
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tnt.feva.car.m3u8
-#EXTINF:-1 tvg-id="ttt.car" tvg-name="ttt.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/ttt.car.png",TTT
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ttt.car.m3u8
-#EXTINF:-1 tvg-id="tvj.car" tvg-name="tvj.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/tvj.car.png",TVJ
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tvj.car.m3u8
-#EXTINF:-1 tvg-id="tvj.sports.car" tvg-name="tvj.sports.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/tvj.sports.car.png",TVJ Sports
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tvj.sports.car.m3u8
-#EXTINF:-1 tvg-id="tvone.car" tvg-name="tvone.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/tvone.car.png",TVOne
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tvone.car.m3u8
-#EXTINF:-1 tvg-id="znstv.bah.car" tvg-name="znstv.bah.car" tvg-type="live" group-title="Caribbean" tvg-logo="https://media.tv4.live/znstv.bah.car.png",ZNSTV Bahamas
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/znstv.bah.car.m3u8
-#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="5.star.max.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/5.star.max.eastern.us.png",5 Star Max (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/5.star.max.eastern.us.m3u8
-#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ae.us.eastern.us.png",A&E (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ae.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="abc.news.live.us" tvg-name="abc.news.live.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/abc.news.live.us.png",ABC News Live
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/abc.news.live.us.m3u8
-#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="actionmax.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/actionmax.eastern.us.png",ActionMax (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/actionmax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="actionmax.pacific.us" tvg-name="actionmax.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/actionmax.pacific.us.png",ActionMax (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/actionmax.pacific.us.m3u8
-#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/adult.swim.east.us.m3u8
-#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/amc.eastern.us.m3u8
-#EXTINF:-1 tvg-id="amc.on.demand.us" tvg-name="amc.on.demand.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/amc.on.demand.us.png",AMC Presents
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/amc.on.demand.us.m3u8
-#EXTINF:-1 tvg-id="amc.plus.us" tvg-name="amc.plus.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/amc.plus.us.png",AMC+
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/amc.plus.us.m3u8
-#EXTINF:-1 tvg-id="american.heroes.channel.us" tvg-name="american.heroes.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/american.heroes.channel.us.png",American Heroes Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/american.heroes.channel.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-id="antenna.network.us" tvg-name="antenna.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/antenna.network.us.png",Antenna Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/antenna.network.us.m3u8
-#EXTINF:-1 tvg-id="aspire.tv.us" tvg-name="aspire.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/aspire.tv.us.png",ASPiRE TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/aspire.tv.us.m3u8
-#EXTINF:-1 tvg-id="awe.tv.network.us" tvg-name="awe.tv.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/awe.tv.network.us.png",AWE TV Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/awe.tv.network.us.m3u8
-#EXTINF:-1 tvg-id="axs.tv.usa.us" tvg-name="axs.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/axs.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby First US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/baby.first.tv.us.m3u8
-#EXTINF:-1 tvg-id="baby.tv.us" tvg-name="baby.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/baby.tv.us.png",Baby TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/baby.tv.us.m3u8
-#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bbc.america.east.us.m3u8
-#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bbc.world.north.america.us.m3u8
-#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="bet.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.eastern.us.png",Bet (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.eastern.us.m3u8
-#EXTINF:-1 tvg-id="bet.pacific.us" tvg-name="bet.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.pacific.us.png",Bet (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.pacific.us.m3u8
-#EXTINF:-1 tvg-id="bet.gospel.us" tvg-name="bet.gospel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.gospel.us.m3u8
-#EXTINF:-1 tvg-id="bet.her.us" tvg-name="bet.her.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.her.us.png",Bet Her US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.her.us.m3u8
-#EXTINF:-1 tvg-id="bet.jams.us" tvg-name="bet.jams.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET Jams
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.jams.us.m3u8
-#EXTINF:-1 tvg-id="bet.soul.us" tvg-name="bet.soul.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET Soul
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bet.soul.us.m3u8
-#EXTINF:-1 tvg-id="big.brother.1.us" tvg-name="big.brother.1.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/big.brother.1.us.png",Big Brother US 1
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/big.brother.1.us.m3u8
-#EXTINF:-1 tvg-id="big.brother.2.us" tvg-name="big.brother.2.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/big.brother.2.us.png",Big Brother US 2
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/big.brother.2.us.m3u8
-#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/big.ten.network.us.m3u8
-#EXTINF:-1 tvg-id="black.news.channel.us" tvg-name="black.news.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/black.news.channel.us.png",Black News
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/black.news.channel.us.m3u8
-#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="bloomberg.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bloomberg.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/boomerang.us.png",Boomerang
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/boomerang.us.m3u8
-#EXTINF:-1 tvg-id="bounce.network.us" tvg-name="bounce.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bounce.network.us.png",Bounce Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bounce.network.us.m3u8
-#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="bravo.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bravo.usa.eastern.us.png",Bravo (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bravo.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="bravo.usa.pacific.us" tvg-name="bravo.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bravo.usa.pacific.us.png",Bravo (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/bravo.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="buzzr.tv.us" tvg-name="buzzr.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/buzzr.tv.us.png",Buzzr TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/buzzr.tv.us.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cartoon.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.usa.pacific.us" tvg-name="cartoon.network.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cartoon.network.usa.pacific.us.png",Cartoon Network (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cartoon.network.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="cbs.eastern.us" tvg-name="cbs.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cbs.eastern.us.png",CBS East
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cbs.eastern.us.m3u8
-#EXTINF:-1 tvg-id="charge.us" tvg-name="charge.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/charge.us.png",Charge
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/charge.us.m3u8
-#EXTINF:-1 tvg-id="chch.hamilton.on.us" tvg-name="chch.hamilton.on.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/chch.hamilton.on.us.png",CHCH Hamilton, ON
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/chch.hamilton.on.us.m3u8
-#EXTINF:-1 tvg-id="cheddar.news.us" tvg-name="cheddar.news.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cheddar.news.us.png",Cheddar News
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cheddar.news.us.m3u8
-#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="cinemax.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cinemax.eastern.us.png",Cinemax (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cinemax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="classic.arts.showcase.us" tvg-name="classic.arts.showcase.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/classic.arts.showcase.us.png",Classic Arts Showcase
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/classic.arts.showcase.us.m3u8
-#EXTINF:-1 tvg-id="cleo.tv.us" tvg-name="cleo.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cleo.tv.us.png",CLEO TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cleo.tv.us.m3u8
-#EXTINF:-1 tvg-id="cmt.us.eastern.us" tvg-name="cmt.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cmt.us.eastern.us.png",CMT (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cmt.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="cnbc.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnbc.usa.us.png",CNBC US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="cnbc.world.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC World US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cnbc.world.us.m3u8
-#EXTINF:-1 tvg-id="cnn.international.north.america.us" tvg-name="cnn.international.north.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnn.international.north.america.us.png",CNN International North America
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cnn.international.north.america.us.m3u8
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="cnn.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cnn.us.png",CNN US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cnn.us.m3u8
-#EXTINF:-1 tvg-id="comedy.central.eastern.us" tvg-name="comedy.central.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/comedy.central.eastern.us.png",Comedy Central US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/comedy.central.eastern.us.m3u8
-#EXTINF:-1 tvg-id="comet.tv.us" tvg-name="comet.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/comet.tv.us.png",Comet TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/comet.tv.us.m3u8
-#EXTINF:-1 tvg-id="the.cooking.channel.us" tvg-name="the.cooking.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.cooking.channel.us.png",Cooking Channel US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.cooking.channel.us.m3u8
-#EXTINF:-1 tvg-id="cornerstone.television.us" tvg-name="cornerstone.television.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cornerstone.television.us.png",Cornerstone Television
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cornerstone.television.us.m3u8
-#EXTINF:-1 tvg-id="court.tv.network.us" tvg-name="court.tv.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/court.tv.network.us.png",Court TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/court.tv.network.us.m3u8
-#EXTINF:-1 tvg-id="court.tv.mystery.network.us" tvg-name="court.tv.mystery.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/court.tv.mystery.network.us.png",Court TV Mystery Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/court.tv.mystery.network.us.m3u8
-#EXTINF:-1 tvg-id="the.cowboy.channel.us" tvg-name="the.cowboy.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.cowboy.channel.us.png",Cowboy Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.cowboy.channel.us.m3u8
-#EXTINF:-1 tvg-id="cozi.network.us" tvg-name="cozi.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cozi.network.us.png",COZI Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cozi.network.us.m3u8
-#EXTINF:-1 tvg-id="cspan.us" tvg-name="cspan.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/cspan.us.png",CSPAN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/cspan.us.m3u8
-#EXTINF:-1 tvg-id="c.span.2.us" tvg-name="c.span.2.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/c.span.2.us.png",CSPAN 2
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/c.span.2.us.m3u8
-#EXTINF:-1 tvg-id="ctn.christian.television.network.us" tvg-name="ctn.christian.television.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ctn.christian.television.network.us.png",CTN Christian Television Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ctn.christian.television.network.us.m3u8
-#EXTINF:-1 tvg-id="daystar.network.us" tvg-name="daystar.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/daystar.network.us.png",Daystar Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/daystar.network.us.m3u8
-#EXTINF:-1 tvg-id="decades.network.us" tvg-name="decades.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/decades.network.us.png",Decades Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/decades.network.us.m3u8
-#EXTINF:-1 tvg-id="destination.america.us" tvg-name="destination.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/destination.america.us.png",Destination America US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/destination.america.us.m3u8
-#EXTINF:-1 tvg-id="discovery.channel.us.eastern.us" tvg-name="discovery.channel.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/discovery.channel.us.eastern.us.png",Discovery Channel (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/discovery.channel.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="discovery.channel.pacific.us" tvg-name="discovery.channel.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/discovery.channel.pacific.us.png",Discovery Channel (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/discovery.channel.pacific.us.m3u8
-#EXTINF:-1 tvg-id="discovery.family.channel.us" tvg-name="discovery.family.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/discovery.family.channel.us.png",Discovery Family US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/discovery.family.channel.us.m3u8
-#EXTINF:-1 tvg-id="discovery.life.channel.us" tvg-name="discovery.life.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/discovery.life.channel.us.png",Discovery Life
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/discovery.life.channel.us.m3u8
-#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/disney.eastern.us.m3u8
-#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="disney.junior.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/disney.junior.usa.east.us.png",Disney Jr (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/disney.junior.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="disney.xd.usa.pacific.us" tvg-name="disney.xd.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/disney.xd.usa.pacific.us.png",Disney XC West
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/disney.xd.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="disney.xd.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/disney.xd.usa.eastern.us.png",Disney Xd (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/disney.xd.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="do.it.yourself.network.usa.east.us" tvg-name="do.it.yourself.network.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/do.it.yourself.network.usa.east.us.png",Do It Yourself Network (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/do.it.yourself.network.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="dog.tv.us" tvg-name="dog.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/dog.tv.us.png",Dog TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/dog.tv.us.m3u8
-#EXTINF:-1 tvg-id="dw.english.us" tvg-name="dw.english.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/dw.english.us.png",DW Deutsch
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/dw.english.us.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="e.entertainment.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/e.entertainment.usa.eastern.us.png",E! Entertainment (Eest)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/e.entertainment.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.usa.pacific.us" tvg-name="e.entertainment.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/e.entertainment.usa.pacific.us.png",E! Entertainment (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/e.entertainment.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="el.rey.network.us" tvg-name="el.rey.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/el.rey.network.us.png",El Rey Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/el.rey.network.us.m3u8
-#EXTINF:-1 tvg-id="epix.east.us" tvg-name="epix.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/epix.east.us.png",EPIX (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/epix.east.us.m3u8
-#EXTINF:-1 tvg-id="epix2.east.us" tvg-name="epix2.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/epix2.east.us.png",Epix 2
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/epix2.east.us.m3u8
-#EXTINF:-1 tvg-id="epix.drive.in.us" tvg-name="epix.drive.in.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/epix.drive.in.us.png",EPIX DriveIn
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/epix.drive.in.us.m3u8
-#EXTINF:-1 tvg-id="epix.hits.us" tvg-name="epix.hits.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/epix.hits.us.png",EPIX Hits
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/epix.hits.us.m3u8
-#EXTINF:-1 tvg-id="ewtn.latin.america.us" tvg-name="ewtn.latin.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ewtn.latin.america.us.png",EWTN Latin America
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ewtn.latin.america.us.m3u8
-#EXTINF:-1 tvg-id="fetv.family.entertainment.television.us" tvg-name="fetv.family.entertainment.television.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fetv.family.entertainment.television.us.png",FETV Family Entertainment Television
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fetv.family.entertainment.television.us.m3u8
-#EXTINF:-1 tvg-id="flix.eastern.us" tvg-name="flix.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/flix.eastern.us.png",Flix
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/flix.eastern.us.m3u8
-#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="food.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",Food Network (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/food.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="fox.business.us" tvg-name="fox.business.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fox.business.us.png",FOX Business Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fox.business.us.m3u8
-#EXTINF:-1 tvg-id="fox.news.us" tvg-name="fox.news.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fox.news.us.png",FOX News US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fox.news.us.m3u8
-#EXTINF:-1 tvg-id="france.24.english.us" tvg-name="france.24.english.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/france.24.english.us.png",France 24 EN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/france.24.english.us.m3u8
-#EXTINF:-1 tvg-id="free.speech.network.us" tvg-name="free.speech.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/free.speech.network.us.png",Free Speech Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/free.speech.network.us.m3u8
-#EXTINF:-1 tvg-id="freeform.east.us" tvg-name="freeform.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/freeform.east.us.png",Freeform
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/freeform.east.us.m3u8
-#EXTINF:-1 tvg-id="fuse.tv.eastern.us" tvg-name="fuse.tv.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fuse.tv.eastern.us.png",FUSE TV (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fuse.tv.eastern.us.m3u8
-#EXTINF:-1 tvg-id="fx.movie.channel.us" tvg-name="fx.movie.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fx.movie.channel.us.png",FX Movie Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fx.movie.channel.us.m3u8
-#EXTINF:-1 tvg-id="fxpacific.us" tvg-name="fxpacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fxpacific.us.png",FX Network (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fxpacific.us.m3u8
-#EXTINF:-1 tvg-id="fx.networks.east.coast.us" tvg-name="fx.networks.east.coast.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fx.networks.east.coast.us.png",FX Networks (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fx.networks.east.coast.us.m3u8
-#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="fxx.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fxx.usa.eastern.us.png",FXX (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fxx.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="fyi.usa.eastern.us" tvg-name="fyi.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/fyi.usa.eastern.us.png",FYI (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/fyi.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="gac.great.american.country.us" tvg-name="gac.great.american.country.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/gac.great.american.country.us.png",GAC Great American Country
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/gac.great.american.country.us.m3u8
-#EXTINF:-1 tvg-id="game.show.network.east.us" tvg-name="game.show.network.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/game.show.network.east.us.png",Game Show Network (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/game.show.network.east.us.m3u8
-#EXTINF:-1 tvg-id="gospel.broadcasting.network.us" tvg-name="gospel.broadcasting.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/gospel.broadcasting.network.us.png",GBN Gospel Broadcasting Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/gospel.broadcasting.network.us.m3u8
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="gettv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/gettv.us.png",GetTV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/gettv.us.m3u8
-#EXTINF:-1 tvg-id="god.tv.usa.us" tvg-name="god.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/god.tv.usa.us.png",God TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/god.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="gol.tv.usa.us" tvg-name="gol.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/gol.tv.usa.us.png",Gol TV USA
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/gol.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="grit.network.us" tvg-name="grit.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/grit.network.us.png",Grit Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/grit.network.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.channel.eastern.us" tvg-name="hallmark.channel.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hallmark.channel.eastern.us.png",Hallmark Channel (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hallmark.channel.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.drama.us" tvg-name="hallmark.drama.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hallmark.drama.us.png",Hallmark Drama US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hallmark.drama.us.m3u8
-#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="hallmark.movies.mysteries.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png",Hallmark Movies Mysteries US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hallmark.movies.mysteries.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="hbo.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.eastern.us.png",HBO (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.west.us" tvg-name="hbo.west.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.west.us.png",HBO (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.west.us.m3u8
-#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="hbo.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.2.eastern.us.png",HBO 2 (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.2.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.2.pacific.us" tvg-name="hbo.2.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.2.pacific.us.png",HBO 2 (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.2.pacific.us.m3u8
-#EXTINF:-1 tvg-id="hbo.comedy.east.us" tvg-name="hbo.comedy.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.comedy.east.us.png",HBO Comedy (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.comedy.east.us.m3u8
-#EXTINF:-1 tvg-id="hbo.comedy.pacific.us" tvg-name="hbo.comedy.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.comedy.pacific.us.png",HBO Comedy (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.comedy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="hbo.family.eastern.us" tvg-name="hbo.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.family.eastern.us.png",HBO Family (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.signature.hbo.3.eastern.us" tvg-name="hbo.signature.hbo.3.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png",HBO Signature (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="hbo.zone.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hbo.zone.east.us.png",HBO Zone (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hbo.zone.east.us.m3u8
-#EXTINF:-1 tvg-id="hdnet.movies.us" tvg-name="hdnet.movies.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hdnet.movies.us.png",HDNet Movies
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hdnet.movies.us.m3u8
-#EXTINF:-1 tvg-id="hi.heroes.icons.network.us" tvg-name="hi.heroes.icons.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hi.heroes.icons.network.us.png",Heroes & Icons Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hi.heroes.icons.network.us.m3u8
-#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="hgtv.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hgtv.usa.eastern.us.png",HGTV (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hgtv.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="hgtv.usa.pacific.us" tvg-name="hgtv.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hgtv.usa.pacific.us.png",HGTV (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hgtv.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="hillsong.channel.us" tvg-name="hillsong.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hillsong.channel.us.png",HillSong
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hillsong.channel.us.m3u8
-#EXTINF:-1 tvg-id="history.channel.us.east.us" tvg-name="history.channel.us.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/history.channel.us.east.us.png",History Channel US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/history.channel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="hln.us" tvg-name="hln.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hln.us.png",HLN
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hln.us.m3u8
-#EXTINF:-1 tvg-id="hollywire.us" tvg-name="hollywire.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hollywire.us.png",Hollywire
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hollywire.us.m3u8
-#EXTINF:-1 tvg-id="hsn.2.us" tvg-name="hsn.2.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hsn.2.us.png",HSN 2
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hsn.2.us.m3u8
-#EXTINF:-1 tvg-id="hsn.home.shopping.network.us" tvg-name="hsn.home.shopping.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hsn.home.shopping.network.us.png",HSN Home Shopping Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hsn.home.shopping.network.us.m3u8
-#EXTINF:-1 tvg-id="hunt.channel.us" tvg-name="hunt.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/hunt.channel.us.png",Hunt Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/hunt.channel.us.m3u8
-#EXTINF:-1 tvg-id="ifc.us" tvg-name="ifc.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ifc.us.png",IFC
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ifc.us.m3u8
-#EXTINF:-1 tvg-id="indieplex.eastern.us" tvg-name="indieplex.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/indieplex.eastern.us.png",IndiePlex (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/indieplex.eastern.us.m3u8
-#EXTINF:-1 tvg-id="infowars.us" tvg-name="infowars.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/infowars.us.png",InfoWars
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/infowars.us.m3u8
-#EXTINF:-1 tvg-id="insp.us" tvg-name="insp.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/insp.us.png",INSP
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/insp.us.m3u8
-#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="investigation.discovery.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/investigation.discovery.usa.eastern.us.png",Investigation Discovery US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/investigation.discovery.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="ion.central.us" tvg-name="ion.central.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ion.central.us.png",ION
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ion.central.us.m3u8
-#EXTINF:-1 tvg-id="ion.plus.us" tvg-name="ion.plus.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ion.plus.us.png",ION Plus
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ion.plus.us.m3u8
-#EXTINF:-1 tvg-id="justice.central.us" tvg-name="justice.central.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/justice.central.us.png",Justice Central
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/justice.central.us.m3u8
-#EXTINF:-1 tvg-id="ktla.los.angeles.ca.us" tvg-name="ktla.los.angeles.ca.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ktla.los.angeles.ca.us.png",KTLA LA
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ktla.los.angeles.ca.us.m3u8
-#EXTINF:-1 tvg-id="laff.network.us" tvg-name="laff.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/laff.network.us.png",Laff Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/laff.network.us.m3u8
-#EXTINF:-1 tvg-id="law.crime.network.us" tvg-name="law.crime.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/law.crime.network.us.png",Law & Crime Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/law.crime.network.us.m3u8
-#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="lifetime.movies.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",Lifetime Movies (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/lifetime.movies.east.us.m3u8
-#EXTINF:-1 tvg-id="lifetime.network.us.eastern.us" tvg-name="lifetime.network.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/lifetime.network.us.eastern.us.png",Lifetime Network (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/lifetime.network.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="logo.east.us" tvg-name="logo.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/logo.east.us.png",LOGO (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/logo.east.us.m3u8
-#EXTINF:-1 tvg-id="mavtv.usa.us" tvg-name="mavtv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mavtv.usa.us.png",MAVtv
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mavtv.usa.us.m3u8
-#EXTINF:-1 tvg-id="metv.network.us" tvg-name="metv.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/metv.network.us.png",MeTV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/metv.network.us.m3u8
-#EXTINF:-1 tvg-id="metv.kaef.dt2.eureka.ca.us" tvg-name="metv.kaef.dt2.eureka.ca.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/metv.kaef.dt2.eureka.ca.us.png",MeTV (KAEFDT2) Eureka, CA
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/metv.kaef.dt2.eureka.ca.us.m3u8
-#EXTINF:-1 tvg-id="metv.wjlp.new.jerseynew.york.us" tvg-name="metv.wjlp.new.jerseynew.york.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/metv.wjlp.new.jerseynew.york.us.png",MeTV NY
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/metv.wjlp.new.jerseynew.york.us.m3u8
-#EXTINF:-1 tvg-id="mgm.usa.us" tvg-name="mgm.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mgm.usa.us.png",MGM US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mgm.usa.us.m3u8
-#EXTINF:-1 tvg-id="military.history.us" tvg-name="military.history.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/military.history.us.png",Military History
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/military.history.us.m3u8
-#EXTINF:-1 tvg-id="moremax.eastern.us" tvg-name="moremax.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/moremax.eastern.us.png",MoreMax (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/moremax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="moremax.pacific.us" tvg-name="moremax.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/moremax.pacific.us.png",MoreMax (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/moremax.pacific.us.m3u8
-#EXTINF:-1 tvg-id="motor.trend.us" tvg-name="motor.trend.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/motor.trend.us.png",MotorTrend US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/motor.trend.us.m3u8
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="moviemax.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/moviemax.us.png",MovieMax
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/moviemax.us.m3u8
-#EXTINF:-1 tvg-id="movieplex.eastern.us" tvg-name="movieplex.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/movieplex.eastern.us.png",MOVIEplex (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/movieplex.eastern.us.m3u8
-#EXTINF:-1 tvg-id="movies.us" tvg-name="movies.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/movies.us.png",Movies!
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/movies.us.m3u8
-#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/msnbc.usa.us.m3u8
-#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="mtv.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mtv.usa.eastern.us.png",MTV (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mtv.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="mtv.2.east.us" tvg-name="mtv.2.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mtv.2.east.us.png",MTV 2 US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mtv.2.east.us.m3u8
-#EXTINF:-1 tvg-id="mtv.classic.east.us" tvg-name="mtv.classic.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mtv.classic.east.us.png",MTV Classic US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mtv.classic.east.us.m3u8
-#EXTINF:-1 tvg-id="mtv.live.us" tvg-name="mtv.live.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mtv.live.us.png",Mtv Live US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mtv.live.us.m3u8
-#EXTINF:-1 tvg-id="mtv.usa.pacific.us" tvg-name="mtv.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/mtv.usa.pacific.us.png",MTV USA (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/mtv.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="music.choice.us" tvg-name="music.choice.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/music.choice.us.png",Music Choice
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/music.choice.us.m3u8
-#EXTINF:-1 tvg-id="nasa.4k.us" tvg-name="nasa.4k.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nasa.4k.us.png",NASA 4K
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nasa.4k.us.m3u8
-#EXTINF:-1 tvg-id="national.geographic.us.eastern.us" tvg-name="national.geographic.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/national.geographic.us.eastern.us.png",National Geographic US (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/national.geographic.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="national.geographic.wild.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/national.geographic.wild.us.png",National Geographic Wild
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/national.geographic.wild.us.m3u8
-#EXTINF:-1 tvg-id="nbc.news.now.us" tvg-name="nbc.news.now.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nbc.news.now.us.png",NBC News Now (US)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nbc.news.now.us.m3u8
-#EXTINF:-1 tvg-id="newsmax.tv.us" tvg-name="newsmax.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/newsmax.tv.us.png",NewsMax TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/newsmax.tv.us.m3u8
-#EXTINF:-1 tvg-id="newsnation.eastern.us" tvg-name="newsnation.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/newsnation.eastern.us.png",NewsNation (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/newsnation.eastern.us.m3u8
-#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="nhl.network.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nhl.network.usa.us.png",NHL Network US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nhl.network.usa.us.m3u8
-#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nick.jr.us.png",Nick Jr US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nick.jr.us.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nickelodeon.usa.east.us.png",Nickelodeon (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nickelodeon.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.usa.pacific.us" tvg-name="nickelodeon.usa.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nickelodeon.usa.pacific.us.png",Nickelodeon (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nickelodeon.usa.pacific.us.m3u8
-#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nickmusic.us.png",NickMusic US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nickmusic.us.m3u8
-#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/nicktoons.east.us.png",Nicktoons US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/nicktoons.east.us.m3u8
-#EXTINF:-1 tvg-id="one.america.news.network.us" tvg-name="one.america.news.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/one.america.news.network.us.png",One America News Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/one.america.news.network.us.m3u8
-#EXTINF:-1 tvg-id="outdoor.channel.us.us" tvg-name="outdoor.channel.us.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/outdoor.channel.us.us.png",Outdoor Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/outdoor.channel.us.us.m3u8
-#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="outermax.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/outermax.eastern.us.png",OuterMax
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/outermax.eastern.us.m3u8
-#EXTINF:-1 tvg-id="ovation.us" tvg-name="ovation.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ovation.us.png",Ovation
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/ovation.us.m3u8
-#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="oprah.winfrey.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/oprah.winfrey.network.usa.eastern.us.png",OWN (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/oprah.winfrey.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="oxygen.eastern.us" tvg-name="oxygen.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/oxygen.eastern.us.png",Oxygen (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/oxygen.eastern.us.m3u8
-#EXTINF:-1 tvg-id="oxygen.pacific.us" tvg-name="oxygen.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/oxygen.pacific.us.png",Oxygen (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/oxygen.pacific.us.m3u8
-#EXTINF:-1 tvg-id="paramount.network.usa.eastern.us" tvg-name="paramount.network.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",Paramount Network (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/paramount.network.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="pbs.kids.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pbs.kids.us.png",PBS Kids US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/pbs.kids.us.m3u8
-#EXTINF:-1 tvg-id="pixl.tv.us" tvg-name="pixl.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pixl.tv.us.png",PixL TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/pixl.tv.us.m3u8
-#EXTINF:-1 tvg-id="pop.east.us" tvg-name="pop.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pop.east.us.png",POP (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/pop.east.us.m3u8
-#EXTINF:-1 tvg-id="popstar.east.us" tvg-name="popstar.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/popstar.east.us.png",PopStar!
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/popstar.east.us.m3u8
-#EXTINF:-1 tvg-id="pursuit.channel.us" tvg-name="pursuit.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/pursuit.channel.us.png",Pursuit Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/pursuit.channel.us.m3u8
-#EXTINF:-1 tvg-id="qvc.us" tvg-name="qvc.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/qvc.us.png",QVC
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/qvc.us.m3u8
-#EXTINF:-1 tvg-id="qvc2.us" tvg-name="qvc2.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/qvc2.us.png",QVC 2
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/qvc2.us.m3u8
-#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="reelzchannel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/reelzchannel.us.png",ReelzChannel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/reelzchannel.us.m3u8
-#EXTINF:-1 tvg-id="retro.tv.network.us" tvg-name="retro.tv.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/retro.tv.network.us.png",Retro TV Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/retro.tv.network.us.m3u8
-#EXTINF:-1 tvg-id="retroplex.eastern.us" tvg-name="retroplex.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/retroplex.eastern.us.png",RETROplex
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/retroplex.eastern.us.m3u8
-#EXTINF:-1 tvg-id="revolt.tv.us" tvg-name="revolt.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/revolt.tv.us.png",Revolt
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/revolt.tv.us.m3u8
-#EXTINF:-1 tvg-id="rfd.tv.us" tvg-name="rfd.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/rfd.tv.us.png",RFD TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/rfd.tv.us.m3u8
-#EXTINF:-1 tvg-id="rt.russia.today.us" tvg-name="rt.russia.today.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/rt.russia.today.us.png",RT US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/rt.russia.today.us.m3u8
-#EXTINF:-1 tvg-id="rtn.russian.television.network.us" tvg-name="rtn.russian.television.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/rtn.russian.television.network.us.png",RTN+ Russian Television Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/rtn.russian.television.network.us.m3u8
-#EXTINF:-1 tvg-id="rush.amc.us" tvg-name="rush.amc.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/rush.amc.us.png",Rush by AMC
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/rush.amc.us.m3u8
-#EXTINF:-1 tvg-id="science.us" tvg-name="science.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/science.us.png",Science US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/science.us.m3u8
-#EXTINF:-1 tvg-id="screenpix.action.us" tvg-name="screenpix.action.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/screenpix.action.us.png",ScreenPix Action
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/screenpix.action.us.m3u8
-#EXTINF:-1 tvg-id="screenpix.voices.us" tvg-name="screenpix.voices.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/screenpix.voices.us.png",ScreenPix Voices
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/screenpix.voices.us.m3u8
-#EXTINF:-1 tvg-id="screenpix.westerns.us" tvg-name="screenpix.westerns.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/screenpix.westerns.us.png",ScreenPix Westerns
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/screenpix.westerns.us.m3u8
-#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="showtime.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.eastern.us.png",Showtime (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="showtime.west.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.west.us.png",Showtime (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.west.us.m3u8
-#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="showtime.2.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png",Showtime 2 (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.2.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.2.pacific.us" tvg-name="showtime.2.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.2.pacific.us.png",Showtime 2 (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.2.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.extreme.eastern.us" tvg-name="showtime.extreme.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.extreme.eastern.us.png",Showtime Extreme (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.extreme.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.extreme.pacific.us" tvg-name="showtime.extreme.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.extreme.pacific.us.png",Showtime Extreme (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.extreme.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="showtime.family.zone.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.family.zone.eastern.us.png",Showtime Family Zone (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.family.zone.pacific.us" tvg-name="showtime.family.zone.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.family.zone.pacific.us.png",Showtime Family Zone (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.family.zone.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.next.pacific.us" tvg-name="showtime.next.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.next.pacific.us.png",Showtime Next (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.next.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="showtime.next.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.next.eastern.us.png",Showtime Next US (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.next.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.showcase.eastern.us" tvg-name="showtime.showcase.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.showcase.eastern.us.png",Showtime Showcase (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.showcase.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.showcase.pacific.us" tvg-name="showtime.showcase.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.showcase.pacific.us.png",Showtime Showcase (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.showcase.pacific.us.m3u8
-#EXTINF:-1 tvg-id="showtime.women.eastern.us" tvg-name="showtime.women.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.women.eastern.us.png",Showtime Woman US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.women.eastern.us.m3u8
-#EXTINF:-1 tvg-id="showtime.women.pacific.us" tvg-name="showtime.women.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/showtime.women.pacific.us.png",Showtime Women (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/showtime.women.pacific.us.m3u8
-#EXTINF:-1 tvg-id="shoxbet.eastern.us" tvg-name="shoxbet.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/shoxbet.eastern.us.png",SHOXBET (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/shoxbet.eastern.us.m3u8
-#EXTINF:-1 tvg-id="shoxbet.pacific.us" tvg-name="shoxbet.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/shoxbet.pacific.us.png",SHOXBET (West) US 
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/shoxbet.pacific.us.m3u8
-#EXTINF:-1 tvg-id="smithsonian.channel.usa.us" tvg-name="smithsonian.channel.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/smithsonian.channel.usa.us.png",Smithsonian Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/smithsonian.channel.usa.us.m3u8
-#EXTINF:-1 tvg-id="sonlife.broadcasting.network.us" tvg-name="sonlife.broadcasting.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/sonlife.broadcasting.network.us.png",SonLife Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/sonlife.broadcasting.network.us.m3u8
-#EXTINF:-1 tvg-id="sony.movies.us" tvg-name="sony.movies.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/sony.movies.us.png",Sony Movie Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/sony.movies.us.m3u8
-#EXTINF:-1 tvg-id="start.tv.us" tvg-name="start.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/start.tv.us.png",Start TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/start.tv.us.m3u8
-#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="starz.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.pacific.us" tvg-name="starz.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.pacific.us.png",Starz (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="starz.cinema.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.cinema.eastern.us.png",Starz Cinema (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.cinema.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.cinema.pacific.us" tvg-name="starz.cinema.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.cinema.pacific.us.png",Starz Cinema (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.cinema.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="starz.comedy.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.comedy.eastern.us.png",Starz Comedy (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.comedy.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.comedy.pacific.us" tvg-name="starz.comedy.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.comedy.pacific.us.png",Starz Comedy (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.comedy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="starz.edge.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.edge.eastern.us.png",Starz Edge (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.edge.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.edge.pacific.us" tvg-name="starz.edge.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.edge.pacific.us.png",Starz Edge (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.edge.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="starz.encore.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",Starz Encore (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.pacific.us" tvg-name="starz.encore.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.pacific.us.png",Starz Encore (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="starz.encore.action.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.action.eastern.us.png",Starz Encore Action (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.action.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.action.pacific.us" tvg-name="starz.encore.action.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.action.pacific.us.png",Starz Encore Action (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.action.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="starz.encore.black.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.black.eastern.us.png",Starz Encore Black (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.black.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.black.pacific.us" tvg-name="starz.encore.black.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.black.pacific.us.png",Starz Encore Black (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.black.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.classic.eastern.us" tvg-name="starz.encore.classic.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.classic.eastern.us.png",Starz Encore Classic (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.classic.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.classic.pacific.us" tvg-name="starz.encore.classic.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.classic.pacific.us.png",Starz Encore Classic (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.classic.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="starz.encore.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.family.eastern.us.png",Starz Encore Family (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.family.pacific.us" tvg-name="starz.encore.family.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.family.pacific.us.png",Starz Encore Family (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.family.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.suspense.pacific.us" tvg-name="starz.encore.suspense.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.suspense.pacific.us.png",Starz Encore Suspense (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.suspense.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.westerns.pacific.us" tvg-name="starz.encore.westerns.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.westerns.pacific.us.png",Starz Encore Westerns (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.westerns.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.in.black.eastern.us" tvg-name="starz.in.black.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.in.black.eastern.us.png",Starz In Black (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.in.black.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.in.black.pacific.us" tvg-name="starz.in.black.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.in.black.pacific.us.png",Starz In Black (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.in.black.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.kids.family.pacific.us" tvg-name="starz.kids.family.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.kids.family.pacific.us.png",Starz Kids (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.kids.family.pacific.us.m3u8
-#EXTINF:-1 tvg-id="starz.kids.family.eastern.us" tvg-name="starz.kids.family.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.kids.family.eastern.us.png",Starz Kids Family (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.kids.family.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="starz.encore.suspense.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.suspense.eastern.us.png",Starz Suspense (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.suspense.eastern.us.m3u8
-#EXTINF:-1 tvg-id="starz.encore.westerns.eastern.us" tvg-name="starz.encore.westerns.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/starz.encore.westerns.eastern.us.png",Starz Westerns US (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/starz.encore.westerns.eastern.us.m3u8
-#EXTINF:-1 tvg-id="sundancetv.usa.east.us" tvg-name="sundancetv.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/sundancetv.usa.east.us.png",SundanceTV (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/sundancetv.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="syfy.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/syfy.eastern.us.png",Syfy (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/syfy.eastern.us.m3u8
-#EXTINF:-1 tvg-id="syfy.pacific.us" tvg-name="syfy.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/syfy.pacific.us.png",Syfy (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/syfy.pacific.us.m3u8
-#EXTINF:-1 tvg-id="tastemade.us" tvg-name="tastemade.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tastemade.us.png",Tastemade
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tastemade.us.m3u8
-#EXTINF:-1 tvg-id="tbn.trinity.broadcasting.network.east.us" tvg-name="tbn.trinity.broadcasting.network.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tbn.trinity.broadcasting.network.east.us.png",TBN Trinity Broadcasting Network East
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tbn.trinity.broadcasting.network.east.us.m3u8
-#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="tbs.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tbs.east.us.png",TBS
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tbs.east.us.m3u8
-#EXTINF:-1 tvg-id="tbspacific.us" tvg-name="tbspacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tbspacific.us.png",TBS West
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tbspacific.us.m3u8
-#EXTINF:-1 tvg-id="teen.nick.us" tvg-name="teen.nick.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/teen.nick.us.png",Teen Nick
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/teen.nick.us.m3u8
-#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="teennick.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/teennick.eastern.us.png",TeenNick (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/teennick.eastern.us.m3u8
-#EXTINF:-1 tvg-id="the.blaze.us" tvg-name="the.blaze.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.blaze.us.png",The Blaze
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.blaze.us.m3u8
-#EXTINF:-1 tvg-id="the.dove.us" tvg-name="the.dove.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.dove.us.png",The Dove
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.dove.us.m3u8
-#EXTINF:-1 tvg-id="the.first.us" tvg-name="the.first.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.first.us.png",The First
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.first.us.m3u8
-#EXTINF:-1 tvg-id="movie.channel.us" tvg-name="movie.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/movie.channel.us.png",The Movie Channel
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/movie.channel.us.m3u8
-#EXTINF:-1 tvg-id="movie.channel.extra.us" tvg-name="movie.channel.extra.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/movie.channel.extra.us.png",The Movie Channel Extra
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/movie.channel.extra.us.m3u8
-#EXTINF:-1 tvg-id="the.weather.channel.us" tvg-name="the.weather.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.weather.channel.us.png",The Weather Channel US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.weather.channel.us.m3u8
-#EXTINF:-1 tvg-id="the.word.network.us" tvg-name="the.word.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/the.word.network.us.png",The Word Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/the.word.network.us.m3u8
-#EXTINF:-1 tvg-id="thrillermax.east.us" tvg-name="thrillermax.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/thrillermax.east.us.png",ThrillerMax (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/thrillermax.east.us.m3u8
-#EXTINF:-1 tvg-id="thrillermax.pacific.us" tvg-name="thrillermax.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/thrillermax.pacific.us.png",ThrillerMax (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/thrillermax.pacific.us.m3u8
-#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="tlc.usa.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tlc.usa.eastern.us.png",TLC (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tlc.usa.eastern.us.m3u8
-#EXTINF:-1 tvg-id="tlc.pacific.us" tvg-name="tlc.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tlc.pacific.us.png",TLC West
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tlc.pacific.us.m3u8
-#EXTINF:-1 tvg-id="tmz.us" tvg-name="tmz.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tmz.us.png",TMZ
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tmz.us.m3u8
-#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tnt.east.us.m3u8
-#EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tnt.pacific.us.m3u8
-#EXTINF:-1 tvg-id="travel.us.east.us" tvg-name="travel.us.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/travel.us.east.us.png",Travel Channel US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/travel.us.east.us.m3u8
-#EXTINF:-1 tvg-id="true.crime.network.us" tvg-name="true.crime.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/true.crime.network.us.png",True Crime Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/true.crime.network.us.m3u8
-#EXTINF:-1 tvg-id="trutv.usa.east.us" tvg-name="trutv.usa.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/trutv.usa.east.us.png",TruTV East US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/trutv.usa.east.us.m3u8
-#EXTINF:-1 tvg-id="trutv.pacific.us" tvg-name="trutv.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/trutv.pacific.us.png",TruTV West
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/trutv.pacific.us.m3u8
-#EXTINF:-1 tvg-id="tudnxtra.11.us" tvg-name="tudnxtra.11.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tudnxtra.11.us.png",TudnXtra 11
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tudnxtra.11.us.m3u8
-#EXTINF:-1 tvg-id="turner.classic.movies.usa.us" tvg-name="turner.classic.movies.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/turner.classic.movies.usa.us.png",Turner Classic Movies US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/turner.classic.movies.usa.us.m3u8
-#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="tv.land.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tv.land.eastern.us.png",Tv Land US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tv.land.eastern.us.m3u8
-#EXTINF:-1 tvg-id="tv.one.us" tvg-name="tv.one.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/tv.one.us.png",TV One
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/tv.one.us.m3u8
-#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="universal.kids.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/universal.kids.us.png",Universal Kids US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/universal.kids.us.m3u8
-#EXTINF:-1 tvg-id="up.us" tvg-name="up.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/up.us.png",UP
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/up.us.m3u8
-#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="usa.network.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/usa.network.east.us.png",USA Network (East)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/usa.network.east.us.m3u8
-#EXTINF:-1 tvg-id="usa.network.pacific.us" tvg-name="usa.network.pacific.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/usa.network.pacific.us.png",USA Network (West)
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/usa.network.pacific.us.m3u8
-#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="vh1.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/vh1.eastern.us.png",VH1 (East) US
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/vh1.eastern.us.m3u8
-#EXTINF:-1 tvg-id="vice.us" tvg-name="vice.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/vice.us.png",VICE
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/vice.us.m3u8
-#EXTINF:-1 tvg-id="we.us" tvg-name="we.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/we.us.png",WE TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/we.us.m3u8
-#EXTINF:-1 tvg-id="we.tv.plus.us" tvg-name="we.tv.plus.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/we.tv.plus.us.png",We TV Plus
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/we.tv.plus.us.m3u8
-#EXTINF:-1 tvg-id="weathernation.us" tvg-name="weathernation.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/weathernation.us.png",WeatherNation
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/weathernation.us.m3u8
-#EXTINF:-1 tvg-id="wfn.world.fishing.network.us" tvg-name="wfn.world.fishing.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/wfn.world.fishing.network.us.png",WFN World Fishing Network
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/wfn.world.fishing.network.us.m3u8
-#EXTINF:-1 tvg-id="wgn.chicago.local.us" tvg-name="wgn.chicago.local.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/wgn.chicago.local.us.png",WGN Chicago
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/wgn.chicago.local.us.m3u8
-#EXTINF:-1 tvg-id="wpix.new.york.superstation.us" tvg-name="wpix.new.york.superstation.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/wpix.new.york.superstation.us.png",WPIX New York
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/wpix.new.york.superstation.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAR: (FLOW) BTCTV BAHAMAS" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CAR: (FLOW) BTCTV BAHAMAS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34720
+#EXTINF:-1 tvg-id="" tvg-name="CAR: (FLOW) JCN BAHAMAS" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CAR: (FLOW) JCN BAHAMAS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34721
+#EXTINF:-1 tvg-id="" tvg-name="CAR: (FLOW) PARLIAMENT BAHAMAS" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CAR: (FLOW) PARLIAMENT BAHAMAS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34722
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : BARBADOS TURF CLUB" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : BARBADOS TURF CLUB
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34723
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : BET GOSPEL" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : BET GOSPEL
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34724
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : CARIBVISION" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : CARIBVISION
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34725
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : CBC TV 8 - (BARBADOS)" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : CBC TV 8 - (BARBADOS)
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34726
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : CHOICE TV SAINT LUCIA" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : CHOICE TV SAINT LUCIA
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34727
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : CNC3" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : CNC3
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34728
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : CNC3 TRINIDAD" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : CNC3 TRINIDAD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34729
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : COLOR VISION 9" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : COLOR VISION 9
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34730
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : ESPN" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : ESPN
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34731
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : FLOW SPORTS" tvg-logo="http://icons.tw:8080/images/Jamaica.png" group-title="CARIBBEAN TV",CARIBBEAN : FLOW SPORTS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34732
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : GBN GRENADA" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : GBN GRENADA
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34733
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : GBV JAMAICA" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : GBV JAMAICA
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34734
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : HTS" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : HTS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34735
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : ISLAND LUCK TV" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : ISLAND LUCK TV
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34736
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : JNN" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : JNN
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34737
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : MTM JAMAICA" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : MTM JAMAICA
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34738
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : NAGO TV - (HAITI)" tvg-logo="http://icons.tw:8080/images/Haiti.png" group-title="CARIBBEAN TV",CARIBBEAN : NAGO TV - (HAITI)
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34739
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : NOS TV" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : NOS TV
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34740
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : OUR TV" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : OUR TV
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34741
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : READY TV" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : READY TV
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34742
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : RUSH SPORTS" tvg-logo="http://icons.tw:8080/images/Jamaica.png" group-title="CARIBBEAN TV",CARIBBEAN : RUSH SPORTS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34743
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : SPORTSMAX" tvg-logo="http://icons.tw:8080/images/Jamaica.png" group-title="CARIBBEAN TV",CARIBBEAN : SPORTSMAX
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34744
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : SPORTSMAX 2" tvg-logo="http://icons.tw:8080/images/Jamaica.png" group-title="CARIBBEAN TV",CARIBBEAN : SPORTSMAX 2
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34745
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : SYNERGY TV" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : SYNERGY TV
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34746
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TELE SUR SPANISH" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TELE SUR SPANISH
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34747
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TELEMICRO 5" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TELEMICRO 5
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34748
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TELEMUNDO" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TELEMUNDO
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34749
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TTEN" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TTEN
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34750
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TTT NEWS" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TTT NEWS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34751
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TV DIRECT 13" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TV DIRECT 13
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34752
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : TV6" tvg-logo="http://icons.tw:8080/images/Caribbean.png" group-title="CARIBBEAN TV",CARIBBEAN : TV6
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34753
+#EXTINF:-1 tvg-id="" tvg-name="CARIBBEAN : ZNS BAHAMAS" tvg-logo="http://icons.tw:8080/images/Bahamas.png" group-title="CARIBBEAN TV",CARIBBEAN : ZNS BAHAMAS
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/34754
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ABC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32686
+#EXTINF:-1 tvg-id="" tvg-name="USA: ACC NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ACC NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32687
+#EXTINF:-1 tvg-id="" tvg-name="USA: IFC SD" tvg-logo="http://fanc.tmsimg.com/assets/s14873_ll_h3_ac.png" group-title="USA LOW BANDWITH",USA: IFC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32688
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC SD" tvg-logo="http://fanc.tmsimg.com/assets/s10021_ll_h3_ab.png" group-title="USA LOW BANDWITH",USA: AMC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32689
+#EXTINF:-1 tvg-id="" tvg-name="USA: ANIMAL PLANET SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ANIMAL PLANET SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32690
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC AMERICA SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: BBC AMERICA SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32691
+#EXTINF:-1 tvg-id="" tvg-name="USA: BIG TEN NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: BIG TEN NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32692
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: BET SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32693
+#EXTINF:-1 tvg-id="" tvg-name="USA: BRAVO SD" tvg-logo="http://fanc.tmsimg.com/assets/s10057_ll_h3_ab.png" group-title="USA LOW BANDWITH",USA: BRAVO SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32694
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-SPAN SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: C-SPAN SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32695
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CBS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32696
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS SPORTS NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CBS SPORTS NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32697
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CINEMAX SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32698
+#EXTINF:-1 tvg-id="" tvg-name="USA: CMT SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CMT SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32699
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET JAMS SD" tvg-logo="http://fanc.tmsimg.com/assets/s30419_ll_h3_ab.png" group-title="USA LOW BANDWITH",USA: BET JAMS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32700
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CNBC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32701
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CNN SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32702
+#EXTINF:-1 tvg-id="" tvg-name="USA: COMEDY CENTRAL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: COMEDY CENTRAL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32703
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: CW SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32704
+#EXTINF:-1 tvg-id="" tvg-name="USA: DESTINATION AMERICA SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DESTINATION AMERICA SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32705
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DISCOVERY CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32706
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DISNEY CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32707
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY JR SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DISNEY JR SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32708
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISNEY XD SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DISNEY XD SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32709
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DIY NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32710
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: E! SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32711
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV LIVE SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MTV LIVE SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32712
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2 SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ESPN 2 SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32713
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPNU SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ESPNU SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32714
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPNEWS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ESPNEWS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32715
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOOD NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOOD NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32716
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32717
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX BUSINESS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX BUSINESS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32718
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX NEWS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX NEWS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32719
+#EXTINF:-1 tvg-id="" tvg-name="USA: FREEFORM SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FREEFORM SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32720
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 1 SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX SPORTS 1 SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32721
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORTS 2 SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX SPORTS 2 SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32722
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FX SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32723
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXM SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FXM SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32724
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXX SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FXX SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32725
+#EXTINF:-1 tvg-id="" tvg-name="USA: GOLF CHANNEL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: GOLF CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32726
+#EXTINF:-1 tvg-id="" tvg-name="USA: GAME SHOW NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: GAME SHOW NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32727
+#EXTINF:-1 tvg-id="" tvg-name="USA: HALLMARK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: HALLMARK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32728
+#EXTINF:-1 tvg-id="COVID19" tvg-name="USA: BET SOUL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: BET SOUL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32729
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: HGTV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32730
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV CLASSIC SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MTV CLASSIC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32731
+#EXTINF:-1 tvg-id="" tvg-name="USA: HLN SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: HLN SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32732
+#EXTINF:-1 tvg-id="" tvg-name="USA: HALLMARK MOVIES & MYSTERIES SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: HALLMARK MOVIES & MYSTERIES SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32733
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="USA: MTV U" tvg-logo="" group-title="USA LOW BANDWITH",USA: MTV U
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32734
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: HBO SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32735
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: SHOWTIME SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32736
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MLB NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32737
+#EXTINF:-1 tvg-id="" tvg-name="USA: MOTORTREND SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MOTORTREND SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32738
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MSNBC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32739
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: MTV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32740
+#EXTINF:-1 tvg-id="" tvg-name="USA: REVOLT SD" tvg-logo="http://fanc.tmsimg.com/assets/s83097_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: REVOLT SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32741
+#EXTINF:-1 tvg-id="" tvg-name="USA: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NATIONAL GEOGRAPHIC WILD SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32742
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TV SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NBA TV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32743
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NBC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32744
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="USA: SONY SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: SONY SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32745
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NFL NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32746
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL RED ZONE SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NFL RED ZONE SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32747
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKELODEON SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NICKELODEON SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32748
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKTOONS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: NICKTOONS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32749
+#EXTINF:-1 tvg-id="" tvg-name="USA: ONE AMERICA NEWS NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: ONE AMERICA NEWS NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32750
+#EXTINF:-1 tvg-id="" tvg-name="USA: OPRAH WINFREY NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: OPRAH WINFREY NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32751
+#EXTINF:-1 tvg-id="" tvg-name="USA: OXYGEN SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: OXYGEN SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32752
+#EXTINF:-1 tvg-id="" tvg-name="USA: PARAMOUNT NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: PARAMOUNT NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32753
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: PBS SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32754
+#EXTINF:-1 tvg-id="" tvg-name="USA: POP SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: POP SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32755
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCOVERY SCIENCE SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: DISCOVERY SCIENCE SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32756
+#EXTINF:-1 tvg-id="" tvg-name="USA: SEC NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: SEC NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32757
+#EXTINF:-1 tvg-id="" tvg-name="USA: LOGO SD" tvg-logo="http://fanc.tmsimg.com/assets/s46762_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: LOGO SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32758
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: STARZ SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32759
+#EXTINF:-1 tvg-id="" tvg-name="USA: SUNDANCE TV SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: SUNDANCE TV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32760
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY SD" tvg-logo="http://fanc.tmsimg.com/assets/s56727_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: SYFY SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32761
+#EXTINF:-1 tvg-id="" tvg-name="USA: PEOPLE TV SD" tvg-logo="http://fanc.tmsimg.com/assets/s107584_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: PEOPLE TV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32762
+#EXTINF:-1 tvg-id="COVID19" tvg-name="USA: FOX SOUL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FOX SOUL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32763
+#EXTINF:-1 tvg-id="" tvg-name="USA: TELEMUNDO SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: TELEMUNDO SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32764
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS CHANNEL SD" tvg-logo="http://fanc.tmsimg.com/assets/s33395_ll_h3_ab.png" group-title="USA LOW BANDWITH",USA: TENNIS CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32765
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC SD" tvg-logo="http://fanc.tmsimg.com/assets/s11158_ll_h3_ac.png" group-title="USA LOW BANDWITH",USA: TLC SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32766
+#EXTINF:-1 tvg-id="" tvg-name="USA: HALLMARK DRAMA SD" tvg-logo="http://fanc.tmsimg.com/assets/s105723_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: HALLMARK DRAMA SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32767
+#EXTINF:-1 tvg-id="" tvg-name="USA: TRAVEL CHANNEL SD" tvg-logo="http://fanc.tmsimg.com/assets/s110660_ll_h3_ac.png" group-title="USA LOW BANDWITH",USA: TRAVEL CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32768
+#EXTINF:-1 tvg-id="" tvg-name="USA: GREAT AMERICAN LIVING SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: GREAT AMERICAN LIVING SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32769
+#EXTINF:-1 tvg-id="" tvg-name="USA: TV LAND SD" tvg-logo="http://fanc.tmsimg.com/assets/s16123_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: TV LAND SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32770
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE WEATHER CHANNEL SD" tvg-logo="http://fanc.tmsimg.com/assets/s11187_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: THE WEATHER CHANNEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32771
+#EXTINF:-1 tvg-id="" tvg-name="USA: GREAT AMERICAN FAMILY SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: GREAT AMERICAN FAMILY SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32772
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA NETWORK SD" tvg-logo="http://fanc.tmsimg.com/assets/s11207_ll_h3_ae.png" group-title="USA LOW BANDWITH",USA: USA NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32773
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 SD" tvg-logo="http://fanc.tmsimg.com/assets/s11218_ll_h3_aa.png" group-title="USA LOW BANDWITH",USA: VH1 SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32774
+#EXTINF:-1 tvg-id="" tvg-name="USA: WE TV SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: WE TV SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32775
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE NETWORK SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: WWE NETWORK SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32776
+#EXTINF:-1 tvg-id="" tvg-name="USA: FAN DUEL SD" tvg-logo="" group-title="USA LOW BANDWITH",USA: FAN DUEL SD
+http://ufospeeds.com:2095/Blockchain/Blockchain6969/32777
