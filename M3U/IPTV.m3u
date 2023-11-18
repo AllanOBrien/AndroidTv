@@ -995,11 +995,11 @@ https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/the.cowbo
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/4music.uk.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png",AXS TV NOW
 http://humiptv.live:8080/live/454753/454753/154048.ts
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET JAMS HD
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png",BET Jams HD
 http://humiptv.live:8080/live/454753/454753/154056.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET SOUL HD
 http://humiptv.live:8080/live/454753/454753/154057.ts
-#EXTINF:-1 group-title="MUSIC" tvg-id="bet.jams.us" tvg-name="bet.jams.us" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
+#EXTINF:-1 group-title="MUSIC" tvg-id="bet.jams.us" tvg-name="bet.jams.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png",BET Jams
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/bet.jams.us.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-id="bet.soul.us" tvg-name="bet.soul.us" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/bet.soul.us.m3u8
