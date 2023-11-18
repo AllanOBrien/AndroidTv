@@ -27,7 +27,7 @@ http://humiptv.live:8080/live/454753/454753/154026.ts
 http://humiptv.live:8080/live/454753/454753/154488.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="ttt.car" tvg-logo="http://ky-iptv.com:80/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://humiptv.live:8080/live/454753/454753/154489.ts
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="TTTLimited.tt" tvg-logo="https://media.tv4.live/ttt.car.png",TTT
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="TTTLimited.tt" tvg-logo="https://newsday.co.tt/wp-content/uploads/2018/07/2527275.jpg",TTT
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ttt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="ccntv6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 SD
 http://humiptv.live:8080/live/454753/454753/154303.ts
