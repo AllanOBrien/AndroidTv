@@ -1593,9 +1593,9 @@ https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eurosport
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eurosport.2.uk.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fight.network.canada.ca.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="flow.sports.hd.car" tvg-name="flow.sports.hd.car" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",Flow Sports
+#EXTINF:-1 group-title="SPORTS" tvg-id="flow.sports.hd.car" tvg-name="flow.sports.hd.car" tvg-logo="https://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text-thumbnail.png",Flow Sports
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/flow.sports.hd.car.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="flowsports2.tt" tvg-logo="http://cloudfront.bernews.com/wp-content/uploads/2016/09/Flow-Sports-generic-TC-gr1.jpg",FLOW SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-id="flowsports2.tt" tvg-logo="https://w7.pngwing.com/pngs/683/355/png-transparent-premier-league-flow-sports-2018-fifa-world-cup-caribbean-premier-league-television-blue-text-thumbnail.png",FLOW SPORTS
 http://humiptv.live:8080/live/454753/454753/154099.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="FoxSoccerPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/800px-Fox_Soccer_Plus_logo.svg.png",Fox Soccer Plus
 http://humiptv.live:8080/live/454753/454753/154365.ts
