@@ -23,11 +23,11 @@ https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/synergy.c
 http://humiptv.live:8080/live/454753/454753/154433.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="Trinity.tt" tvg-logo="http://ky-iptv.com:80/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://humiptv.live:8080/live/454753/454753/154026.ts
-#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" ,TTEN
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg",TTEN
 http://humiptv.live:8080/live/454753/454753/154488.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="ttt.car" tvg-logo="http://ky-iptv.com:80/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://humiptv.live:8080/live/454753/454753/154489.ts
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="ttt.car" tvg-name="ttt.car" tvg-logo="http://ky-iptv.com:80/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="ttt.car" tvg-logo="http://ky-iptv.com:80/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ttt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="ccntv6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 SD
 http://humiptv.live:8080/live/454753/454753/154303.ts
