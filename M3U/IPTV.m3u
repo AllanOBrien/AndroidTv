@@ -1,4 +1,5 @@
 #EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="https://epg.tvnow.best/utc.xml.gz"
 #EXTINF:-1 group-title="•●★--- ANS Live TV 1 ----★●•" tvg-logo="https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20Live%20TV%201.png",•●★--- ANS Live TV 1 ----★●•
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20Live%20TV%201.mp4
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
