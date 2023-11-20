@@ -1,10 +1,9 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://ky-iptv.com:25461/xmltv.php?username=SNNM258&password=355665786&type=m3u_plus&output=m3u8"
 #EXTINF:-1 group-title="•●★--- ANS Live TV 1 ----★●•" tvg-logo="https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20Live%20TV%201.png",•●★--- ANS Live TV 1 ----★●•
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20Live%20TV%201.mp4
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnctv3.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnc3.car" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://humiptv.live:8080/live/454753/454753/154137.ts
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnctv3.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnc3.car" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="Gayelle.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",GAYELLE
 http://humiptv.live:8080/live/454753/454753/154029.ts
