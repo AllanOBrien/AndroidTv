@@ -40,7 +40,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="bigtennetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
-https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/big.ten.network.us.m3u8
+https://tvnow.best/api/stream/jmod@me.com/098249/livetv.epg/big.ten.network.us.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow
 https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD1
