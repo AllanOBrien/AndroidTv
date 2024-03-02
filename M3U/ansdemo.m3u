@@ -20,9 +20,9 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="dove.us" tvg-logo="https://i.imgur.com/V0u3mgI.png",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
-https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
-https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+https://tvnow.best/api/stream/jmod@me.com/098249/livetv.epg/popstar.east.us.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="peopletv.us" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
 http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/158006
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="natgeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
@@ -30,11 +30,11 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSNews.us",CBS NEWS HD
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="MSNBC.us" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:MSNBC.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png" tvg-id="MTV.us",MTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-id="grit.network.us" tvg-name="grit.network.us" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png",Grit Network
-http://iptvcdn.airlinktt.co/ttorigin02/live/smil:GRIT.smil/playlist.m3u8
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-id="AnimeAllDay.us" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
