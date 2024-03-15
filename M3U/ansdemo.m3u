@@ -22,7 +22,7 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
 https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
-https://tvnow.best/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/popstar.east.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/popstar.east.us.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="peopletv.us" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
 http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/158006
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="natgeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
@@ -40,7 +40,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="SPORTS" tvg-id="bigtennetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
-https://tvnow.best/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/big.ten.network.us.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/big.ten.network.us.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow
 https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD1

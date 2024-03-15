@@ -1,5 +1,5 @@
-#EXTINF:0 type="stream" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-r-rYSGs1ZiU/Xj4P2zbMpVI/AAAAAAAABJ0/FqA3uZ9ztQEBeyd6_6RsTs6QKQhhuqiFACLcBGAsYHQ/s200/terror.png", 24/7 Terror (e)(720)
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/national.geographic.fi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",SUPER SPORT FOOTBALL PLUS
+https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/ss.football.plus.ze.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bein_sports.png" group-title="SPORTS", FR bEIN Sports 3
 http://nxt.plus:8080/karinajp/331042/58205
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bein_sports.png" group-title="SPORTS", FR bEIN Sports 3
