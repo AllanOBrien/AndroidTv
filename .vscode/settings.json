@@ -1,3 +1,4 @@
 {
-    "editor.foldingMaximumRegions": 65000
+    "editor.foldingMaximumRegions": 65000,
+    "atlascode.enableHttpsTunnel": true
 }
