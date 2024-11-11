@@ -1,46 +1,45 @@
-#EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://ky-iptv.com:25461/xmltv.php?username=SNNM258&password=355665786&type=m3u_plus&output=m3u8"
-#EXTM3U x-tvg-url="https://epg.tvnow.best/utc.xml.gz"
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="cnctv3.tt" tvg-name="CAR:CNC3" tvg-logo="http://31.43.191.59:80/images/56bd7fc45777c0956cd11e3e44a7dbfd.png",CNC3
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV
-http://iptvcdn.airlinktt.co/ttorigin04/live/smil:IETV.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png",BET East
-http://iptvcdn.airlinktt.co/ttorigin08/live/smil:BET.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="BuzzrTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
+#EXTM3U
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/caribbean.xml"
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC TV3 - CNC3" tvg-logo="http://31.43.191.59:80/images/56bd7fc45777c0956cd11e3e44a7dbfd.png",CNC3*TR_Only
+http://170.246.160.2/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV Channel 1 - ieTV" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV*TR_Only
+http://170.246.160.2/ttorigin03/live/smil:IETV.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="shemaroomarathibana.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png",BET East*TR_Only
+http://170.246.160.2/ttorigin03/live/smil:BET.smil/chunklist_b2000000_slen.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="buzzertv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/a6/bf/6fa6bff4-2527-6c5d-1bc1-09e35b35440a/source/512x512bb.jpg",CineLife
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="cwwpix.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
-http://iptvcdn.airlinktt.co/ttorigin06/live/smil:CW11.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i1.wp.com/www.rokuki.com/wp-content/uploads/2019/09/comedy-dynamics.jpg?resize=1070%2C470",STIRR Comedy Dynamics
+#EXTINF:-1 group-title="USA" tvg-id="cw11kvii.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD*TR_Only
+http://170.246.160.2/ttorigin03/live/smil:CW11.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/31170f949c1bfbac7a65d6da0d8c0bcc382e0f66ad93e3ca856b94857ea091a0.png",STIRR Comedy Dynamics
 https://comedydynamics-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="chargetv.us" tvg-logo="https://i.imgur.com/6UpMEN1.png",CHARGE
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="dove.us" tvg-logo="https://i.imgur.com/V0u3mgI.png",Dove
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
-https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/popstar.east.us.m3u8
-#EXTINF:-1 group-title="USA" tvg-id="peopletv.us" tvg-logo="https://i.imgur.com/3wpzACG.png",People TV
-http://esuniptvstream.com:88/02059581913588/9f8e7ee6c4f188d6/158006
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="natgeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:NATGEO.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png" tvg-id="CBSNews.us",CBS NEWS HD
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-id="MSNBC.us" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:MSNBC.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png" tvg-id="MTV.us",MTV
-http://iptvcdn.airlinktt.co/ttorigin07/live/smil:MTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-id="grit.network.us" tvg-name="grit.network.us" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png",Grit Network
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
+#EXTINF:-1 group-title="Pluto-USA" tvg-id="" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/RCM-Logo-Circle_200.png",RCM
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-id="popstar.us" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
+https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="national.geographic.us.eastern.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC*TR_Only
+http://170.246.160.2/ttorigin07/live/smil:NATGEO.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="MSNBC.us" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD*TR_Only
+http://170.246.160.2/ttorigin01/live/smil:MSNBC.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtv.us" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV*TR_Only
+http://170.246.160.2/ttorigin07/live/smil:MTV.smil/chunklist_b2000000_slen.m3u8
+#EXTINF:-1 group-title="WESTERN" tvg-id="grit.us" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png",Grit Network*TR_Only
+http://170.246.160.2/ttorigin01/live/smil:GRIT.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-id="AnimeAllDay.us" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="SPORTS" tvg-id="bigtennetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/big.ten.network.us.m3u8
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/330px-Realmadrid_Television_Logo.svg.png",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg",Black Widow
 https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD1
