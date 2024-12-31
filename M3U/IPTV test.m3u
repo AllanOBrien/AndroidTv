@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC TV3 - CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3*TR_Only
-http://170.246.160.2/ttorigin03/live/smil:CNC3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XMAS VEVO MUSIC" tvg-logo="" group-title="CHRISTMAS",XMAS VEVO MUSIC
+http://ky-iptv.com:80/RE4T3AR4/TRH5Y4T4/3009421.ts
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
