@@ -41,32 +41,6 @@ http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Black_Panther_Wakanda_Forever_soundtrack.jpg/220px-Black_Panther_Wakanda_Forever_soundtrack.jpg",Black Panther: Wakanda Forever
 https://dl.dropbox.com/s/redsfx9dtpnq5ep/BL4CK%20P4NGH3R.mkv
-#EXTINF:-1 tvg-id="" tvg-name="XMAS VEVO MUSIC" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS VEVO MUSIC
-http://ky-iptv.com:80/harrell421/pass421/2416948.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS VEVO HIP HOP" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS VEVO HIP HOP
-http://ky-iptv.com:80/harrell421/pass421/2416949.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS VEVO BEST HITS" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS VEVO BEST HITS
-http://ky-iptv.com:80/harrell421/pass421/2416950.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS THE CAROLER CHALLENGE" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS THE CAROLER CHALLENGE
-http://ky-iptv.com:80/harrell421/pass421/2416951.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS SUGAR RUSH" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS SUGAR RUSH
-http://ky-iptv.com:80/harrell421/pass421/2416952.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS NAILED IT! HOLIDAY" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS NAILED IT! HOLIDAY
-http://ky-iptv.com:80/harrell421/pass421/2416953.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS HOLIDAY YULE LOG" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS HOLIDAY YULE LOG
-http://ky-iptv.com:80/harrell421/pass421/2416954.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS HOLIDAY WARS" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS HOLIDAY WARS
-http://ky-iptv.com:80/harrell421/pass421/2416955.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS GREAT LIGHT FIGHT" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS GREAT LIGHT FIGHT
-http://ky-iptv.com:80/harrell421/pass421/2416957.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS MOVIES" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS MOVIES
-http://ky-iptv.com:80/harrell421/pass421/2416958.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS COOKIE CHALLENGE" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS COOKIE CHALLENGE
-http://ky-iptv.com:80/harrell421/pass421/2416959.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS CARTOONS" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS CARTOONS
-http://ky-iptv.com:80/harrell421/pass421/2416960.ts
-#EXTINF:-1 tvg-id="" tvg-name="XMAS Gravitas Movies" tvg-logo="https://senecascout.svsd.net/wp-content/uploads/2015/12/Christmas-Story.png" group-title="CHRISTMAS",XMAS Gravitas Movies
-http://ky-iptv.com:80/harrell421/pass421/2422367.ts
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD1
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD1.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD2
