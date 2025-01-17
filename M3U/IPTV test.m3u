@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="Zing.in" tvg-logo="https://static.epg.best/in/Zing.in.png",Zing IN
-http://170.246.160.2/ttorigin07/live/smil:ZING.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,CNN Internacional
+http://38.252.238.204:6102/play/a04i/index.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
