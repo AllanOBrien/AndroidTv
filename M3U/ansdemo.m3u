@@ -45,3 +45,23 @@ https://dl.dropbox.com/s/redsfx9dtpnq5ep/BL4CK%20P4NGH3R.mkv
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD1.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD2
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD2.mp4
+#EXTINF:-1 group-title="•●★--- ANS TT ----★●•" tvg-logo="https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.png",•●★--- ANS TT ---★●•
+https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.mp4
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Animal Planet (Latin America English) - APL.tt" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET HD
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="A Wealth of Entertainment - AWE.tt.tt" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/awe.tv.network.us.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="discoverychannel.us" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Discovery Turbo International (English) - DTURBO.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",Discovery Turbo UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/discovery.turbo.uk.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="History (East) - HIST.tt" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png",History Channel US
+http://45.5.117.182:8000/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Investigation Discovery (Latin America English) - ID.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery US
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="National Geographic Channel - NGC.tt" tvg-id="natgeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",National Geographic US (East)
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Outdoor Channel - OUTD.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Travel Channel (East) - TRAVEL.tt" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/travel.us.east.us.m3u8

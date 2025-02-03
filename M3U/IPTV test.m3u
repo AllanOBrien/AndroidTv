@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://pbs.twimg.com/profile_images/1213655604033662976/fj4DsQpt_400x400.png",Mixx 97.7FM
-http://uk7freenew.listen2myradio.com:22381/;stream.nsv
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3
+http://170.246.160.2/ttorigin03/live/smil:BET.smil/chunklist_b2000000_slen.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
