@@ -47,21 +47,15 @@ https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD1.mp4
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD2.mp4
 #EXTINF:-1 group-title="•●★--- ANS TT ----★●•" tvg-logo="https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.png",•●★--- ANS TT ---★●•
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.mp4
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Animal Planet (Latin America English) - APL.tt" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET HD
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="A Wealth of Entertainment - AWE.tt.tt" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/awe.tv.network.us.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="discoverychannel.us" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL HD
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Discovery Turbo International (English) - DTURBO.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Discovery_Turbo_UK_logo.svg/1920px-Discovery_Turbo_UK_logo.svg.png",Discovery Turbo UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/discovery.turbo.uk.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="History (East) - HIST.tt" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png",History Channel US
-http://45.5.117.182:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Investigation Discovery (Latin America English) - ID.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery US
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="National Geographic Channel - NGC.tt" tvg-id="natgeo.us" tvg-logo="https://static.epg.best/us/NatGeo.us.png",National Geographic US (East)
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Outdoor Channel - OUTD.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg",Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Travel Channel (East) - TRAVEL.tt" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/travel.us.east.us.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="andtvhd.in" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png",&TV HD
+http://119.152.240.15:8001/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U Movies India
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/b4u.movies.in.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV Channel 1 - ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV 
+https://lb01.amplia.tv/LIVE/IETV/stream_iptv_2500k.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="Sankhya TV HDTV - SANKHYATV.tt" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="Zee Cinema (Canada) - ZEECIN.tt" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/zee.cinema.in.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ZEE.tt" tvg-logo="https://i.pinimg.com/736x/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.jpg",ZEE HD
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/zee.tv.in.m3u8
