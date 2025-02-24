@@ -1,5 +1,5 @@
 #EXTINF:0,TV ONE
-http://titaneu.live:8080/live/546745/546745/154137.ts
+https://cdn01.amplia.tv/LIVE/XTSY/stream_multi.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
@@ -13,16 +13,15 @@ http://supersonictv.live:8080/102413/544469/47645
 #EXTINF:-1 tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",SUPER SPORT FOOTBALL PLUS
 http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/59225.ts
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="CCNTV6.tt" tvg-logo="https://i.imgur.com/lPx95FN.png",TIN
-https://lb01.amplia.tv/LIVE/DTURBO/stream_multi.m3u8
+https://cdn01.amplia.tv/LIVE/DTURBO/stream_multi.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
 http://170.246.160.2/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
 http://170.246.160.2/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
-https://lb01.amplia.tv/LIVE/COOK/stream_iptv_2500k.m3u8
-https://lb01.amplia.tv/LIVE/DISN/stream_iptv_2500k.m3u8
-https://lb02.amplia.tv/LIVE/NGC/stream_iptv_2500k.m3u8
-https://lb02.amplia.tv/LIVE/SEC/stream_iptv_2500k.m3u8
+https://cdn01.amplia.tv/LIVE/COOK/stream_iptv_2500k.m3u8
+https://cdn01.amplia.tv/LIVE/DISN/stream_iptv_2500k.m3u8
+https://cdn02.amplia.tv/LIVE/NGC/stream_iptv_2500k.m3u8
+https://cdn02.amplia.tv/LIVE/SEC/stream_iptv_2500k.m3u8
 
-Not working
-https://lb01.amplia.tv/LIVE/GAYELLE/stream_iptv_1500k.m3u8
-https://cdn02.amplia.tv/LIVE/GAYELLE/stream_multi.m3u8
+working
+https://cdn01.amplia.tv/LIVE/SYNERGY/stream_multi.m3u8
 https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
