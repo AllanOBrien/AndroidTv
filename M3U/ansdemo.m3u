@@ -45,3 +45,29 @@ https://dl.dropbox.com/s/redsfx9dtpnq5ep/BL4CK%20P4NGH3R.mkv
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD1.mp4
 #EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://github.com/AllanOBrien/INSTANTSTREAM/raw/main/Instant%20Stream%20Logo.png",INSTANTSTREAM AD2
 https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/video/AD2.mp4
+#EXTINF:-1 group-title="•●★--- ANS TT ----★●•" tvg-logo="https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.png",•●★--- ANS TT ---★●•
+https://github.com/AllanOBrien/AndroidTv/raw/master/M3U/media/INSTANTSTREAM%20ANS%20TT.mp4
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3
+http://170.246.160.2/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="Gayelle the Channel HDTV - GAYELLE.tt" tvg-logo="https://crm.tegotv.com/assets/live_tv/1585189209859_Gayelle_Mobile_300x300.jpg",Gayelle The Caribbean
+http://170.246.160.2/ttorigin01/live/smil:GAYELLE.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="IBN.tt" tvg-logo="https://static.epg.best/tt/IslamicBroadcastingNetwork.tt.png",IBN TT
+http://170.246.160.2/ttorigin03/live/smil:IBN.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="PARCAR.tt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",PARLIAMENT CHANNEL
+http://170.246.160.2/ttorigin01/live/smil:PARLIAMENT.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="SYNERGY.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/SynergyTV.jpg",Synergy TV
+http://170.246.160.2/ttorigin01/live/smil:SYNERGY.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="Government Information Services Ltd. - GISL.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",GISL TT
+http://170.246.160.2/ttorigin01/live/smil:TIC4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="Trinity TV - Columbus - TTV.tt" tvg-logo="http://ky-iptv.com:80/images/594d85f50f1c7c9b6ec1860bed536bec.png",Trinity TV
+http://170.246.160.2/ttorigin03/live/smil:TRINITY_TV.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="Music and Entertainment Television - TTEN.tt" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg",TTEN
+http://170.246.160.2/ttorigin03/live/smil:TTEN.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CARIBVN.tt" tvg-logo="https://i.imgur.com/0Y6JHiE.png",TTT
+http://170.246.160.2/ttorigin01/live/smil:TTT.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CCNTV6.tt" tvg-logo="https://i.imgur.com/lPx95FN.png",CCN TV 6
+http://170.246.160.2/ttorigin07/live/smil:TV6.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://pbs.twimg.com/profile_images/1446863458276978688/0NK836lT.jpg",Tobago Updates
+https://cdn01.amplia.tv/LIVE/TABUPDATES/stream_multi.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="WESN HDTV - WESNDT.tt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcazeqV-InN2o6dZWScYxLcfNEXeLzaPTn3z0p46l62NBlDOPTM6A0jiDWgrr3cwE1-VA&usqp=CAU",WESN
+http://170.246.160.2/ttorigin03/live/smil:WESN.smil/chunklist_b2000000.m3u8
