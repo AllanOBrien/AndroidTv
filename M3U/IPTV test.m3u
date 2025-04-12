@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="USA" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png",Bet (East)
-http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="willowcricket.us" tvg-logo="https://media.tv4.live/willow.cricket.us.png",AWE
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
@@ -25,6 +25,7 @@ https://cdn02.amplia.tv/LIVE/SEC/stream_iptv_2500k.m3u8
 working
 https://cdn01.amplia.tv/LIVE/SYNERGY/stream_multi.m3u8
 https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 
 group-title="Adults 24-7"
 group-title="Adults"
