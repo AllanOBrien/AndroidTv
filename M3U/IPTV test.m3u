@@ -1,5 +1,7 @@
-#EXTINF:-1 group-title="SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/330px-Realmadrid_Television_Logo.svg.png",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="USA OS" tvg-logo="https://canvas-lb.tubitv.com/opts/qkYRfPk67gF9EA==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjZAAQ==",Cheaters
+https://live-manifest.production-public.tubi.io/live/6cab8c43-ec2c-47cb-95af-09f5692423ca/playlist.m3u8
+#EXTINF:-1 group-title="USA OS" tvg-logo="https://canvas-lb.tubitv.com/opts/zaeirEKJQW1qmw==/566b6cbc-6c90-4e0c-8a8d-3f25a4b375c4/CHgQeDoFMS4xLjZAAQ==",Love & Desire
+https://live-manifest.production-public.tubi.io/live/33468dcf-4dab-4d61-a9c4-0a592e83e069/playlist.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA OS" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
